@@ -186,6 +186,9 @@ def sparkline_svg(pts, w=640, h=180, standalone=False):
             f'<circle cx="{xy[-1][0]:.1f}" cy="{xy[-1][1]:.1f}" r="4" fill="{col}"/></svg>'), lo, hi
 
 
+GOATCOUNTER = '<script data-goatcounter="https://reefmetax.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
+
+
 def e(s):
     return html.escape(str(s), quote=True)
 
@@ -289,6 +292,7 @@ def render(news, prices, spark, price_stamp, live, articles=()):
 <div class="grid comm-grid">{comm}</div></section>
 </main>
 <footer><div class="wrap"><p><b>Last updated:</b> {e(upd_s)}</p><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a></p><p>&copy; {upd.year} Reef &middot; <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
+{GOATCOUNTER}
 </body>
 </html>
 """
@@ -407,6 +411,7 @@ def page_shell(title, desc, path, body, og_type="website", extra_head=""):
 <nav><div class="wrap"><b>REEF</b><a href="/">Home</a><a href="/#crypto">Crypto</a><a href="/#doginal">Doginal Dogs</a><a href="/articles/">Articles</a></div></nav>
 {body}
 <footer><div class="wrap"><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="/">Home</a></p><p>&copy; {datetime.now(ET).year} Reef &middot; <a href="{AUTHOR_URL}" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
+{GOATCOUNTER}
 </body>
 </html>
 """

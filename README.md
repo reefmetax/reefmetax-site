@@ -79,3 +79,7 @@ The photo is `assets/reef.jpg` (Reef's X profile picture, resized to 400px). Rep
 ## DNS note
 
 The domain's DNS is managed at GoDaddy. For GitHub Pages, set the apex `A` records to 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153 and a `www` CNAME to `<github-username>.github.io`, then enable Pages and HTTPS in the repo settings.
+
+## Analytics
+
+Stats are via GoatCounter (https://reefmetax.goatcounter.com); the snippet lives in the `build.py` templates (`GOATCOUNTER`).
