@@ -1,0 +1,87 @@
+{
+  "updated_at": "2026-10-25T01:20:00Z",
+  "date_label": "Saturday, Oct 24, 2026",
+  "crypto_headlines": [
+    {
+      "title": "Bitcoin slips under $80K, then climbs back",
+      "summary": "BTC fell below $80,000 on Saturday and bounced. Cointelegraph reported $186M liquidated in one hour, bringing the 24-hour total to $838M.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2114018156390084687"
+    },
+    {
+      "title": "Spot Bitcoin ETFs saw outflows over two days",
+      "summary": "X's news summary puts spot Bitcoin ETF outflows above $770M over two days, with traders watching the daily 50 EMA near $80,000 as a key level.",
+      "source": "X News (summary of posts)",
+      "url": "https://x.com/i/trending/2114153704475762761"
+    },
+    {
+      "title": "Record share of ETH is now staked",
+      "summary": "Cointelegraph says about 36% of all ETH supply is now staked, a record.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2114046980213051683"
+    },
+    {
+      "title": "Peter Schiff calls for $75K Bitcoin",
+      "summary": "Peter Schiff said Bitcoin is going to crash to $75,000. Price bounced afterward. The post has passed 320K views.",
+      "source": "Watcher.Guru",
+      "url": "https://x.com/WatcherGuru/status/2114076494570127537"
+    },
+    {
+      "title": "Pump.fun out-earned Hyperliquid for the day",
+      "summary": "Pump.fun took in $1.98M in 24 hours against Hyperliquid's $1.96M, per Cointelegraph.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2114092268743213533"
+    },
+    {
+      "title": "Bitcoin dominance holding near 60%",
+      "summary": "BTC dominance sits around 60.1% to 60.6%, according to an X news summary. Analysts are watching 61.5% above and 58% below.",
+      "source": "X News (summary of posts)",
+      "url": "https://x.com/i/trending/2113944088924041715"
+    }
+  ],
+  "doginal_news": [
+    {
+      "tag": "DDLTCG",
+      "title": "First official DDLTCG Championship announced",
+      "summary": "Doginal Dogs Legends TCG announced its first official Championship, an in-person tournament where top players from around the world go head to head. Details are in the post.",
+      "source": "@DDLTCG",
+      "url": "https://x.com/DDLTCG/status/2114028186531185082"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "North Carolina tournament goes live",
+      "summary": "The community's DDLTCG tournament for the NC Do Only Good Foundation went live Saturday evening, with games starting soon after. Several community members posted about it.",
+      "source": "@MetalXMeta",
+      "url": "https://x.com/MetalXMeta/status/2114090639402889565"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "CGC starts authenticating DDLTCG cards",
+      "summary": "A community member says CGC has started authenticating Legends TCG cards, and that cards have also been sent to BGS and PSA.",
+      "source": "@JinMeta",
+      "url": "https://x.com/JinMeta/status/2114090850732941329"
+    },
+    {
+      "tag": "Doginal Dogs",
+      "title": "DDMiami 2026 Rooftop Kick-Off set for Dec 7",
+      "summary": "Per a Dogecoin Daily recap of the Oct 23 Finance Show, Shibo previewed the Dec 7 Rooftop Kick-Off from 8 to 11 p.m. as the team preps DDMiami 2026.",
+      "source": "@dogecoindailydd",
+      "url": "https://x.com/dogecoindailydd/status/2113692098675519804"
+    },
+    {
+      "tag": "Pyth",
+      "title": "New Pyth Pro additions are live",
+      "summary": "Pyth Pro added 14 new US Treasury indices, expanded commodity futures coverage and more 24/7 crypto feeds.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2113731782525018258"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Pyth data behind $2T+ of Q3 volume",
+      "summary": "Pyth says its data powered more than $2 trillion in notional volume on traditional assets across offshore derivatives venues in Q3, around $1.3 trillion of it in equity perps.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2113345177293295870"
+    }
+  ],
+  "notes": "Doginal Dogs and DDLTCG's own accounts mostly reposted community posts today, so the items above link to the original community and official posts. Summaries are written from the linked posts. Not financial advice."
+}
