@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reefmetax.com/sitemap.xml
