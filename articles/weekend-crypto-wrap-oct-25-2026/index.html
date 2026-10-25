@@ -115,6 +115,18 @@ footer b{color:var(--text)}
 .page-head{padding:44px 0 8px}
 .page-head h1{font-size:clamp(34px,8vw,56px);margin:0 0 8px}
 @media(min-width:700px){.art-list{grid-template-columns:1fr 1fr}}
+.news{background:linear-gradient(135deg,rgba(255,138,61,.12),rgba(46,230,197,.08)),var(--panel);border:1px solid var(--line);border-radius:16px;padding:22px 18px}
+.news h2{font-size:24px;margin-bottom:6px}
+.news p{color:#b9c6d6;font-size:15px;margin-bottom:14px}
+.news form{display:flex;flex-direction:column;gap:10px}
+.news label{font-size:13px;color:var(--muted);font-weight:600}
+.news input[type=email]{width:100%;min-height:48px;padding:12px 14px;border-radius:12px;border:1px solid var(--line);background:var(--bg);color:var(--text);font:inherit;font-size:16px}
+.news input[type=email]:focus{outline:2px solid var(--teal);outline-offset:1px;border-color:var(--teal)}
+.news input[type=submit]{min-height:48px;padding:12px 22px;border:0;border-radius:12px;background:linear-gradient(90deg,var(--orange),#ffb07a);color:#1a1006;font:inherit;font-weight:700;font-size:16px;cursor:pointer}
+.news input[type=submit]:hover{transform:translateY(-1px)}
+.news .fine{margin-top:10px}
+.news.in-article{margin:34px 0 0}
+@media(min-width:700px){.news form{flex-direction:row;flex-wrap:wrap;align-items:flex-end}.news form label{flex:0 0 100%}.news input[type=email]{flex:1 1 260px;width:auto}}
 
 </style>
 </head>
@@ -141,8 +153,8 @@ footer b{color:var(--text)}
 <p>Weekends can be quiet or wild, and one wild day tells you very little by itself. I will keep posting updates on the homepage and on X.</p>
 <p>Not financial advice. Do your own research.</p>
 <h2>Sources</h2>
-<ul class="sources"><li>The Block, <a href="https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608" target="_blank" rel="noopener">Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000</a> (Oct 24, 2026)</li><li>CoinGecko, <a href="https://www.coingecko.com/en/coins/bitcoin" target="_blank" rel="noopener">Bitcoin</a>, <a href="https://www.coingecko.com/en/coins/ethereum" target="_blank" rel="noopener">Ethereum</a>, <a href="https://www.coingecko.com/en/coins/solana" target="_blank" rel="noopener">Solana</a>, <a href="https://www.coingecko.com/en/coins/dogecoin" target="_blank" rel="noopener">Dogecoin</a> and <a href="https://www.coingecko.com/en/coins/pyth-network" target="_blank" rel="noopener">Pyth Network</a> price data via the CoinGecko API</li></ul></div><p class="disclaimer">Not financial advice. This is general information, not a recommendation to buy or sell anything. Do your own research.</p><a class="back" style="margin-top:26px" href="/articles/">&larr; Back to all articles</a></article></main>
-<footer><div class="wrap"><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="/">Home</a></p><p>&copy; 2026 Reef &middot; <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
+<ul class="sources"><li>The Block, <a href="https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608" target="_blank" rel="noopener">Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000</a> (Oct 24, 2026)</li><li>CoinGecko, <a href="https://www.coingecko.com/en/coins/bitcoin" target="_blank" rel="noopener">Bitcoin</a>, <a href="https://www.coingecko.com/en/coins/ethereum" target="_blank" rel="noopener">Ethereum</a>, <a href="https://www.coingecko.com/en/coins/solana" target="_blank" rel="noopener">Solana</a>, <a href="https://www.coingecko.com/en/coins/dogecoin" target="_blank" rel="noopener">Dogecoin</a> and <a href="https://www.coingecko.com/en/coins/pyth-network" target="_blank" rel="noopener">Pyth Network</a> price data via the CoinGecko API</li></ul></div><p class="disclaimer">Not financial advice. This is general information, not a recommendation to buy or sell anything. Do your own research.</p><div class="news in-article"><h2>Join the pack</h2><p><b>Reef's Pack Report</b>: Weekly Doginal Dogs, DDLTCG and crypto news from Reef. No spam.</p><form action="https://buttondown.com/api/emails/embed-subscribe/reefmetax" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/reefmetax', 'popupwindow')" class="newsletter-form"><label for="bd-email">Enter your email</label> <input type="email" name="email" id="bd-email" required autocomplete="email" /> <input type="submit" value="Subscribe" /></form></div><a class="back" style="margin-top:26px" href="/articles/">&larr; Back to all articles</a></article></main>
+<footer><div class="wrap"><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="https://buttondown.com/reefmetax" target="_blank" rel="noopener">Newsletter</a> &middot; <a href="/">Home</a></p><p>&copy; 2026 Reef &middot; <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
 <script data-goatcounter="https://reefmetax.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

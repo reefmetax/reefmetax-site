@@ -119,6 +119,18 @@ footer b{color:var(--text)}
 .page-head{padding:44px 0 8px}
 .page-head h1{font-size:clamp(34px,8vw,56px);margin:0 0 8px}
 @media(min-width:700px){.art-list{grid-template-columns:1fr 1fr}}
+.news{background:linear-gradient(135deg,rgba(255,138,61,.12),rgba(46,230,197,.08)),var(--panel);border:1px solid var(--line);border-radius:16px;padding:22px 18px}
+.news h2{font-size:24px;margin-bottom:6px}
+.news p{color:#b9c6d6;font-size:15px;margin-bottom:14px}
+.news form{display:flex;flex-direction:column;gap:10px}
+.news label{font-size:13px;color:var(--muted);font-weight:600}
+.news input[type=email]{width:100%;min-height:48px;padding:12px 14px;border-radius:12px;border:1px solid var(--line);background:var(--bg);color:var(--text);font:inherit;font-size:16px}
+.news input[type=email]:focus{outline:2px solid var(--teal);outline-offset:1px;border-color:var(--teal)}
+.news input[type=submit]{min-height:48px;padding:12px 22px;border:0;border-radius:12px;background:linear-gradient(90deg,var(--orange),#ffb07a);color:#1a1006;font:inherit;font-weight:700;font-size:16px;cursor:pointer}
+.news input[type=submit]:hover{transform:translateY(-1px)}
+.news .fine{margin-top:10px}
+.news.in-article{margin:34px 0 0}
+@media(min-width:700px){.news form{flex-direction:row;flex-wrap:wrap;align-items:flex-end}.news form label{flex:0 0 100%}.news input[type=email]{flex:1 1 260px;width:auto}}
 """
 
 
@@ -187,6 +199,22 @@ def sparkline_svg(pts, w=640, h=180, standalone=False):
 
 
 GOATCOUNTER = '<script data-goatcounter="https://reefmetax.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
+
+
+NEWSLETTER_URL = "https://buttondown.com/reefmetax"
+NEWSLETTER_FORM = (
+    '<form action="https://buttondown.com/api/emails/embed-subscribe/reefmetax" method="post" target="popupwindow" '
+    'onsubmit="window.open(\'https://buttondown.com/reefmetax\', \'popupwindow\')" class="newsletter-form">'
+    '<label for="bd-email">Enter your email</label> '
+    '<input type="email" name="email" id="bd-email" required autocomplete="email" /> '
+    '<input type="submit" value="Subscribe" /></form>')
+
+
+def newsletter_block(extra_class=""):
+    cls = ("news " + extra_class).strip()
+    return (f'<div class="{cls}"><h2>Join the pack</h2>'
+            f"<p><b>Reef's Pack Report</b>: Weekly Doginal Dogs, DDLTCG and crypto news from Reef. No spam.</p>"
+            f'{NEWSLETTER_FORM}</div>')
 
 
 def e(s):
@@ -290,8 +318,9 @@ def render(news, prices, spark, price_stamp, live, articles=()):
 <div class="art-list">{teaser_html}</div><a class="more-link" href="/articles/">All articles &rarr;</a></section>
 <section id="community"><h2>Community</h2><p class="sub">Follow the pack on X</p>
 <div class="grid comm-grid">{comm}</div></section>
+<section id="newsletter">{newsletter_block()}</section>
 </main>
-<footer><div class="wrap"><p><b>Last updated:</b> {e(upd_s)}</p><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a></p><p>&copy; {upd.year} Reef &middot; <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
+<footer><div class="wrap"><p><b>Last updated:</b> {e(upd_s)}</p><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="{NEWSLETTER_URL}" target="_blank" rel="noopener">Newsletter</a></p><p>&copy; {upd.year} Reef &middot; <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
 {GOATCOUNTER}
 </body>
 </html>
@@ -410,7 +439,7 @@ def page_shell(title, desc, path, body, og_type="website", extra_head=""):
 <body>
 <nav><div class="wrap"><b>REEF</b><a href="/">Home</a><a href="/#crypto">Crypto</a><a href="/#doginal">Doginal Dogs</a><a href="/articles/">Articles</a></div></nav>
 {body}
-<footer><div class="wrap"><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="/">Home</a></p><p>&copy; {datetime.now(ET).year} Reef &middot; <a href="{AUTHOR_URL}" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
+<footer><div class="wrap"><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="{NEWSLETTER_URL}" target="_blank" rel="noopener">Newsletter</a> &middot; <a href="/">Home</a></p><p>&copy; {datetime.now(ET).year} Reef &middot; <a href="{AUTHOR_URL}" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
 {GOATCOUNTER}
 </body>
 </html>
@@ -431,6 +460,7 @@ def render_article(a):
             f'<div><b>By <a href="{AUTHOR_URL}" target="_blank" rel="noopener">{AUTHOR}</a></b><span>{AUTHOR_ROLE} &middot; {date_str(a["date"])} &middot; {a["minutes"]} min read</span></div></div>'
             f'<div class="prose">{a["body_html"]}</div>'
             f'<p class="disclaimer">Not financial advice. This is general information, not a recommendation to buy or sell anything. Do your own research.</p>'
+            f'{newsletter_block("in-article")}'
             f'<a class="back" style="margin-top:26px" href="/articles/">&larr; Back to all articles</a></article></main>')
     return page_shell(f'{a["title"]} | Reef', a["description"], path, body, og_type="article", extra_head=extra)
 
@@ -440,6 +470,7 @@ def render_articles_index(arts):
     body = (f'<main class="wrap"><div class="page-head"><h1><span style="background:linear-gradient(90deg,var(--orange),var(--teal));-webkit-background-clip:text;background-clip:text;color:transparent">Articles</span></h1>'
             f'<p class="sub">Plain-English write-ups on Doginal Dogs, crypto and Pyth, by Reef. <a href="/feed.xml" style="color:var(--teal)">RSS</a></p></div>'
             f'<section style="padding-top:12px"><div class="art-list">{cards}</div></section>'
+            f'<section>{newsletter_block()}</section>'
             f'<section>{about_block()}</section></main>')
     return page_shell("Articles | Reef | Community Builder", "Plain-English articles on Doginal Dogs, crypto markets and Pyth Network, written by Reef, Community Builder.", "/articles/", body)
 
