@@ -1,87 +1,87 @@
 {
-  "updated_at": "2026-10-25T12:45:00Z",
-  "date_label": "Sunday, Oct 25, 2026",
+  "updated_at": "2026-10-26T12:42:26Z",
+  "date_label": "Monday, Oct 26, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin closes at a 30-day low near $80,500",
-      "summary": "CryptoQuant's Axel Adler says BTC closed Saturday at $80,500, a new 30-day low, after bouncing off its 365-day moving average. He notes tight ranges like this usually end with a sharp move.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114287850879365471"
-    },
-    {
-      "title": "Middle East tensions keep crypto under pressure",
-      "summary": "X's news summary ties the weekend drop under $80,000 to rising US-Iran tensions, with more than $200M in leveraged longs liquidated in one hour. BTC was stabilizing near $80,000 by Sunday.",
-      "source": "X News (summary of posts)",
-      "url": "https://x.com/i/trending/2114040161508159895"
-    },
-    {
-      "title": "Spot Bitcoin ETFs log back-to-back outflows",
-      "summary": "Per X's news summary, US spot Bitcoin ETFs saw $635.6M leave on Oct 22, the biggest one-day outflow since June, followed by $137.9M on Oct 23, led by BlackRock's IBIT.",
-      "source": "X News (summary of posts)",
-      "url": "https://x.com/i/trending/2113983563804926103"
-    },
-    {
-      "title": "X to add $1 tips on the like button",
-      "summary": "Elon Musk says X is adding a long-press on the like button that sends someone $1 through X Money.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114228162401816590"
-    },
-    {
-      "title": "Keystone wallet site breach exposes customer data",
-      "summary": "Hardware wallet maker Keystone says attackers accessed its website and took customer names, contact details, home addresses and order info. Seed phrases and keys were not affected, so watch for fake support scams.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114130034633916432"
-    },
-    {
-      "title": "Cardone Capital buys the dip",
-      "summary": "Bitcoin Magazine reports Cardone Capital bought 16 BTC worth about $1.28M during the pullback.",
+      "title": "Strive buys 6,182 BTC, now holds 43,000",
+      "summary": "Bitcoin Magazine reports Nasdaq-listed Strive bought 6,182 Bitcoin for $511.4M, bringing its treasury to 43,000 BTC.",
       "source": "Bitcoin Magazine",
-      "url": "https://x.com/BitcoinMagazine/status/2114129011752178077"
+      "url": "https://x.com/BitcoinMagazine/status/2114689507127648538"
+    },
+    {
+      "title": "Bitcoin ETFs back to inflows last week",
+      "summary": "US spot BTC ETFs took in a net $442.67M last week and XRP ETFs $4.25M, while ETH ETFs saw $224.96M leave and SOL ETFs $17.3M.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2114613265867096192"
+    },
+    {
+      "title": "Vanguard takes a stake in Metaplanet",
+      "summary": "Watcher.Guru reports Vanguard bought $7.5M worth of shares in Japanese Bitcoin treasury company Metaplanet.",
+      "source": "Watcher.Guru",
+      "url": "https://x.com/WatcherGuru/status/2114691155552313556"
+    },
+    {
+      "title": "BTC and gold are 2026's weakest major assets so far",
+      "summary": "Per Charlie Bilello, Bitcoin is down 7.3% and gold 7.5% for the year so far, the first time both have been the worst-performing majors in the same year.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2114598119467778182"
+    },
+    {
+      "title": "Big macro week: Fed decision Wednesday",
+      "summary": "The October Fed rate decision lands Wednesday, with September PCE inflation and Q3 GDP on Thursday, plus Microsoft, Alphabet, Amazon and Intel earnings.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2114590554906321062"
+    },
+    {
+      "title": "Blast's normal withdrawal page closes today",
+      "summary": "As the Blast L2 shuts down, its standard withdrawal interface closes today. After that, withdrawals need direct interaction with the Ethereum bridge contracts.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2114653138078646420"
     }
   ],
   "doginal_news": [
     {
       "tag": "DDLTCG",
-      "title": "NC tournament trends on X",
-      "summary": "The community's DDLTCG tournament in North Carolina, played for the NC Do Only Good Foundation, ran into Saturday night and pushed Doginal Dogs into X's trending list.",
+      "title": "Andmetax takes the Charlotte pop-out crown",
+      "summary": "RealMj congratulated Andmetax on winning the Charlotte, North Carolina DDLTCG pop-out and thanked everyone who helped Rise of the Pack trend in NC. Next stop is the official Championship in Miami.",
       "source": "@realmjmetax",
-      "url": "https://x.com/realmjmetax/status/2114161495089012757"
+      "url": "https://x.com/realmjmetax/status/2114393719273054573"
     },
     {
       "tag": "DDLTCG",
-      "title": "First official DDLTCG Championship announced",
-      "summary": "Doginal Dogs Legends TCG announced its first official Championship, an in-person tournament for the top players from around the world. Details are in the post.",
-      "source": "@DDLTCG",
-      "url": "https://x.com/DDLTCG/status/2114028186531185082"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Cards headed for grading",
-      "summary": "A community member says CGC has started authenticating Legends TCG cards, with more sent to BGS and PSA.",
-      "source": "@JinMeta",
-      "url": "https://x.com/JinMeta/status/2114090850732941329"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Hobby shop play draws new faces",
-      "summary": "Playing DDL at a local hobby shop brought curious customers asking about the art and the boxes, with thanks to the event hosts.",
-      "source": "@JinMeta",
-      "url": "https://x.com/JinMeta/status/2114122109676835007"
+      "title": "Players gear up for the DDMIAMI 2026 Championship",
+      "summary": "Andmetax shared how he is preparing for the DDMIAMI 2026 Official Championship and shouted out the players he faced in person.",
+      "source": "@Andmetax",
+      "url": "https://x.com/Andmetax/status/2114408695413284957"
     },
     {
       "tag": "Doginal Dogs",
-      "title": "Marketplace wallet setup guide",
-      "summary": "A community walkthrough shows how to set up a wallet on the Doginal Dogs marketplace, add X verification and get around the site.",
-      "source": "@MotionMetaX",
-      "url": "https://x.com/MotionMetaX/status/2114101225415123295"
+      "title": "Make It Memorable. Make It Doginal.",
+      "summary": "Community members spent Sunday posting their own takes on the \"Make It Memorable. Make It Doginal.\" theme, and @doginaldogs reposted a stack of them.",
+      "source": "@funkchan",
+      "url": "https://x.com/funkchan/status/2114361006063517942"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Big card pull clip",
+      "summary": "GRT shared a pack-opening video of what he calls one of the deadliest cards pulled, reposted by @doginaldogs.",
+      "source": "@GRTonX",
+      "url": "https://x.com/GRTonX/status/2114472786764894635"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth Pro MCP Server 1.1 in the spotlight",
-      "summary": "Community posts are highlighting Pyth Pro MCP Server 1.1, which lets AI agents pull tick-level price history and look up pairs by name across crypto, equities, FX and more.",
-      "source": "@kuznetsjeka",
-      "url": "https://x.com/kuznetsjeka/status/2114285603730887025"
+      "title": "\"Big Pyth week ahead\"",
+      "summary": "PIRB is teasing a big week for Pyth Network, and Monday's Pyth Wheel spins have reset for the community.",
+      "source": "@thePIRB",
+      "url": "https://x.com/thePIRB/status/2114494444984827965"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Pyth and around-the-clock stock trading",
+      "summary": "MSB Intel notes Nasdaq plans 23-hour US stock trading from December 6, and says Pyth data powered more than $2 trillion in Q3 notional volume on traditional assets on venues that already trade every hour of the week.",
+      "source": "@MSBIntel",
+      "url": "https://x.com/MSBIntel/status/2114439350448697454"
     }
   ],
-  "notes": "Doginal Dogs and DDLTCG's own accounts mostly reposted community posts in the last 24 hours, and @PythNetwork had no new standalone posts, so items link to the original community posts. Summaries are written from the linked posts. Not financial advice."
+  "notes": "No new original posts from @doginaldogs or @PythNetwork in the last 24 hours (reposts and replies only), so these items come from community posts they shared or replied to."
 }
