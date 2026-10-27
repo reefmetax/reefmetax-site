@@ -1,87 +1,87 @@
 {
-  "updated_at": "2026-10-26T12:42:26Z",
-  "date_label": "Monday, Oct 26, 2026",
+  "updated_at": "2026-10-27T12:39:01Z",
+  "date_label": "Tuesday, Oct 27, 2026",
   "crypto_headlines": [
     {
-      "title": "Strive buys 6,182 BTC, now holds 43,000",
-      "summary": "Bitcoin Magazine reports Nasdaq-listed Strive bought 6,182 Bitcoin for $511.4M, bringing its treasury to 43,000 BTC.",
-      "source": "Bitcoin Magazine",
-      "url": "https://x.com/BitcoinMagazine/status/2114689507127648538"
-    },
-    {
-      "title": "Bitcoin ETFs back to inflows last week",
-      "summary": "US spot BTC ETFs took in a net $442.67M last week and XRP ETFs $4.25M, while ETH ETFs saw $224.96M leave and SOL ETFs $17.3M.",
+      "title": "BTC ETFs keep inflows while ETH, SOL and XRP funds see outflows",
+      "summary": "US spot Bitcoin ETFs took in a net $110.34M on Oct. 26, while ETH ETFs saw $88.58M leave, SOL $8.23M and XRP $3.61M.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114613265867096192"
+      "url": "https://x.com/Cointelegraph/status/2114975644723368016"
     },
     {
-      "title": "Vanguard takes a stake in Metaplanet",
-      "summary": "Watcher.Guru reports Vanguard bought $7.5M worth of shares in Japanese Bitcoin treasury company Metaplanet.",
-      "source": "Watcher.Guru",
-      "url": "https://x.com/WatcherGuru/status/2114691155552313556"
+      "title": "Ripple gets OCC approval for a national trust bank",
+      "summary": "CoinDesk reports Ripple received OCC approval to launch Ripple National Trust Bank, making it a federally chartered trust institution in the US.",
+      "source": "CoinDesk",
+      "url": "https://x.com/CoinDesk/status/2115021684155793578"
     },
     {
-      "title": "BTC and gold are 2026's weakest major assets so far",
-      "summary": "Per Charlie Bilello, Bitcoin is down 7.3% and gold 7.5% for the year so far, the first time both have been the worst-performing majors in the same year.",
+      "title": "Binance files for a crypto license in Brazil",
+      "summary": "Binance applied to Brazil's central bank to operate as a virtual asset service provider ahead of the Oct. 30 deadline, and per Wu Blockchain is restricting 8 services and delisting 22 tokens there.",
+      "source": "Wu Blockchain",
+      "url": "https://x.com/WuBlockchain/status/2115026850997223608"
+    },
+    {
+      "title": "SBI and BlackRock explore tokenized funds with a yen stablecoin",
+      "summary": "SBI Group and BlackRock signed an MOU to explore connecting BlackRock's tokenized money market funds with SBI's yen stablecoin JPYSC.",
+      "source": "CoinDesk",
+      "url": "https://x.com/CoinDesk/status/2115038850913284112"
+    },
+    {
+      "title": "Crypto industry has spent about $176M on US midterm races",
+      "summary": "Per Reuters, the crypto industry has spent roughly $176M across more than 100 US midterm races to build bipartisan support in Congress.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114598119467778182"
+      "url": "https://x.com/Cointelegraph/status/2115043555110420738"
     },
     {
-      "title": "Big macro week: Fed decision Wednesday",
-      "summary": "The October Fed rate decision lands Wednesday, with September PCE inflation and Q3 GDP on Thursday, plus Microsoft, Alphabet, Amazon and Intel earnings.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114590554906321062"
-    },
-    {
-      "title": "Blast's normal withdrawal page closes today",
-      "summary": "As the Blast L2 shuts down, its standard withdrawal interface closes today. After that, withdrawals need direct interaction with the Ethereum bridge contracts.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114653138078646420"
+      "title": "Binance says it blocked North Korea-linked attacks",
+      "summary": "Binance said its security team identified and blocked multiple North Korea-linked cyberattacks over the past week, with no asset losses.",
+      "source": "Wu Blockchain",
+      "url": "https://x.com/WuBlockchain/status/2115043488089932007"
     }
   ],
   "doginal_news": [
     {
-      "tag": "DDLTCG",
-      "title": "Andmetax takes the Charlotte pop-out crown",
-      "summary": "RealMj congratulated Andmetax on winning the Charlotte, North Carolina DDLTCG pop-out and thanked everyone who helped Rise of the Pack trend in NC. Next stop is the official Championship in Miami.",
-      "source": "@realmjmetax",
-      "url": "https://x.com/realmjmetax/status/2114393719273054573"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Players gear up for the DDMIAMI 2026 Championship",
-      "summary": "Andmetax shared how he is preparing for the DDMIAMI 2026 Official Championship and shouted out the players he faced in person.",
-      "source": "@Andmetax",
-      "url": "https://x.com/Andmetax/status/2114408695413284957"
-    },
-    {
       "tag": "Doginal Dogs",
-      "title": "Make It Memorable. Make It Doginal.",
-      "summary": "Community members spent Sunday posting their own takes on the \"Make It Memorable. Make It Doginal.\" theme, and @doginaldogs reposted a stack of them.",
-      "source": "@funkchan",
-      "url": "https://x.com/funkchan/status/2114361006063517942"
+      "title": "Marketplace listing flaw drains dogs",
+      "summary": "JonXDG says a design flaw in a Doginal Dogs marketplace's listing signatures let anyone take listed dogs without paying, and counts 201 dogs drained, including his #6398. If you have open listings there, check them.",
+      "source": "@jontype",
+      "url": "https://x.com/jontype/status/2114922340035580330"
     },
     {
       "tag": "DDLTCG",
-      "title": "Big card pull clip",
-      "summary": "GRT shared a pack-opening video of what he calls one of the deadliest cards pulled, reposted by @doginaldogs.",
-      "source": "@GRTonX",
-      "url": "https://x.com/GRTonX/status/2114472786764894635"
+      "title": "DDLTCG boxes land in Australia",
+      "summary": "Koa shared that boxes of the Doginal Dogs Legends Trading Card Game arrived in Australia and thanked the DDLTCG team for making it happen.",
+      "source": "@KoaXmeta",
+      "url": "https://x.com/KoaXmeta/status/2114948782261743820"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "New Boogie full art page",
+      "summary": "homeMetaX shared a Boogie full art page for DDLTCG, one card with eight inserts extending the artwork, and @DDLTCG reposted it.",
+      "source": "@homeMetaX",
+      "url": "https://x.com/homeMetaX/status/2114834428371636444"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "The real people behind DDL card names",
+      "summary": "BooMetaX pointed out that many Legends card names belong to real people and pets in the community, and asked players for their favorite card. @DDLTCG reposted it.",
+      "source": "@BooMetaX",
+      "url": "https://x.com/BooMetaX/status/2114847265345196459"
     },
     {
       "tag": "Pyth",
-      "title": "\"Big Pyth week ahead\"",
-      "summary": "PIRB is teasing a big week for Pyth Network, and Monday's Pyth Wheel spins have reset for the community.",
-      "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2114494444984827965"
+      "title": "Pyth's 24/7 Anthropic index after the S-1 filing",
+      "summary": "After Anthropic filed its S-1, Pyth highlighted its 24/7 Anthropic index that exchanges and prediction platforms can use to power their markets.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2114793439544098879"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth and around-the-clock stock trading",
-      "summary": "MSB Intel notes Nasdaq plans 23-hour US stock trading from December 6, and says Pyth data powered more than $2 trillion in Q3 notional volume on traditional assets on venues that already trade every hour of the week.",
+      "title": "Brazil ETF perps priced on Pyth after the runoff",
+      "summary": "MSB Intel reports perps on BlackRock's Brazil ETF (EWZ) traded $218M between Sunday's runoff poll close and the US morning, 99% priced on Pyth. Pyth reposted it.",
       "source": "@MSBIntel",
-      "url": "https://x.com/MSBIntel/status/2114439350448697454"
+      "url": "https://x.com/MSBIntel/status/2115028236258144276"
     }
   ],
-  "notes": "No new original posts from @doginaldogs or @PythNetwork in the last 24 hours (reposts and replies only), so these items come from community posts they shared or replied to."
+  "notes": "Doginal Dogs and DDLTCG items are from community posts the official accounts reposted or that we checked on X in the last 24 hours."
 }
