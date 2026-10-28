@@ -1,87 +1,80 @@
 {
-  "updated_at": "2026-10-27T12:39:01Z",
-  "date_label": "Tuesday, Oct 27, 2026",
+  "updated_at": "2026-10-28T12:34:38Z",
+  "date_label": "Wednesday, Oct 28, 2026",
   "crypto_headlines": [
     {
-      "title": "BTC ETFs keep inflows while ETH, SOL and XRP funds see outflows",
-      "summary": "US spot Bitcoin ETFs took in a net $110.34M on Oct. 26, while ETH ETFs saw $88.58M leave, SOL $8.23M and XRP $3.61M.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2114975644723368016"
-    },
-    {
-      "title": "Ripple gets OCC approval for a national trust bank",
-      "summary": "CoinDesk reports Ripple received OCC approval to launch Ripple National Trust Bank, making it a federally chartered trust institution in the US.",
-      "source": "CoinDesk",
-      "url": "https://x.com/CoinDesk/status/2115021684155793578"
-    },
-    {
-      "title": "Binance files for a crypto license in Brazil",
-      "summary": "Binance applied to Brazil's central bank to operate as a virtual asset service provider ahead of the Oct. 30 deadline, and per Wu Blockchain is restricting 8 services and delisting 22 tokens there.",
+      "title": "DTCC launches its tokenization service",
+      "summary": "DTCC's Tokenization Service is live with 34 securities at launch, including selected large-cap Russell 1000 stocks, ETFs and US Treasuries, initially on Canton Network and Besu.",
       "source": "Wu Blockchain",
-      "url": "https://x.com/WuBlockchain/status/2115026850997223608"
+      "url": "https://x.com/WuBlockchain/status/2115415702928830857"
     },
     {
-      "title": "SBI and BlackRock explore tokenized funds with a yen stablecoin",
-      "summary": "SBI Group and BlackRock signed an MOU to explore connecting BlackRock's tokenized money market funds with SBI's yen stablecoin JPYSC.",
-      "source": "CoinDesk",
-      "url": "https://x.com/CoinDesk/status/2115038850913284112"
-    },
-    {
-      "title": "Crypto industry has spent about $176M on US midterm races",
-      "summary": "Per Reuters, the crypto industry has spent roughly $176M across more than 100 US midterm races to build bipartisan support in Congress.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2115043555110420738"
-    },
-    {
-      "title": "Binance says it blocked North Korea-linked attacks",
-      "summary": "Binance said its security team identified and blocked multiple North Korea-linked cyberattacks over the past week, with no asset losses.",
+      "title": "BTC ETFs add $176M while ETH ETFs see outflows",
+      "summary": "Per SoSoValue, US spot Bitcoin ETFs took in a net $176M on Oct. 27, led by BlackRock's IBIT at $151M, while spot Ethereum ETFs saw a net $60.22M leave.",
       "source": "Wu Blockchain",
-      "url": "https://x.com/WuBlockchain/status/2115043488089932007"
+      "url": "https://x.com/WuBlockchain/status/2115348789360042364"
+    },
+    {
+      "title": "Bitcoin heads for a second straight red October",
+      "summary": "Per CryptoQuant, Bitcoin is down 4.2% for the month so far. The Fed's FOMC decision lands today, with Chair Warsh's press conference at 2:30 p.m. ET.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2115322743189102767"
+    },
+    {
+      "title": "Moody's rates Ripple's RLUSD stablecoin",
+      "summary": "Moody's assigned RLUSD A2 long-term and P-1 short-term ratings, citing reserves held mostly in US Treasurys and cash.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2115330281620078814"
+    },
+    {
+      "title": "Ita\u00fa becomes first bank registered for crypto under Brazil's new rules",
+      "summary": "Brazil's largest private bank formally registered crypto trading and custody with the central bank two days before the Oct. 30 deadline, offering 15 crypto assets including BTC, ETH and SOL.",
+      "source": "CoinDesk",
+      "url": "https://x.com/CoinDesk/status/2115396849548906777"
+    },
+    {
+      "title": "Thailand's Supreme Court recognizes Bitcoin as property",
+      "summary": "Watcher.Guru reports Thailand's Supreme Court officially recognized Bitcoin as legal property.",
+      "source": "Watcher.Guru",
+      "url": "https://x.com/WatcherGuru/status/2115405203457655125"
     }
   ],
   "doginal_news": [
     {
-      "tag": "Doginal Dogs",
-      "title": "Marketplace listing flaw drains dogs",
-      "summary": "JonXDG says a design flaw in a Doginal Dogs marketplace's listing signatures let anyone take listed dogs without paying, and counts 201 dogs drained, including his #6398. If you have open listings there, check them.",
-      "source": "@jontype",
-      "url": "https://x.com/jontype/status/2114922340035580330"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "DDLTCG boxes land in Australia",
-      "summary": "Koa shared that boxes of the Doginal Dogs Legends Trading Card Game arrived in Australia and thanked the DDLTCG team for making it happen.",
-      "source": "@KoaXmeta",
-      "url": "https://x.com/KoaXmeta/status/2114948782261743820"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "New Boogie full art page",
-      "summary": "homeMetaX shared a Boogie full art page for DDLTCG, one card with eight inserts extending the artwork, and @DDLTCG reposted it.",
-      "source": "@homeMetaX",
-      "url": "https://x.com/homeMetaX/status/2114834428371636444"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "The real people behind DDL card names",
-      "summary": "BooMetaX pointed out that many Legends card names belong to real people and pets in the community, and asked players for their favorite card. @DDLTCG reposted it.",
-      "source": "@BooMetaX",
-      "url": "https://x.com/BooMetaX/status/2114847265345196459"
-    },
-    {
       "tag": "Pyth",
-      "title": "Pyth's 24/7 Anthropic index after the S-1 filing",
-      "summary": "After Anthropic filed its S-1, Pyth highlighted its 24/7 Anthropic index that exchanges and prediction platforms can use to power their markets.",
+      "title": "Pyth Indices and the Longer Trading Day",
+      "summary": "Pyth's new article says the Terminal catalog lists 75 stable Pyth Index feeds and 23 coming soon as of Oct. 27, up from 17 products at the June launch, with Kalshi, Coinbase, Kraken, OKX and Lighter using them.",
       "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2114793439544098879"
+      "url": "https://x.com/PythNetwork/status/2115131166743285917"
     },
     {
       "tag": "Pyth",
-      "title": "Brazil ETF perps priced on Pyth after the runoff",
-      "summary": "MSB Intel reports perps on BlackRock's Brazil ETF (EWZ) traded $218M between Sunday's runoff poll close and the US morning, 99% priced on Pyth. Pyth reposted it.",
-      "source": "@MSBIntel",
-      "url": "https://x.com/MSBIntel/status/2115028236258144276"
+      "title": "PIRB on Pyth prices through weekend turbulence",
+      "summary": "PIRB highlighted how Pyth kept delivering prices for EWZ through last weekend's market turbulence.",
+      "source": "@thePIRB",
+      "url": "https://x.com/thePIRB/status/2115214647255319018"
+    },
+    {
+      "tag": "Doginal Dogs",
+      "title": "Surprise packages reach the community",
+      "summary": "Twin shared a surprise package from Bark, GodsBurnt, Shield and Doginal Dogs, and @doginaldogs and @DDLTCG both reposted it.",
+      "source": "@TwinTowerCity",
+      "url": "https://x.com/TwinTowerCity/status/2115326226676219987"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Sneak peek at the next Masterset page",
+      "summary": "homeMetaX shared work-in-progress looks at the next DDLTCG Masterset page, and @DDLTCG reposted it.",
+      "source": "@homeMetaX",
+      "url": "https://x.com/homeMetaX/status/2115202391108719094"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Grading tip: check card backs",
+      "summary": "And sent seven DDLTCG cards to AGS grading and says visible print lines on the backs cost him two near misses, so check the back before you submit.",
+      "source": "@Andmetax",
+      "url": "https://x.com/Andmetax/status/2115412188961612160"
     }
   ],
-  "notes": "Doginal Dogs and DDLTCG items are from community posts the official accounts reposted or that we checked on X in the last 24 hours."
+  "notes": "No official @doginaldogs statement yet on the marketplace listing exploit; its account posted community reposts only in the last 24 hours."
 }
