@@ -198,6 +198,7 @@ def sparkline_svg(pts, w=640, h=180, standalone=False):
             f'<circle cx="{xy[-1][0]:.1f}" cy="{xy[-1][1]:.1f}" r="4" fill="{col}"/></svg>'), lo, hi
 
 
+LIVE_PRICES = '<script src="/assets/live-prices.js" defer></script>'  # client-side live price refresh
 GOATCOUNTER = '<script data-goatcounter="https://reefmetax.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
 
 
@@ -243,20 +244,20 @@ def render(news, prices, spark, price_stamp, live, articles=()):
             chg = p.get("chg")
             cls = "flat" if chg is None else ("up" if chg >= 0 else "down")
             chg_s = "n/a" if chg is None else f"{'+' if chg >= 0 else ''}{chg:.2f}%"
-            rows += (f'<tr><td><b>{sym}</b> <span class="muted">{name}</span></td>'
-                     f'<td class="num">{fmt_price(sym, p.get("usd"))}</td><td class="num {cls}">{chg_s}</td></tr>')
+            rows += (f'<tr data-coin="{_id}"><td><b>{sym}</b> <span class="muted">{name}</span></td>'
+                     f'<td class="num" data-f="price">{fmt_price(sym, p.get("usd"))}</td><td class="num {cls}" data-f="chg">{chg_s}</td></tr>')
         ps = datetime.fromisoformat(price_stamp).astimezone(ET).strftime("%b %-d, %-I:%M %p ET")
         note = f"Prices from CoinGecko, as of {ps}." + ("" if live else " Live update failed, showing last known prices.")
-        price_html = (f'<div class="card"><table class="prices"><thead><tr><th>Coin</th><th class="num">Price</th>'
-                      f'<th class="num">24h</th></tr></thead><tbody>{rows}</tbody></table><p class="fine">{e(note)}</p></div>')
+        price_html = (f'<div class="card"><table class="prices" data-live><thead><tr><th>Coin</th><th class="num">Price</th>'
+                      f'<th class="num">24h</th></tr></thead><tbody>{rows}</tbody></table><p class="fine" id="price-note">{e(note)}</p></div>')
     else:
         price_html = '<div class="card"><p class="muted">Prices are unavailable right now.</p></div>'
 
     chart_html = ""
     if spark:
         svg, lo, hi = sparkline_svg(spark)
-        chart_html = (f'<div class="card chart"><div class="chart-head"><b>BTC, last 7 days</b>'
-                      f'<span class="muted">Low {fmt_price("BTC", lo)} &middot; High {fmt_price("BTC", hi)}</span></div>{svg}</div>')
+        chart_html = (f'<div class="card chart" id="btc-chart"><div class="chart-head"><b>BTC, last 7 days</b>'
+                      f'<span class="muted" id="btc-range">Low {fmt_price("BTC", lo)} &middot; High {fmt_price("BTC", hi)}</span></div>{svg}</div>')
 
     crypto = "".join(story_card(i) for i in news.get("crypto_headlines", []))
     doginal = "".join(story_card(i, i.get("tag")) for i in news.get("doginal_news", [])) or \
@@ -321,6 +322,7 @@ def render(news, prices, spark, price_stamp, live, articles=()):
 <section id="newsletter">{newsletter_block()}</section>
 </main>
 <footer><div class="wrap"><p><b>Last updated:</b> {e(upd_s)}</p><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="{NEWSLETTER_URL}" target="_blank" rel="noopener">Newsletter</a></p><p>&copy; {upd.year} Reef &middot; <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
+{LIVE_PRICES if prices else ''}
 {GOATCOUNTER}
 </body>
 </html>

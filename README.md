@@ -69,6 +69,7 @@ The photo is `assets/reef.jpg` (Reef's X profile picture, resized to 400px). Rep
 | `data/news.json` | Daily content (edit this) |
 | `data/articles/*.md` | Articles (markdown + front matter) |
 | `assets/reef.jpg` | Reef's photo (About block and bylines) |
+| `assets/live-prices.js` | Client-side live prices: refreshes the home price table every 60 s and the 7-day BTC chart on load from CoinGecko; keeps the baked-in snapshot if the fetch fails |
 | `articles/`, `feed.xml`, `sitemap.xml`, `robots.txt` | Generated output |
 | `data/prices_cache.json` | Last successful price fetch, used as fallback (auto-written) |
 | `index.html`, `btc-chart.svg` | Generated output |
