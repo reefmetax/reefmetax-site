@@ -1,21 +1,80 @@
 {
-  "updated_at": "2026-11-02T13:40:22Z",
-  "date_label": "Monday, Nov 2, 2026",
+  "updated_at": "2026-11-03T13:40:09Z",
+  "date_label": "Tuesday, Nov 3, 2026",
   "crypto_headlines": [
-    {"title": "Strategy buys 811 more BTC", "summary": "Per an SEC Form 8-K, Strategy bought 811 BTC for about $65.5M between Oct 26 and Nov 1 at an average of $80,846 per BTC, bringing its holdings to 849,327 BTC. It also repurchased $208.2M in preferred stock.", "source": "Cointelegraph", "url": "https://x.com/Cointelegraph/status/2117242570535247991"},
-    {"title": "Bitcoin holds its $76K support as Binance sees $3.64B net outflows", "summary": "QCP says BTC fell to $76,141 on Friday after losing $80,000, but the $76,000 to $76,600 range held for a fourth time. Binance has reopened withdrawals across 15 networks after the exploit.", "source": "Wu Blockchain", "url": "https://x.com/WuBlockchain/status/2117208764634054887"},
-    {"title": "Elliptic: 44% of the stolen Binance funds are frozen", "summary": "Laundering of the roughly $6.43B taken from Binance has touched 11 blockchains, about 12,000 wallets and more than 40,000 transactions. About $2.85B is frozen, and the hacker has used CoinJoin for the first time.", "source": "Wu Blockchain", "url": "https://x.com/WuBlockchain/status/2117221564827746502"},
-    {"title": "South Korea orders exchanges to hold more in cold wallets", "summary": "After the $6.3B Binance hack, South Korea told its crypto exchanges to increase cold wallet holdings and bolster reserves, per Reuters.", "source": "Cointelegraph", "url": "https://x.com/Cointelegraph/status/2117217818114470050"},
-    {"title": "BitMine adds 8,573 ETH, now holds 6.06M ETH", "summary": "BitMine's total reached 6,060,506 ETH, about 4.9% of Ethereum's supply, with 5,227,037 ETH staked.", "source": "Wu Blockchain", "url": "https://x.com/WuBlockchain/status/2117248870178775440"},
-    {"title": "ZachXBT flags a suspected $106M theft from an EU-based entity", "summary": "The on-chain investigator reported that an EU-based entity is suspected of losing more than $106M from multiple centralized exchange accounts on Nov 1.", "source": "Wu Blockchain", "url": "https://x.com/WuBlockchain/status/2117233673749831965"}
+    {
+      "title": "Bitcoin ETFs see $399M net outflows as BTC tests support",
+      "summary": "BlackRock's iShares Bitcoin Trust had a $405.3M outflow on Nov 2, its largest in over four months, and U.S. spot Bitcoin ETFs saw about $399M in net outflows. BTC traded near $76,800 early on midterm election day.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2117489380692504899"
+    },
+    {
+      "title": "Strategy adds 811 BTC, Strive adds 124 BTC",
+      "summary": "Strategy bought 811 BTC for $65.5M (average $80,846), bringing its total to 849,327 BTC. Strive added 124 BTC for $10M, reaching 43,124 BTC.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2117241748514844948"
+    },
+    {
+      "title": "Mercado Bitcoin halts services after $38M hot wallet breach",
+      "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a hot wallet breach, says it will cover the $38M affected, and about $11M has been recovered so far with help from partners including Tether.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2117260404883939594"
+    },
+    {
+      "title": "SOL slips below $100 for the first time in two months",
+      "summary": "Solana traded around $92 after three daily closes below $95.70, even as the network set a record of 3.3 billion non-vote transactions in October.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2117588559074910620"
+    },
+    {
+      "title": "Tether burns $2B of USDT on Ethereum",
+      "summary": "Tether removed $2B of USDT from Ethereum circulation; the net reduction held by public users was roughly $464M.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2117354880000286894"
+    },
+    {
+      "title": "Tokenized equities hit a $3.8B record",
+      "summary": "Onchain tokenized stocks reached $3.8B, up 590% this year after ten straight weeks of gains.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2117358118640226797"
+    }
   ],
   "doginal_news": [
-    {"tag": "Doginal Dogs", "title": "Dog Pod creator studio debuts at DDMIAMI", "summary": "Kennel DAO says Doginal Dogs' new in-person creator studio, Dog Pod, debuts at DDMIAMI 2026, Dec 7 to 9, at Higher Ground in the Arlo Hotel.", "source": "@kennelDAO", "url": "https://x.com/kennelDAO/status/2116924880369443055"},
-    {"tag": "Doginal Dogs", "title": "HawaiiSol's lost dogs replaced", "summary": "Truck reports HawaiiSol says the Doginal Dogs crew replaced the dogs he lost, with the official account passing the word along.", "source": "@TruckMeta", "url": "https://x.com/TruckMeta/status/2116936923549937869"},
-    {"tag": "DDLTCG", "title": "Second Toot pulled", "summary": "Astro shared that he just pulled his second Toot card from Doginal Dogs Legends.", "source": "@Astrozohmbie", "url": "https://x.com/Astrozohmbie/status/2117016647907135585"},
-    {"tag": "DDLTCG", "title": "AK on bringing the Legends ARIA card to life", "summary": "AK shared the process behind the Doginal Dogs Legends ARIA card art and asked the pack whether to do another.", "source": "@akmetax", "url": "https://x.com/akmetax/status/2116964477073793127"},
-    {"tag": "Pyth", "title": "October Pyth Strategic Reserve report: 15.11M PYTH bought", "summary": "The October report on the forum shows 15.11M PYTH purchased through DCA by the Pythian Council under the DAO-approved OP-PIP-136 strategy.", "source": "@frozenmind31", "url": "https://x.com/frozenmind31/status/2116965987433992612"},
-    {"tag": "Pyth", "title": "Over 70 Pyth indices now live", "summary": "In a clip, Genia from Pyth Network says over 70 indices are live across equities, commodities, ETFs and metals.", "source": "@nitish2096", "url": "https://x.com/nitish2096/status/2117013818752573827"}
+    {
+      "tag": "Pyth",
+      "title": "21 Japanese equities live on Pyth Pro",
+      "summary": "Real-time prices for Japanese stocks including Toyota, Sony, Nintendo and Tokyo Electron are now available through Pyth Pro.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2117293207344263578"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Free Legends Battle tournament tonight",
+      "summary": "Single-elimination Doginal Dogs Legends TCG tournament on Tue Nov 3 at 7:30 PM ET, free to enter.",
+      "source": "@kennelDAO",
+      "url": "https://x.com/kennelDAO/status/2117606529247715795"
+    },
+    {
+      "tag": "Doginal Dogs",
+      "title": "Hacked holders get replacement dogs",
+      "summary": "JJXMeta thanked Shield, Bark and GodsBurnt after Shield gifted a replacement Doginal Dog to replace one lost in a wallet hack.",
+      "source": "@JJXMeta",
+      "url": "https://x.com/JJXMeta/status/2117330906499121218"
+    },
+    {
+      "tag": "Doginal Dogs",
+      "title": "Community rallies around those affected by the hack",
+      "summary": "Abrahammetaa highlighted Bark, Shield and GodsBurnt giving replacement dogs to members affected by the hack.",
+      "source": "@Abrahammetaa",
+      "url": "https://x.com/Abrahammetaa/status/2117343744642990472"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Legends TCG headed to DD Miami Dec 7",
+      "summary": "Andmetax invited people to see the Legends TCG cards in person at DD Miami on Dec 7.",
+      "source": "@Andmetax",
+      "url": "https://x.com/Andmetax/status/2117246563445592073"
+    }
   ],
-  "notes": "No new original posts from @DDLTCG or @PythNetwork in the last 24 hours; those items come from community accounts."
+  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last 24 hours."
 }
