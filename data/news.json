@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-03T13:40:09Z",
-  "date_label": "Tuesday, Nov 3, 2026",
+  "updated_at": "2026-11-04T13:33:26Z",
+  "date_label": "Wednesday, Nov 4, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin ETFs see $399M net outflows as BTC tests support",
-      "summary": "BlackRock's iShares Bitcoin Trust had a $405.3M outflow on Nov 2, its largest in over four months, and U.S. spot Bitcoin ETFs saw about $399M in net outflows. BTC traded near $76,800 early on midterm election day.",
+      "title": "BTC dips under $76K on midterm night, then rebounds above $78K",
+      "summary": "Bitcoin fell below $76,000 and Ethereum below $2,250 as midterm results came in, with $160M in long positions liquidated in an hour, before both recovered: BTC back above $78,000 and ETH toward $2,320.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2117489380692504899"
+      "url": "https://x.com/i/trending/2117774846369132635"
     },
     {
-      "title": "Strategy adds 811 BTC, Strive adds 124 BTC",
-      "summary": "Strategy bought 811 BTC for $65.5M (average $80,846), bringing its total to 849,327 BTC. Strive added 124 BTC for $10M, reaching 43,124 BTC.",
+      "title": "Tether says it now holds about 150,000 BTC",
+      "summary": "Paolo Ardoino disclosed the figure at the Plan B Forum in Lugano, up from the roughly 100,000 BTC implied in Tether's Q3 reserve report.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2117241748514844948"
+      "url": "https://x.com/i/trending/2117432037946560796"
     },
     {
-      "title": "Mercado Bitcoin halts services after $38M hot wallet breach",
-      "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a hot wallet breach, says it will cover the $38M affected, and about $11M has been recovered so far with help from partners including Tether.",
+      "title": "Stablecoin supply falls to $291.2B, lowest since September 2025",
+      "summary": "Total stablecoin supply dropped $11.5B (3.8%) over 30 days, with USDT and USDC driving most of the decline.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2117260404883939594"
+      "url": "https://x.com/i/trending/2117711313279299845"
     },
     {
-      "title": "SOL slips below $100 for the first time in two months",
-      "summary": "Solana traded around $92 after three daily closes below $95.70, even as the network set a record of 3.3 billion non-vote transactions in October.",
+      "title": "Solana tokenized stock trading hits $657M in a day",
+      "summary": "Tokenized stock volume on Solana reached $657M on Nov 2, with Backpack Securities handling $598M (91%) of it.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2117588559074910620"
+      "url": "https://x.com/i/trending/2117877376499826930"
     },
     {
-      "title": "Tether burns $2B of USDT on Ethereum",
-      "summary": "Tether removed $2B of USDT from Ethereum circulation; the net reduction held by public users was roughly $464M.",
+      "title": "BitGo opens Bitcoin staking for institutions via Stacks",
+      "summary": "Eligible BitGo Bank & Trust clients can stake BTC through Stacks bonds from custody; Stacks Bond 3 opens this week with 1,005 BTC capacity.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2117354880000286894"
+      "url": "https://x.com/i/trending/2117325212429799871"
     },
     {
-      "title": "Tokenized equities hit a $3.8B record",
-      "summary": "Onchain tokenized stocks reached $3.8B, up 590% this year after ten straight weeks of gains.",
+      "title": "Coinbase adds Collector Crypt to its listing roadmap",
+      "summary": "Coinbase put Collector Crypt (CARDS), a Solana platform that tokenizes graded physical trading cards, on its roadmap; trading depends on market and technical readiness.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2117358118640226797"
+      "url": "https://x.com/i/trending/2117826825204228495"
     }
   ],
   "doginal_news": [
     {
+      "tag": "Doginal Dogs",
+      "title": "Adam Weitsman picks up a Doginal Dog",
+      "summary": "Adam Weitsman bought a dog to show support, thanked Shield for the help, and called DD holders some of the most committed he has seen on any project.",
+      "source": "@AdamWeitsman",
+      "url": "https://x.com/AdamWeitsman/status/2117749304421220376"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "akmetax rips Legends packs live on Kick",
+      "summary": "akmetax went live on Kick for TCG Tuesday to open Doginal Dogs Legends booster packs, her first ever DDL pack, and says more packs are still to rip.",
+      "source": "@akmetax",
+      "url": "https://x.com/akmetax/status/2117805489656611168"
+    },
+    {
       "tag": "Pyth",
-      "title": "21 Japanese equities live on Pyth Pro",
-      "summary": "Real-time prices for Japanese stocks including Toyota, Sony, Nintendo and Tokyo Electron are now available through Pyth Pro.",
+      "title": "Pyth October report: $13.67M ARR",
+      "summary": "ARR rose 18.9% month over month to $13.67M, Pyth Indices ARR reached $2.88M, and Pyth Terminal signups hit 4,451 (+37%).",
       "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2117293207344263578"
+      "url": "https://x.com/PythNetwork/status/2117617814869622985"
     },
     {
-      "tag": "DDLTCG",
-      "title": "Free Legends Battle tournament tonight",
-      "summary": "Single-elimination Doginal Dogs Legends TCG tournament on Tue Nov 3 at 7:30 PM ET, free to enter.",
-      "source": "@kennelDAO",
-      "url": "https://x.com/kennelDAO/status/2117606529247715795"
+      "tag": "Pyth",
+      "title": "Kalshi's KPOW Midterms index runs on Pyth",
+      "summary": "Kalshi's KPOW Midterms index is sourced and published exclusively by Pyth, and every contract on it settles to Pyth's values.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2117637504924831775"
     },
     {
-      "tag": "Doginal Dogs",
-      "title": "Hacked holders get replacement dogs",
-      "summary": "JJXMeta thanked Shield, Bark and GodsBurnt after Shield gifted a replacement Doginal Dog to replace one lost in a wallet hack.",
-      "source": "@JJXMeta",
-      "url": "https://x.com/JJXMeta/status/2117330906499121218"
-    },
-    {
-      "tag": "Doginal Dogs",
-      "title": "Community rallies around those affected by the hack",
-      "summary": "Abrahammetaa highlighted Bark, Shield and GodsBurnt giving replacement dogs to members affected by the hack.",
-      "source": "@Abrahammetaa",
-      "url": "https://x.com/Abrahammetaa/status/2117343744642990472"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Legends TCG headed to DD Miami Dec 7",
-      "summary": "Andmetax invited people to see the Legends TCG cards in person at DD Miami on Dec 7.",
-      "source": "@Andmetax",
-      "url": "https://x.com/Andmetax/status/2117246563445592073"
+      "tag": "Pyth",
+      "title": "PIRB reacts to the ARR number",
+      "summary": "Pyth's community account posted a meme on the DAO seeing $13.67M ARR in the October report.",
+      "source": "@thePIRB",
+      "url": "https://x.com/thePIRB/status/2117675725931131174"
     }
   ],
-  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last 24 hours."
+  "notes": ""
 }
