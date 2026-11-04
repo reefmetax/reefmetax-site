@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pyth&#x27;s October 2026 Report in Plain English: $13.67M ARR, Treasury Curves and the Kalshi Midterms Index | Reef</title>
+<meta name="description" content="What the numbers in Pyth&#x27;s October 2026 report mean, what shipped across Pyth Pro and Pyth Indices, and how Pyth became the data source for Kalshi&#x27;s KPOW Midterms index.">
+<meta name="theme-color" content="#0b0f14">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="canonical" href="https://reefmetax.com/articles/pyth-october-2026-report-explained/">
+<link rel="alternate" type="application/rss+xml" title="Reef | Articles" href="/feed.xml">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Reef">
+<meta property="og:title" content="Pyth&#x27;s October 2026 Report in Plain English: $13.67M ARR, Treasury Curves and the Kalshi Midterms Index | Reef">
+<meta property="og:description" content="What the numbers in Pyth&#x27;s October 2026 report mean, what shipped across Pyth Pro and Pyth Indices, and how Pyth became the data source for Kalshi&#x27;s KPOW Midterms index.">
+<meta property="og:url" content="https://reefmetax.com/articles/pyth-october-2026-report-explained/">
+<meta property="og:image" content="https://reefmetax.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Reefmetax">
+<meta name="twitter:creator" content="@Reefmetax">
+<meta name="twitter:title" content="Pyth&#x27;s October 2026 Report in Plain English: $13.67M ARR, Treasury Curves and the Kalshi Midterms Index | Reef">
+<meta name="twitter:description" content="What the numbers in Pyth&#x27;s October 2026 report mean, what shipped across Pyth Pro and Pyth Indices, and how Pyth became the data source for Kalshi&#x27;s KPOW Midterms index.">
+<meta name="twitter:image" content="https://reefmetax.com/og-image.png">
+<meta property="article:published_time" content="2026-11-04">
+<meta property="article:author" content="https://x.com/Reefmetax">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Pyth's October 2026 Report in Plain English: $13.67M ARR, Treasury Curves and the Kalshi Midterms Index", "description": "What the numbers in Pyth's October 2026 report mean, what shipped across Pyth Pro and Pyth Indices, and how Pyth became the data source for Kalshi's KPOW Midterms index.", "datePublished": "2026-11-04", "mainEntityOfPage": "https://reefmetax.com/articles/pyth-october-2026-report-explained/", "author": {"@type": "Person", "name": "Reef", "url": "https://x.com/Reefmetax"}, "image": "https://reefmetax.com/og-image.png"}</script>
+<style>
+:root{--bg:#0b0f14;--panel:#111822;--line:#1e2a38;--text:#e8eef5;--muted:#8a9bb0;--orange:#ff8a3d;--teal:#2ee6c5;--up:#2ee6c5;--down:#ff6b5e}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased;
+background-image:radial-gradient(900px 400px at 85% -10%,rgba(255,138,61,.14),transparent 60%),radial-gradient(700px 400px at -10% 10%,rgba(46,230,197,.10),transparent 60%);background-repeat:no-repeat}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1040px;margin:0 auto;padding:0 18px}
+nav{position:sticky;top:0;z-index:5;backdrop-filter:blur(10px);background:rgba(11,15,20,.8);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;gap:18px;align-items:center;height:52px;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+nav b{color:var(--orange);margin-right:auto}
+nav a{color:var(--muted);font-size:14px}
+nav a:hover{color:var(--teal)}
+.hero{padding:56px 0 40px}
+.eyebrow{display:inline-block;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--teal);border:1px solid rgba(46,230,197,.4);padding:4px 10px;border-radius:99px}
+h1{font-size:clamp(44px,12vw,92px);line-height:1;margin:16px 0 8px;letter-spacing:-.03em}
+h1 span{background:linear-gradient(90deg,var(--orange),var(--teal));-webkit-background-clip:text;background-clip:text;color:transparent}
+.role{font-size:clamp(18px,4.5vw,24px);color:var(--text)}
+.tag-line{color:var(--muted);max-width:560px;margin-top:10px}
+.btns{display:flex;flex-wrap:wrap;gap:12px;margin-top:26px}
+.btn{padding:13px 22px;border-radius:12px;font-weight:600;border:1px solid var(--line);background:var(--panel);min-height:48px;display:inline-flex;align-items:center}
+.btn.primary{background:linear-gradient(90deg,var(--orange),#ffb07a);color:#1a1006;border:0}
+.btn:hover{transform:translateY(-1px)}
+section{padding:34px 0}
+h2{font-size:26px;letter-spacing:-.01em;margin-bottom:6px}
+h2::before{content:"";display:inline-block;width:8px;height:22px;background:var(--orange);border-radius:3px;margin-right:10px;vertical-align:-3px}
+.sub{color:var(--muted);font-size:14px;margin-bottom:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px}
+.grid{display:grid;gap:12px;grid-template-columns:1fr}
+.story h3{font-size:17px;line-height:1.3;margin-bottom:6px}
+.story p{color:#b9c6d6;font-size:15px}
+.src{display:inline-block;margin-top:10px;color:var(--teal);font-size:14px;font-weight:600}
+.tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:99px;margin-bottom:8px;background:rgba(255,138,61,.15);color:var(--orange)}
+.tag-pyth{background:rgba(46,230,197,.14);color:var(--teal)}
+.tag-ddltcg{background:rgba(255,200,61,.14);color:#ffc83d}
+.two{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:12px}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;font-size:12px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.08em;padding-bottom:8px}
+td{padding:10px 0;border-top:1px solid var(--line)}
+.num{text-align:right;font-variant-numeric:tabular-nums}
+th.num{text-align:right}
+.up{color:var(--up)}.down{color:var(--down)}.flat,.muted{color:var(--muted)}
+td .muted{font-size:13px;margin-left:4px}
+.chart svg{width:100%;height:180px;display:block;margin-top:10px}
+.chart-head{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;font-size:14px}
+.fine{font-size:12.5px;color:var(--muted);margin-top:10px}
+.notes{margin-top:14px}
+.comm{display:flex;flex-direction:column;gap:2px}
+.comm b{color:var(--orange);font-size:17px}
+.comm small{color:var(--muted)}
+.comm:hover{border-color:var(--teal)}
+footer{border-top:1px solid var(--line);margin-top:30px;padding:26px 0 44px;color:var(--muted);font-size:14px}
+footer b{color:var(--text)}
+@media(min-width:700px){.grid{grid-template-columns:1fr 1fr}.two{grid-template-columns:1fr 1.3fr}.hero{padding:90px 0 60px}}
+@media(min-width:980px){.grid.three{grid-template-columns:1fr 1fr 1fr}.comm-grid{grid-template-columns:repeat(4,1fr)}}
+.avatar{width:88px;height:88px;border-radius:50%;object-fit:cover;border:2px solid var(--orange);background:var(--panel);image-rendering:pixelated;flex:none}
+.about{display:flex;gap:18px;align-items:center}
+.about .avatar{width:96px;height:96px}
+.about h3{font-size:19px;margin-bottom:4px}
+.about p{color:#b9c6d6}
+.about a.more{display:inline-block;margin-top:8px;color:var(--teal);font-weight:600;font-size:14px}
+.art-card{display:flex;flex-direction:column;gap:6px}
+.art-card:hover{border-color:var(--teal)}
+.art-card h3{font-size:18px;line-height:1.3}
+.art-card p{color:#b9c6d6;font-size:15px}
+.meta{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px;flex-wrap:wrap}
+.meta .avatar{width:26px;height:26px;border-width:1px}
+.more-link{display:inline-block;margin-top:14px;color:var(--teal);font-weight:600}
+.article{max-width:720px;margin:0 auto;padding:36px 0 10px}
+.back{display:inline-block;color:var(--teal);font-size:14px;font-weight:600;margin-bottom:22px}
+.article h1{font-size:clamp(28px,6vw,42px);line-height:1.15;letter-spacing:-.02em;margin:0 0 16px}
+.byline{display:flex;align-items:center;gap:12px;margin-bottom:26px;padding-bottom:20px;border-bottom:1px solid var(--line)}
+.byline .avatar{width:48px;height:48px;border-width:1.5px}
+.byline b{display:block}
+.byline span{color:var(--muted);font-size:14px}
+.prose p,.prose li{font-size:17.5px;line-height:1.7;color:#d3dde9}
+.prose p{margin:0 0 18px}
+.prose h2{font-size:23px;margin:34px 0 10px}
+.prose h2::before{display:none}
+.prose ul{margin:0 0 18px 22px}
+.prose li{margin-bottom:8px}
+.prose a{color:var(--teal);text-decoration:underline;text-underline-offset:3px}
+.prose strong{color:var(--text)}
+.disclaimer{margin:30px 0 0;padding:14px 16px;border:1px solid var(--line);border-left:3px solid var(--orange);border-radius:10px;background:var(--panel);color:var(--muted);font-size:14px}
+.sources li{font-size:15px}
+.art-list{display:grid;gap:12px;grid-template-columns:1fr}
+.page-head{padding:44px 0 8px}
+.page-head h1{font-size:clamp(34px,8vw,56px);margin:0 0 8px}
+@media(min-width:700px){.art-list{grid-template-columns:1fr 1fr}}
+.news{background:linear-gradient(135deg,rgba(255,138,61,.12),rgba(46,230,197,.08)),var(--panel);border:1px solid var(--line);border-radius:16px;padding:22px 18px}
+.news h2{font-size:24px;margin-bottom:6px}
+.news p{color:#b9c6d6;font-size:15px;margin-bottom:14px}
+.news form{display:flex;flex-direction:column;gap:10px}
+.news label{font-size:13px;color:var(--muted);font-weight:600}
+.news input[type=email]{width:100%;min-height:48px;padding:12px 14px;border-radius:12px;border:1px solid var(--line);background:var(--bg);color:var(--text);font:inherit;font-size:16px}
+.news input[type=email]:focus{outline:2px solid var(--teal);outline-offset:1px;border-color:var(--teal)}
+.news input[type=submit]{min-height:48px;padding:12px 22px;border:0;border-radius:12px;background:linear-gradient(90deg,var(--orange),#ffb07a);color:#1a1006;font:inherit;font-weight:700;font-size:16px;cursor:pointer}
+.news input[type=submit]:hover{transform:translateY(-1px)}
+.news .fine{margin-top:10px}
+.news.in-article{margin:34px 0 0}
+@media(min-width:700px){.news form{flex-direction:row;flex-wrap:wrap;align-items:flex-end}.news form label{flex:0 0 100%}.news input[type=email]{flex:1 1 260px;width:auto}}
+
+</style>
+</head>
+<body>
+<nav><div class="wrap"><b>REEF</b><a href="/">Home</a><a href="/#crypto">Crypto</a><a href="/#doginal">Doginal Dogs</a><a href="/articles/">Articles</a></div></nav>
+<main class="wrap"><article class="article"><a class="back" href="/articles/">&larr; All articles</a><h1>Pyth&#x27;s October 2026 Report in Plain English: $13.67M ARR, Treasury Curves and the Kalshi Midterms Index</h1><div class="byline"><img class="avatar" src="/assets/reef.jpg" alt="Reef, profile picture" width="48" height="48"><div><b>By <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">Reef</a></b><span>Community Builder &middot; Nov 4, 2026 &middot; 5 min read</span></div></div><div class="prose"><p>Pyth dropped its <a href="https://x.com/PythNetwork/status/2117617814869622985" target="_blank" rel="noopener">October 2026 report</a> on November 3, and the same day it showed up as the data source behind Kalshi's new midterms index. That is a lot of news in one week, so here is a plain-English walk through what the report says and why people in the community are talking about it. Every number below comes straight from Pyth's own posts.</p>
+<h2>The headline numbers</h2>
+<p>ARR stands for annual recurring revenue. It is the yearly value of paid subscriptions if they kept running at the current rate, a common way to measure a subscription business. Here is what the report shows for October:</p>
+<ul><li><strong>ARR:</strong> $13.67 million at the end of October, up 18.9% from the $11.49 million in the September report.</li><li><strong>Gross new ARR:</strong> $2.49 million added during the month, with 29% coming through the self-serve checkout.</li><li><strong>Net new ARR:</strong> $2.17 million, and 44.6% of gross new ARR came from existing customers expanding what they pay for.</li><li><strong>Self-serve new ARR:</strong> $725K, which Pyth says is 1.5x September.</li><li><strong>Paying accounts:</strong> 332.</li></ul>
+<p>The part I like is that almost half of the new revenue came from accounts that were already paying. That tells you existing customers found enough value to buy more.</p>
+<h2>Pyth Terminal is pulling people in</h2>
+<p>Pyth Terminal is the place where people explore and compare Pyth's data before they plug it into an app. In October it had 124,705 unique visitors, up 19% month over month, and 4,451 signups, up 37%. The report counted 591,621 feed views across the Terminal, and 482,177 of those were Pyth Indices feeds.</p>
+<h2>What shipped on Pyth Pro</h2>
+<p>Pyth Pro is the paid subscription for institutional-grade market data. It ended October with 3,927 symbols in its catalog, and 114 new feed IDs were first recorded during the month. A few highlights:</p>
+<ul><li><a href="https://x.com/PythNetwork/status/2112914364412166394" target="_blank" rel="noopener">Four Korean stocks</a>, SK Hynix, Samsung Electronics, Hyundai Motor and Samsung Electro-Mechanics, now publish prices through Korea's post-market session, which adds four more hours of live prices each trading day.</li><li><a href="https://x.com/PythNetwork/status/2116201796234629388" target="_blank" rel="noopener">More markets were added</a>, including expanded China equity coverage, more Japanese equities, more energy commodity futures and VIX futures. Pyth also posted that <a href="https://x.com/PythNetwork/status/2117293207344263578" target="_blank" rel="noopener">21 Japanese equities</a>, including Toyota, Sony and Nintendo, are available through Pyth Pro.</li><li>Pyth Pro MCP Server 1.1 made it easier for AI agents to find feeds and pull historical prices, and the report says Exa is testing Pyth as a market data layer for agentic search, in an early testing phase.</li></ul>
+<h2>Pyth Indices and the Treasury curve</h2>
+<p>Pyth Indices grew from 50 to 77 stable feeds in October, with 31 more marked as coming soon, and reached $2.88 million in ARR across 21 clients. New indices included AMD, Marvell, Alibaba, SPY, QQQ, EWZ and a diesel index.</p>
+<p>The biggest addition was the <a href="https://x.com/PythNetwork/status/2115814815759561164" target="_blank" rel="noopener">US Treasury par curve in real time</a>. That is 14 constant-maturity feeds covering the 2, 3, 5, 7, 10, 20 and 30 year maturities, each with a par yield and a discount factor. In simple terms, apps can now follow the shape of US interest rates through the trading session without tracking individual bonds.</p>
+<p>Pyth also made corporate action data available for supported US stocks. That means records of cash dividends and stock splits, with dates, amounts and ratios, sourced from Exchange Data International. If a stock splits, an app can see why the price changed instead of guessing.</p>
+<h2>The Kalshi Midterms Index</h2>
+<p>On November 3, Kalshi Research <a href="https://x.com/KalshiResearch/status/2117636019604389956" target="_blank" rel="noopener">introduced KPOW Midterms</a>, which it called the first tradable political index on Kalshi. It combines each party's performance in the midterms into one measure of political power. Pyth <a href="https://x.com/PythNetwork/status/2117637504924831775" target="_blank" rel="noopener">posted that the index</a> is sourced and published exclusively by Pyth, and every contract on it settles to Pyth's values.</p>
+<p>Pyth also published a <a href="https://x.com/PythNetwork/status/2117708069366825304" target="_blank" rel="noopener">piece on how the index settles</a>, saying settlement references values published by Pyth, with price checks on inputs and time-weighted settlement built into the method. For anyone who read my <a href="https://reefmetax.com/articles/pyth-network-price-oracles-explained/" target="_blank" rel="noopener">Pyth explainer</a>, this is the oracle idea in action: a market needs one trusted number to settle on, and Pyth is supplying it.</p>
+<h2>A few more things from the last few weeks</h2>
+<ul><li>Pyth said its data powered <a href="https://x.com/PythNetwork/status/2113345177293295870" target="_blank" rel="noopener">more than $2 trillion in notional volume</a> on traditional assets across offshore derivatives venues in Q3, with around $1.3 trillion of that in equity perps.</li><li>On ICE's Q3 earnings call, Chair and CEO Jeff Sprecher <a href="https://x.com/PythNetwork/status/2116138323915988998" target="_blank" rel="noopener">cited Pyth data on oil perpetuals</a>.</li><li>The PIRB crew had fun with it too, posting a <a href="https://x.com/thePIRB/status/2117675725931131174" target="_blank" rel="noopener">DAO reaction meme</a> to the $13.67M number.</li></ul>
+<h2>The takeaway</h2>
+<p>October was a month of steady building: more paying customers, more markets, rates data, and a brand new kind of market settling on Pyth prices. This is not financial advice and I am not making any calls, I just love seeing the projects we follow ship real things.</p>
+<p>Thanks for reading, pack. If you have a question about Pyth you want me to cover next, drop it in my replies on X.</p>
+<h2>Sources</h2>
+<ul class="sources"><li>Pyth Network on X, <a href="https://x.com/PythNetwork/status/2117617814869622985" target="_blank" rel="noopener">October 2026 report</a>, <a href="https://x.com/PythNetwork/status/2117637504924831775" target="_blank" rel="noopener">KPOW Midterms</a>, <a href="https://x.com/PythNetwork/status/2117708069366825304" target="_blank" rel="noopener">Kalshi settlement article</a>, <a href="https://x.com/PythNetwork/status/2115814815759561164" target="_blank" rel="noopener">Treasury curve</a>, <a href="https://x.com/PythNetwork/status/2112914364412166394" target="_blank" rel="noopener">Korean stocks</a>, <a href="https://x.com/PythNetwork/status/2116201796234629388" target="_blank" rel="noopener">new Pyth Pro markets</a>, <a href="https://x.com/PythNetwork/status/2117293207344263578" target="_blank" rel="noopener">Japanese equities</a>, <a href="https://x.com/PythNetwork/status/2113345177293295870" target="_blank" rel="noopener">Q3 offshore volume</a>, <a href="https://x.com/PythNetwork/status/2116138323915988998" target="_blank" rel="noopener">ICE earnings call</a></li><li>Kalshi Research on X, <a href="https://x.com/KalshiResearch/status/2117636019604389956" target="_blank" rel="noopener">Introducing KPOW Midterms</a></li><li>PIRB on X, <a href="https://x.com/thePIRB/status/2117675725931131174" target="_blank" rel="noopener">ARR meme</a></li></ul></div><p class="disclaimer">Not financial advice. This is general information, not a recommendation to buy or sell anything. Do your own research.</p><div class="news in-article"><h2>Join the pack</h2><p><b>Reef's Pack Report</b>: Weekly Doginal Dogs, DDLTCG and crypto news from Reef. No spam.</p><form action="https://buttondown.com/api/emails/embed-subscribe/reefmetax" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/reefmetax', 'popupwindow')" class="newsletter-form"><label for="bd-email">Enter your email</label> <input type="email" name="email" id="bd-email" required autocomplete="email" /> <input type="submit" value="Subscribe" /></form></div><a class="back" style="margin-top:26px" href="/articles/">&larr; Back to all articles</a></article></main>
+<footer><div class="wrap"><p>Not financial advice. Do your own research.</p><p><a href="/articles/">Articles</a> &middot; <a href="/feed.xml">RSS</a> &middot; <a href="https://buttondown.com/reefmetax" target="_blank" rel="noopener">Newsletter</a> &middot; <a href="/">Home</a></p><p>&copy; 2026 Reef &middot; <a href="https://x.com/Reefmetax" target="_blank" rel="noopener">@Reefmetax</a></p></div></footer>
+<script data-goatcounter="https://reefmetax.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
