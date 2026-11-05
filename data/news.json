@@ -1,80 +1,21 @@
 {
-  "updated_at": "2026-11-04T13:33:26Z",
-  "date_label": "Wednesday, Nov 4, 2026",
+  "updated_at": "2026-11-05T13:39:28Z",
+  "date_label": "Thursday, Nov 5, 2026",
   "crypto_headlines": [
-    {
-      "title": "BTC dips under $76K on midterm night, then rebounds above $78K",
-      "summary": "Bitcoin fell below $76,000 and Ethereum below $2,250 as midterm results came in, with $160M in long positions liquidated in an hour, before both recovered: BTC back above $78,000 and ETH toward $2,320.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2117774846369132635"
-    },
-    {
-      "title": "Tether says it now holds about 150,000 BTC",
-      "summary": "Paolo Ardoino disclosed the figure at the Plan B Forum in Lugano, up from the roughly 100,000 BTC implied in Tether's Q3 reserve report.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2117432037946560796"
-    },
-    {
-      "title": "Stablecoin supply falls to $291.2B, lowest since September 2025",
-      "summary": "Total stablecoin supply dropped $11.5B (3.8%) over 30 days, with USDT and USDC driving most of the decline.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2117711313279299845"
-    },
-    {
-      "title": "Solana tokenized stock trading hits $657M in a day",
-      "summary": "Tokenized stock volume on Solana reached $657M on Nov 2, with Backpack Securities handling $598M (91%) of it.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2117877376499826930"
-    },
-    {
-      "title": "BitGo opens Bitcoin staking for institutions via Stacks",
-      "summary": "Eligible BitGo Bank & Trust clients can stake BTC through Stacks bonds from custody; Stacks Bond 3 opens this week with 1,005 BTC capacity.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2117325212429799871"
-    },
-    {
-      "title": "Coinbase adds Collector Crypt to its listing roadmap",
-      "summary": "Coinbase put Collector Crypt (CARDS), a Solana platform that tokenizes graded physical trading cards, on its roadmap; trading depends on market and technical readiness.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2117826825204228495"
-    }
+    {"title": "Bitcoin back above $80,000 after the Binance hack sell-off", "summary": "BTC fell to $75,700 after the record $6.3B Binance hack, then broke out of a 43-day falling wedge and climbed back past $80,000; traders now watch resistance at $82,000.", "source": "X News", "url": "https://x.com/i/trending/2118332544965873795"},
+    {"title": "Bitcoin and Ethereum ETFs take in $127M after the midterms", "summary": "Spot Bitcoin ETFs added $74.57M on Nov 4, led by Fidelity's FBTC at $236.72M while BlackRock's IBIT saw $201.2M out; Ethereum ETFs added $53.02M, ending a five-day outflow run.", "source": "X News", "url": "https://x.com/i/trending/2118235382823412121"},
+    {"title": "Binance users bring $3.4B back after the record hack", "summary": "Binance says it covered the $6.3B theft from company funds, replenished 98% of affected assets and froze $2.85B; withdrawals resume in phases starting Nov 5.", "source": "X News", "url": "https://x.com/i/trending/2118065130932187500"},
+    {"title": "Binance disables SignalPlus API keys as a precaution", "summary": "Binance cut all API keys tied to the third-party platform SignalPlus over a potential security issue and told users to check accounts and enable IP whitelisting.", "source": "X News", "url": "https://x.com/i/trending/2118299703297421427"},
+    {"title": "Polygon proposes a hard fork to recover 70.49M stolen POL", "summary": "A Polygon Labs proposal would zero out five attacker addresses holding POL taken from Binance and Polymarket in late October and send it to recovery wallets; discussion is set for Nov 5.", "source": "X News", "url": "https://x.com/i/trending/2118244754983121250"},
+    {"title": "Solana lender Loopscale pauses after API attacks", "summary": "Attacks on Loopscale's vaults had about $952,000 in impact; the team says user funds are secure and it is working with law enforcement before resuming.", "source": "X News", "url": "https://x.com/i/trending/2118326509182349346"}
   ],
   "doginal_news": [
-    {
-      "tag": "Doginal Dogs",
-      "title": "Adam Weitsman picks up a Doginal Dog",
-      "summary": "Adam Weitsman bought a dog to show support, thanked Shield for the help, and called DD holders some of the most committed he has seen on any project.",
-      "source": "@AdamWeitsman",
-      "url": "https://x.com/AdamWeitsman/status/2117749304421220376"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "akmetax rips Legends packs live on Kick",
-      "summary": "akmetax went live on Kick for TCG Tuesday to open Doginal Dogs Legends booster packs, her first ever DDL pack, and says more packs are still to rip.",
-      "source": "@akmetax",
-      "url": "https://x.com/akmetax/status/2117805489656611168"
-    },
-    {
-      "tag": "Pyth",
-      "title": "Pyth October report: $13.67M ARR",
-      "summary": "ARR rose 18.9% month over month to $13.67M, Pyth Indices ARR reached $2.88M, and Pyth Terminal signups hit 4,451 (+37%).",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2117617814869622985"
-    },
-    {
-      "tag": "Pyth",
-      "title": "Kalshi's KPOW Midterms index runs on Pyth",
-      "summary": "Kalshi's KPOW Midterms index is sourced and published exclusively by Pyth, and every contract on it settles to Pyth's values.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2117637504924831775"
-    },
-    {
-      "tag": "Pyth",
-      "title": "PIRB reacts to the ARR number",
-      "summary": "Pyth's community account posted a meme on the DAO seeing $13.67M ARR in the October report.",
-      "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2117675725931131174"
-    }
+    {"tag": "Doginal Dogs", "title": "Doginal Dogs thanks the community", "summary": "The official account posted a note of thanks: grateful for the Doginal Dogs community, every single day.", "source": "@doginaldogs", "url": "https://x.com/doginaldogs/status/2118060957310070790"},
+    {"tag": "Doginal Dogs", "title": "Team replacements estimated at more than $500K", "summary": "Prowlytics reports the team used its own NFTs to replace collectibles stolen from holders in late October, with the replacements valued at more than $500,000 by the team's estimate.", "source": "@Prowlytics", "url": "https://x.com/Prowlytics/status/2117992154492502286"},
+    {"tag": "DDLTCG", "title": "Cherry joins the Legends beta", "summary": "Cherry, a new 4-cost Bow creature with a 3/3 body, summons a creature costing 2 or less from your deck when played.", "source": "@anthemhayek", "url": "https://x.com/anthemhayek/status/2117997893760295204"},
+    {"tag": "DDLTCG", "title": "Rise of the Pack card reveals: Penny, Chart and Chum", "summary": "More first edition cards from Legends: Rise of the Pack were shown, including Penny (6-cost pirate that summons from the graveyard), Chart (V017) and Chum The Water (V089).", "source": "@anthemhayek", "url": "https://x.com/anthemhayek/status/2118058738133418044"},
+    {"tag": "Pyth", "title": "How Pyth powered Kalshi's KPOW Midterms index", "summary": "Pyth posted a thread on how it calculated and published every KPOW Midterms index value as Kalshi's exclusive source agency.", "source": "@PythNetwork", "url": "https://x.com/PythNetwork/status/2118107593109311768"},
+    {"tag": "Pyth", "title": "PIRB: first $1M month for Pyth, 600K to the DAO", "summary": "Pyth's community account says Pyth had its first $1M and that 600K went to the DAO, with buyback funds home.", "source": "@thePIRB", "url": "https://x.com/thePIRB/status/2118026996596772998"}
   ],
-  "notes": ""
+  "notes": "No new posts from @DDLTCG in the last day, and no news on Toot, Atlas or Boogie."
 }
