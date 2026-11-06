@@ -1,21 +1,66 @@
 {
-  "updated_at": "2026-11-05T13:39:28Z",
-  "date_label": "Thursday, Nov 5, 2026",
+  "updated_at": "2026-11-06T13:31:53Z",
+  "date_label": "Friday, Nov 6, 2026",
   "crypto_headlines": [
-    {"title": "Bitcoin back above $80,000 after the Binance hack sell-off", "summary": "BTC fell to $75,700 after the record $6.3B Binance hack, then broke out of a 43-day falling wedge and climbed back past $80,000; traders now watch resistance at $82,000.", "source": "X News", "url": "https://x.com/i/trending/2118332544965873795"},
-    {"title": "Bitcoin and Ethereum ETFs take in $127M after the midterms", "summary": "Spot Bitcoin ETFs added $74.57M on Nov 4, led by Fidelity's FBTC at $236.72M while BlackRock's IBIT saw $201.2M out; Ethereum ETFs added $53.02M, ending a five-day outflow run.", "source": "X News", "url": "https://x.com/i/trending/2118235382823412121"},
-    {"title": "Binance users bring $3.4B back after the record hack", "summary": "Binance says it covered the $6.3B theft from company funds, replenished 98% of affected assets and froze $2.85B; withdrawals resume in phases starting Nov 5.", "source": "X News", "url": "https://x.com/i/trending/2118065130932187500"},
-    {"title": "Binance disables SignalPlus API keys as a precaution", "summary": "Binance cut all API keys tied to the third-party platform SignalPlus over a potential security issue and told users to check accounts and enable IP whitelisting.", "source": "X News", "url": "https://x.com/i/trending/2118299703297421427"},
-    {"title": "Polygon proposes a hard fork to recover 70.49M stolen POL", "summary": "A Polygon Labs proposal would zero out five attacker addresses holding POL taken from Binance and Polymarket in late October and send it to recovery wallets; discussion is set for Nov 5.", "source": "X News", "url": "https://x.com/i/trending/2118244754983121250"},
-    {"title": "Solana lender Loopscale pauses after API attacks", "summary": "Attacks on Loopscale's vaults had about $952,000 in impact; the team says user funds are secure and it is working with law enforcement before resuming.", "source": "X News", "url": "https://x.com/i/trending/2118326509182349346"}
+    {
+      "title": "Bitcoin and Ethereum ETFs shed about $530M as tech stocks sell off",
+      "summary": "U.S. spot Bitcoin ETFs recorded $430.2M in net outflows on Nov 5, led by Fidelity's FBTC at $199.9M and BlackRock's IBIT at $105M; Ethereum ETFs lost about $100M. Bitcoin traded near $76,000 on Nov 6 after the Nasdaq's 5.5% drop.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2118579923468136793"
+    },
+    {
+      "title": "Crypto liquidations top $1 billion in the Nov 5 selloff",
+      "summary": "More than $1 billion in leveraged crypto positions were liquidated over 24 hours as Bitcoin fell from above $80,000 toward the mid-$70,000s alongside the tech-stock rout.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2118510482709778682"
+    },
+    {
+      "title": "Binance targets more withdrawal reopenings by next week",
+      "summary": "After covering the October hot-wallet theft from company funds, Binance said it aims to reopen withdrawals for HYPE, INJ, APT, PLASMA, NEAR and LTC by the end of next week, with several networks already restored.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2118690351527628948"
+    },
+    {
+      "title": "Amundi launches a tokenized European equity fund on Ethereum",
+      "summary": "Europe's largest asset manager partnered with CACEIS on a tokenized share class of its Core STOXX Europe 600 index fund on Ethereum, extending its earlier tokenized money-market product.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2118420615116013640"
+    },
+    {
+      "title": "Schroders brings an emerging-markets bond fund onchain via Solana",
+      "summary": "Schroders launched an onchain share class of its Schroder International Selection Fund Emerging Market Bond with Centrifuge on Solana, giving eligible investors digital access to EM sovereign and corporate bonds.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2117979573182972344"
+    },
+    {
+      "title": "Solana Labs launches Leap, a mobile trading app for Solana assets",
+      "summary": "Solana Labs opened Leap on iOS TestFlight for trading tokenized stocks, ETFs, crypto and memecoins on Solana, with no platform fees at launch and trades routed through partners such as Jupiter.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2118544554773377430"
+    }
   ],
   "doginal_news": [
-    {"tag": "Doginal Dogs", "title": "Doginal Dogs thanks the community", "summary": "The official account posted a note of thanks: grateful for the Doginal Dogs community, every single day.", "source": "@doginaldogs", "url": "https://x.com/doginaldogs/status/2118060957310070790"},
-    {"tag": "Doginal Dogs", "title": "Team replacements estimated at more than $500K", "summary": "Prowlytics reports the team used its own NFTs to replace collectibles stolen from holders in late October, with the replacements valued at more than $500,000 by the team's estimate.", "source": "@Prowlytics", "url": "https://x.com/Prowlytics/status/2117992154492502286"},
-    {"tag": "DDLTCG", "title": "Cherry joins the Legends beta", "summary": "Cherry, a new 4-cost Bow creature with a 3/3 body, summons a creature costing 2 or less from your deck when played.", "source": "@anthemhayek", "url": "https://x.com/anthemhayek/status/2117997893760295204"},
-    {"tag": "DDLTCG", "title": "Rise of the Pack card reveals: Penny, Chart and Chum", "summary": "More first edition cards from Legends: Rise of the Pack were shown, including Penny (6-cost pirate that summons from the graveyard), Chart (V017) and Chum The Water (V089).", "source": "@anthemhayek", "url": "https://x.com/anthemhayek/status/2118058738133418044"},
-    {"tag": "Pyth", "title": "How Pyth powered Kalshi's KPOW Midterms index", "summary": "Pyth posted a thread on how it calculated and published every KPOW Midterms index value as Kalshi's exclusive source agency.", "source": "@PythNetwork", "url": "https://x.com/PythNetwork/status/2118107593109311768"},
-    {"tag": "Pyth", "title": "PIRB: first $1M month for Pyth, 600K to the DAO", "summary": "Pyth's community account says Pyth had its first $1M and that 600K went to the DAO, with buyback funds home.", "source": "@thePIRB", "url": "https://x.com/thePIRB/status/2118026996596772998"}
+    {
+      "tag": "Doginal Dogs",
+      "title": "Floor held at 47k DOGE with zero listings through the red day",
+      "summary": "Community tracker BradX reports the Doginal Dogs floor stayed at 47k DOGE with 0 listed through Thursday's majors selloff, with no fills since #495 at 115k on Tuesday; 30-day volume about 1.59M DOGE across 23 trades.",
+      "source": "@BradXmetaX",
+      "url": "https://x.com/BradXmetaX/status/2118520072842965239"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Pyth October report: $13.67M ARR, up 18.9% month over month",
+      "summary": "Pyth Network posted its October 2026 report: ARR at $13.67M (+18.9% MoM), 332 paying accounts, 4,451 Terminal signups, $2.17M net new ARR, and Indices feeds growing from 50 to 77.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2118420795278139707"
+    },
+    {
+      "tag": "Pyth",
+      "title": "PIRB: PYTH recovering after the dump; perps report due next week",
+      "summary": "Pyth's community account says PYTH is restoring positions after the market dump and that first-party data already previews an upcoming perps report for next week, quoting a post that Pyth priced $734B (88.5%) of RWA perp volume in October.",
+      "source": "@thePIRB",
+      "url": "https://x.com/thePIRB/status/2118669615400185886"
+    }
   ],
-  "notes": "No new posts from @DDLTCG in the last day, and no news on Toot, Atlas or Boogie."
+  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last ~24 hours. No news on Toot, Atlas or Boogie. Floor note is community tracking, not an official listing figure."
 }
