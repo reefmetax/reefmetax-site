@@ -1,66 +1,81 @@
 {
-  "updated_at": "2026-11-06T13:31:53Z",
-  "date_label": "Friday, Nov 6, 2026",
+  "updated_at": "2026-11-07T13:39:00Z",
+  "date_label": "Saturday, Nov 7, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin and Ethereum ETFs shed about $530M as tech stocks sell off",
-      "summary": "U.S. spot Bitcoin ETFs recorded $430.2M in net outflows on Nov 5, led by Fidelity's FBTC at $199.9M and BlackRock's IBIT at $105M; Ethereum ETFs lost about $100M. Bitcoin traded near $76,000 on Nov 6 after the Nasdaq's 5.5% drop.",
+      "title": "U.S. spot Bitcoin ETFs shed $411.9M Friday; week totals about $1.28B out",
+      "summary": "Friday's net outflow was $411.9M, led by BlackRock's IBIT at $403M, while Fidelity's FBTC took in $42.8M. Across Nov 2–6 the funds recorded about $1.28B in net withdrawals, the largest weekly outflow in 19 weeks. Bitcoin traded near $76,000 on Saturday.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2118579923468136793"
+      "url": "https://x.com/i/trending/2118962543402131782"
     },
     {
-      "title": "Crypto liquidations top $1 billion in the Nov 5 selloff",
-      "summary": "More than $1 billion in leveraged crypto positions were liquidated over 24 hours as Bitcoin fell from above $80,000 toward the mid-$70,000s alongside the tech-stock rout.",
+      "title": "Russia greenlights retail BTC, ETH and USDT trading from Nov 17",
+      "summary": "Russia's central bank approved non-qualified retail trading of Bitcoin, Ethereum and USDT starting November 17, capped at about 300,000 rubles per year per broker with a knowledge test. Moscow Exchange plans related trading from December 1.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2118510482709778682"
+      "url": "https://x.com/i/trending/2118824975025221955"
     },
     {
-      "title": "Binance targets more withdrawal reopenings by next week",
-      "summary": "After covering the October hot-wallet theft from company funds, Binance said it aims to reopen withdrawals for HYPE, INJ, APT, PLASMA, NEAR and LTC by the end of next week, with several networks already restored.",
+      "title": "Strive posts $509M Q3 profit and grows Bitcoin holdings to 43,124 BTC",
+      "summary": "The Nasdaq-listed Bitcoin treasury firm reported $509M in Q3 net income, driven mainly by unrealized Bitcoin gains, and said it added thousands of BTC in Q3 and October to reach 43,124 BTC.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2118690351527628948"
+      "url": "https://x.com/i/trending/2118770816796000266"
     },
     {
-      "title": "Amundi launches a tokenized European equity fund on Ethereum",
-      "summary": "Europe's largest asset manager partnered with CACEIS on a tokenized share class of its Core STOXX Europe 600 index fund on Ethereum, extending its earlier tokenized money-market product.",
+      "title": "First U.S. staked INJ ETF (INJC) lists on Nasdaq; Injective rings the bell",
+      "summary": "Canary Capital's staked Injective ETF began trading on Nasdaq under ticker INJC, targeting staking of most holdings and passing rewards through brokerage accounts. Injective and Canary rang the Nasdaq opening bell on November 6.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2118420615116013640"
+      "url": "https://x.com/i/trending/2118764668210573770"
     },
     {
-      "title": "Schroders brings an emerging-markets bond fund onchain via Solana",
-      "summary": "Schroders launched an onchain share class of its Schroder International Selection Fund Emerging Market Bond with Centrifuge on Solana, giving eligible investors digital access to EM sovereign and corporate bonds.",
+      "title": "Third Stacks Bitcoin staking bond fills with 1,005 BTC from institutions",
+      "summary": "The third Stacks Bitcoin staking bond sold out with 1,005 BTC committed, led by Bullish and 21Shares, bringing the three-round total to about 1,740 BTC locked for a target ~3% annual yield paid in BTC.",
       "source": "X News",
-      "url": "https://x.com/i/trending/2117979573182972344"
-    },
-    {
-      "title": "Solana Labs launches Leap, a mobile trading app for Solana assets",
-      "summary": "Solana Labs opened Leap on iOS TestFlight for trading tokenized stocks, ETFs, crypto and memecoins on Solana, with no platform fees at launch and trades routed through partners such as Jupiter.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2118544554773377430"
+      "url": "https://x.com/i/trending/2118107132436582565"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Floor held at 47k DOGE with zero listings through the red day",
-      "summary": "Community tracker BradX reports the Doginal Dogs floor stayed at 47k DOGE with 0 listed through Thursday's majors selloff, with no fills since #495 at 115k on Tuesday; 30-day volume about 1.59M DOGE across 23 trades.",
+      "title": "Floor still parked at 47k DOGE with listings thin",
+      "summary": "Community tracker BradX's early Saturday bag check says the Dogs book stayed quiet: floor still at 47k DOGE with listings thin or paused after Friday's majors selloff.",
       "source": "@BradXmetaX",
-      "url": "https://x.com/BradXmetaX/status/2118520072842965239"
+      "url": "https://x.com/BradXmetaX/status/2119009956254945790"
+    },
+    {
+      "tag": "Doginal Dogs",
+      "title": "Wizard Dogs: Broom Rush hits the Apple App Store",
+      "summary": "Community builder Rollmeta says his first game, Wizard Dogs: Broom Rush, is live on the App Store and posted a corrected direct link after an earlier one broke; SwitchMetaX asked the pack to at least load it.",
+      "source": "@Rollmeta",
+      "url": "https://x.com/Rollmeta/status/2118652110116094320"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "AGS grading live; same-day slabs planned at DD Miami Collectors Club",
+      "summary": "homeMetaX says AGS grading for Doginal Dogs Legends cards is live, with same-day on-site grading planned at Collectors Club during DD Miami.",
+      "source": "@homeMetaX",
+      "url": "https://x.com/homeMetaX/status/2118712513252540755"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "homeMetaX joins the DDLTCG council",
+      "summary": "Collector homeMetaX posted that he will participate on the Legends TCG council and help put pack knowledge to work.",
+      "source": "@homeMetaX",
+      "url": "https://x.com/homeMetaX/status/2118864572941738287"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth October report: $13.67M ARR, up 18.9% month over month",
-      "summary": "Pyth Network posted its October 2026 report: ARR at $13.67M (+18.9% MoM), 332 paying accounts, 4,451 Terminal signups, $2.17M net new ARR, and Indices feeds growing from 50 to 77.",
+      "title": "Pyth Pro expands US equities, 24/7 indices, ag and crypto feeds",
+      "summary": "Pyth Network announced a Pyth Pro expansion adding more US equities and ETFs, 24/7 Pyth Indices across global markets, expanded agricultural indices and cotton futures, plus additional crypto and redemption rates.",
       "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2118420795278139707"
+      "url": "https://x.com/PythNetwork/status/2118757850684232014"
     },
     {
       "tag": "Pyth",
-      "title": "PIRB: PYTH recovering after the dump; perps report due next week",
-      "summary": "Pyth's community account says PYTH is restoring positions after the market dump and that first-party data already previews an upcoming perps report for next week, quoting a post that Pyth priced $734B (88.5%) of RWA perp volume in October.",
+      "title": "PIRB: Pyth as the fastest-growing data company, quoting the $13.6M ARR year",
+      "summary": "Pyth's community account posted a video meme calling Pyth the fastest-growing data company, quoting a thread on the fee switch, Pro monetization, $13.6M ARR and a first $1M month.",
       "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2118669615400185886"
+      "url": "https://x.com/thePIRB/status/2118883714356666666"
     }
   ],
-  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last ~24 hours. No news on Toot, Atlas or Boogie. Floor note is community tracking, not an official listing figure."
+  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last ~24 hours. No news on Atlas or Boogie; Toot appears only in homeMetaX binder art (master set page 19). Floor note is community tracking, not an official listing figure. Wizard Dogs is a community App Store game, not an official @doginaldogs release."
 }
