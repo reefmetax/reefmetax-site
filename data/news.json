@@ -1,81 +1,73 @@
 {
-  "updated_at": "2026-11-07T13:39:00Z",
-  "date_label": "Saturday, Nov 7, 2026",
+  "updated_at": "2026-11-08T13:40:00Z",
+  "date_label": "Sunday, Nov 8, 2026",
   "crypto_headlines": [
     {
-      "title": "U.S. spot Bitcoin ETFs shed $411.9M Friday; week totals about $1.28B out",
-      "summary": "Friday's net outflow was $411.9M, led by BlackRock's IBIT at $403M, while Fidelity's FBTC took in $42.8M. Across Nov 2–6 the funds recorded about $1.28B in net withdrawals, the largest weekly outflow in 19 weeks. Bitcoin traded near $76,000 on Saturday.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2118962543402131782"
+      "title": "Vitalik argues ETH should be valued as a store of value, not a fee-burn token",
+      "summary": "Ethereum co-founder Vitalik Buterin wrote that focusing on ETH as a store of value makes more sense than treating it as a fee-burning token, saying the burn case was never as strong as it seemed and that optimizing for burns could pressure decentralization. He used a present-day market-cap figure of about $270 billion in the thread.",
+      "source": "@VitalikButerin",
+      "url": "https://x.com/VitalikButerin/status/2119401255919604064"
     },
     {
-      "title": "Russia greenlights retail BTC, ETH and USDT trading from Nov 17",
-      "summary": "Russia's central bank approved non-qualified retail trading of Bitcoin, Ethereum and USDT starting November 17, capped at about 300,000 rubles per year per broker with a knowledge test. Moscow Exchange plans related trading from December 1.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2118824975025221955"
+      "title": "Hyperliquid whales flip from long to short on Bitcoin after seven months",
+      "summary": "Cointelegraph, citing Glassnode, reported that Hyperliquid whales have flipped from long to short on Bitcoin after seven months, with short exposure at its highest level since October 2025.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2119369578283229618"
     },
     {
-      "title": "Strive posts $509M Q3 profit and grows Bitcoin holdings to 43,124 BTC",
-      "summary": "The Nasdaq-listed Bitcoin treasury firm reported $509M in Q3 net income, driven mainly by unrealized Bitcoin gains, and said it added thousands of BTC in Q3 and October to reach 43,124 BTC.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2118770816796000266"
+      "title": "U.S. spot Bitcoin ETFs posted $1.28B in weekly outflows",
+      "summary": "Farside's weekly summary put net U.S. spot Bitcoin ETF flow at -$1,281.7 million, led by BlackRock's IBIT at -$1,209.5 million, while Fidelity's FBTC took in $93.1 million. Friday alone was -$411.9 million, with IBIT at -$403 million and FBTC at +$42.8 million.",
+      "source": "Farside Investors",
+      "url": "https://x.com/FarsideUK/status/2118992057351983165"
     },
     {
-      "title": "First U.S. staked INJ ETF (INJC) lists on Nasdaq; Injective rings the bell",
-      "summary": "Canary Capital's staked Injective ETF began trading on Nasdaq under ticker INJC, targeting staking of most holdings and passing rewards through brokerage accounts. Injective and Canary rang the Nasdaq opening bell on November 6.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2118764668210573770"
+      "title": "Spot ether ETFs lost $93.3M on Friday, led by BlackRock's ETHA",
+      "summary": "Farside reported Friday, Nov. 6 net flow for U.S. spot ether ETFs at -$93.3 million, including -$90.8 million from BlackRock's ETHA.",
+      "source": "Farside Investors",
+      "url": "https://x.com/FarsideUK/status/2118927923621106165"
     },
     {
-      "title": "Third Stacks Bitcoin staking bond fills with 1,005 BTC from institutions",
-      "summary": "The third Stacks Bitcoin staking bond sold out with 1,005 BTC committed, led by Bullish and 21Shares, bringing the three-round total to about 1,740 BTC locked for a target ~3% annual yield paid in BTC.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2118107132436582565"
+      "title": "Altcoins have shed about $200B, with most Binance names under their 200-day average",
+      "summary": "Cointelegraph reported that altcoins have lost roughly $200 billion in market capitalization, with 70% of Binance-listed altcoins now trading below their 200-day moving average, according to a CryptoQuant analyst.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2119294026910183792"
+    },
+    {
+      "title": "New wallet opens a 20x Bitcoin long and ether short on Hyperliquid",
+      "summary": "Lookonchain said a newly created wallet received 3,100 ETH from Tornado Cash, sold it for $6.92 million USDC, deposited the funds into Hyperliquid, then opened a 20x long on 169.47 BTC (about $12.84 million) and a 20x short on 5,740 ETH (about $12.83 million).",
+      "source": "Lookonchain",
+      "url": "https://x.com/lookonchain/status/2119243679823212614"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Floor still parked at 47k DOGE with listings thin",
-      "summary": "Community tracker BradX's early Saturday bag check says the Dogs book stayed quiet: floor still at 47k DOGE with listings thin or paused after Friday's majors selloff.",
-      "source": "@BradXmetaX",
-      "url": "https://x.com/BradXmetaX/status/2119009956254945790"
+      "title": "Official account: DDMIAMI 2026 is in 30 days",
+      "summary": "Doginal Dogs posted that DDMIAMI 2026 is 30 days away and linked to the event page at doginaldogs.com.",
+      "source": "@doginaldogs",
+      "url": "https://x.com/doginaldogs/status/2119082457391943705"
     },
     {
       "tag": "Doginal Dogs",
-      "title": "Wizard Dogs: Broom Rush hits the Apple App Store",
-      "summary": "Community builder Rollmeta says his first game, Wizard Dogs: Broom Rush, is live on the App Store and posted a corrected direct link after an earlier one broke; SwitchMetaX asked the pack to at least load it.",
-      "source": "@Rollmeta",
-      "url": "https://x.com/Rollmeta/status/2118652110116094320"
+      "title": "Floor still 47k DOGE with zero listings after Saturday",
+      "summary": "Community tracker BradX's Saturday night check said the floor stayed at 47k DOGE with nothing listed after a full weekend day, and that there have been no new fills since dog #495 at 115k DOGE on Tuesday.",
+      "source": "@BradXmetaX",
+      "url": "https://x.com/BradXmetaX/status/2119231304877175160"
     },
     {
       "tag": "DDLTCG",
-      "title": "AGS grading live; same-day slabs planned at DD Miami Collectors Club",
-      "summary": "homeMetaX says AGS grading for Doginal Dogs Legends cards is live, with same-day on-site grading planned at Collectors Club during DD Miami.",
-      "source": "@homeMetaX",
-      "url": "https://x.com/homeMetaX/status/2118712513252540755"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "homeMetaX joins the DDLTCG council",
-      "summary": "Collector homeMetaX posted that he will participate on the Legends TCG council and help put pack knowledge to work.",
-      "source": "@homeMetaX",
-      "url": "https://x.com/homeMetaX/status/2118864572941738287"
+      "title": "CrashMetaX takes Legends cards to a show and hands some to kids",
+      "summary": "Community member CrashMetaX posted from a card show featuring TGA and The GOAT, said he handed out stickers, business cards, Doginal Dogs cards, and sleeved DDLTCG cards (including to kids), and that he plans to return in April.",
+      "source": "@CrashMetaX",
+      "url": "https://x.com/CrashMetaX/status/2119410896242090087"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth Pro expands US equities, 24/7 indices, ag and crypto feeds",
-      "summary": "Pyth Network announced a Pyth Pro expansion adding more US equities and ETFs, 24/7 Pyth Indices across global markets, expanded agricultural indices and cotton futures, plus additional crypto and redemption rates.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2118757850684232014"
-    },
-    {
-      "tag": "Pyth",
-      "title": "PIRB: Pyth as the fastest-growing data company, quoting the $13.6M ARR year",
-      "summary": "Pyth's community account posted a video meme calling Pyth the fastest-growing data company, quoting a thread on the fee switch, Pro monetization, $13.6M ARR and a first $1M month.",
+      "title": "PIRB: got GTA VI before everyone, courier is Pyth Network",
+      "summary": "Pyth's community account posted a meme saying it got GTA VI before everyone and that its courier is @PythNetwork.",
       "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2118883714356666666"
+      "url": "https://x.com/thePIRB/status/2119207566316060728"
     }
   ],
-  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last ~24 hours. No news on Atlas or Boogie; Toot appears only in homeMetaX binder art (master set page 19). Floor note is community tracking, not an official listing figure. Wizard Dogs is a community App Store game, not an official @doginaldogs release."
+  "notes": "No new original posts from @DDLTCG or @PythNetwork in the last ~24 hours. No news on Toot, Atlas, or Boogie. Floor note is community tracking, not an official listing figure. CrashMetaX's details about handing out cards come from his own follow-up replies to the linked show post."
 }
