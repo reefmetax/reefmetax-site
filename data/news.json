@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-11-08T13:40:00Z",
-  "date_label": "Sunday, Nov 8, 2026",
+  "updated_at": "2026-11-09T13:35:30Z",
+  "date_label": "Monday, Nov 9, 2026",
   "crypto_headlines": [
     {
-      "title": "Vitalik argues ETH should be valued as a store of value, not a fee-burn token",
-      "summary": "Ethereum co-founder Vitalik Buterin wrote that focusing on ETH as a store of value makes more sense than treating it as a fee-burning token, saying the burn case was never as strong as it seemed and that optimizing for burns could pressure decentralization. He used a present-day market-cap figure of about $270 billion in the thread.",
-      "source": "@VitalikButerin",
-      "url": "https://x.com/VitalikButerin/status/2119401255919604064"
+      "title": "Strategy adds 1,036 BTC, now holds 850,364 BTC",
+      "summary": "Michael Saylor said Strategy acquired 1,036 BTC and repurchased $188 million of its STRC preferred stock. As of Nov 8, the company holds 850,364 BTC and $4.9 billion of USD assets.",
+      "source": "@saylor",
+      "url": "https://x.com/saylor/status/2119778202931388769"
     },
     {
-      "title": "Hyperliquid whales flip from long to short on Bitcoin after seven months",
-      "summary": "Cointelegraph, citing Glassnode, reported that Hyperliquid whales have flipped from long to short on Bitcoin after seven months, with short exposure at its highest level since October 2025.",
+      "title": "Coinbase gets a full U.S. national trust bank charter",
+      "summary": "Cointelegraph reported that Coinbase secured a full national trust bank charter from the Office of the Comptroller of the Currency. Brian Armstrong said trusted custody is essential for bringing more of the financial system onchain.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2119369578283229618"
+      "url": "https://x.com/Cointelegraph/status/2119734382877368681"
     },
     {
-      "title": "U.S. spot Bitcoin ETFs posted $1.28B in weekly outflows",
-      "summary": "Farside's weekly summary put net U.S. spot Bitcoin ETF flow at -$1,281.7 million, led by BlackRock's IBIT at -$1,209.5 million, while Fidelity's FBTC took in $93.1 million. Friday alone was -$411.9 million, with IBIT at -$403 million and FBTC at +$42.8 million.",
-      "source": "Farside Investors",
-      "url": "https://x.com/FarsideUK/status/2118992057351983165"
-    },
-    {
-      "title": "Spot ether ETFs lost $93.3M on Friday, led by BlackRock's ETHA",
-      "summary": "Farside reported Friday, Nov. 6 net flow for U.S. spot ether ETFs at -$93.3 million, including -$90.8 million from BlackRock's ETHA.",
-      "source": "Farside Investors",
-      "url": "https://x.com/FarsideUK/status/2118927923621106165"
-    },
-    {
-      "title": "Altcoins have shed about $200B, with most Binance names under their 200-day average",
-      "summary": "Cointelegraph reported that altcoins have lost roughly $200 billion in market capitalization, with 70% of Binance-listed altcoins now trading below their 200-day moving average, according to a CryptoQuant analyst.",
+      "title": "NYSE to settle tokenized stock trades on Avalanche",
+      "summary": "Citing the Wall Street Journal, Cointelegraph reported that the NYSE will use Avalanche to settle tokenized stock trades on its planned 24/7 trading platform.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2119294026910183792"
+      "url": "https://x.com/Cointelegraph/status/2119784783139963388"
     },
     {
-      "title": "New wallet opens a 20x Bitcoin long and ether short on Hyperliquid",
-      "summary": "Lookonchain said a newly created wallet received 3,100 ETH from Tornado Cash, sold it for $6.92 million USDC, deposited the funds into Hyperliquid, then opened a 20x long on 169.47 BTC (about $12.84 million) and a 20x short on 5,740 ETH (about $12.83 million).",
-      "source": "Lookonchain",
-      "url": "https://x.com/lookonchain/status/2119243679823212614"
+      "title": "Binance says no evidence of a breach behind 335M-record claim",
+      "summary": "Binance said it found no evidence of a breach and called ShinyHunters' claim of 335 million stolen user records a likely scam, per Cointelegraph.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2119729705016262662"
+    },
+    {
+      "title": "Ankr's Ethereum bridge hit by an exploit",
+      "summary": "Cointelegraph, citing Blockaid, reported an ongoing exploit that had drained about $292K from Ankr's Ethereum bridge.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2119723153819566300"
+    },
+    {
+      "title": "Big macro week: October CPI Tuesday, PPI Friday",
+      "summary": "This week's calendar includes October CPI on Tuesday, the OPEC monthly report Wednesday, jobless claims and existing home sales Thursday, October PPI Friday, and 17 Fed speaker events.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2119709265120121310"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Official account: DDMIAMI 2026 is in 30 days",
-      "summary": "Doginal Dogs posted that DDMIAMI 2026 is 30 days away and linked to the event page at doginaldogs.com.",
-      "source": "@doginaldogs",
-      "url": "https://x.com/doginaldogs/status/2119082457391943705"
-    },
-    {
-      "tag": "Doginal Dogs",
-      "title": "Floor still 47k DOGE with zero listings after Saturday",
-      "summary": "Community tracker BradX's Saturday night check said the floor stayed at 47k DOGE with nothing listed after a full weekend day, and that there have been no new fills since dog #495 at 115k DOGE on Tuesday.",
-      "source": "@BradXmetaX",
-      "url": "https://x.com/BradXmetaX/status/2119231304877175160"
+      "title": "Vee opens the door for Doginal Dogs creators ahead of Miami",
+      "summary": "Community member CryptoGrannyNo5 posted that Vee (@veemeta) used her Space to invite every Doginal Dogs creator to brand, build, and play, with Miami as the target.",
+      "source": "@CryptoGrannyNo5",
+      "url": "https://x.com/CryptoGrannyNo5/status/2119495161625424324"
     },
     {
       "tag": "DDLTCG",
-      "title": "CrashMetaX takes Legends cards to a show and hands some to kids",
-      "summary": "Community member CrashMetaX posted from a card show featuring TGA and The GOAT, said he handed out stickers, business cards, Doginal Dogs cards, and sleeved DDLTCG cards (including to kids), and that he plans to return in April.",
-      "source": "@CrashMetaX",
-      "url": "https://x.com/CrashMetaX/status/2119410896242090087"
+      "title": "Doginal Dogs Legends online beta is free to play",
+      "summary": "Community member AnTheM described Doginal Dogs Legends as a free-to-play online digital TCG beta: 40-card decks (max 3 copies) of creatures, spells and traps across five classes (Wizard, Crown, Zombie, Bow, Pirate), with heroes starting at 40 HP.",
+      "source": "@anthemhayek",
+      "url": "https://x.com/anthemhayek/status/2119552651293790227"
     },
     {
       "tag": "Pyth",
-      "title": "PIRB: got GTA VI before everyone, courier is Pyth Network",
-      "summary": "Pyth's community account posted a meme saying it got GTA VI before everyone and that its courier is @PythNetwork.",
-      "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2119207566316060728"
+      "title": "Pyth sponsors a CSN Space with the Doginal Dogs crowd",
+      "summary": "Rollmeta promoted Bailey's CSN Space \"Crypto Wizardry Things,\" sponsored by Pyth Network, tagging Doginal Dogs and Dogwarts DAO.",
+      "source": "@Rollmeta",
+      "url": "https://x.com/Rollmeta/status/2119520905730617506"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Community: 1,944 stable price feeds and 90 indices in the Pyth catalogue",
+      "summary": "Community member asterturtle said the Pyth catalogue now lists 1,944 stable price feeds and 90 stable indices, all reachable through the Pyth Terminal.",
+      "source": "@asterturtle",
+      "url": "https://x.com/asterturtle/status/2119507012803612672"
     }
   ],
-  "notes": "No new original posts from @DDLTCG or @PythNetwork in the last ~24 hours. No news on Toot, Atlas, or Boogie. Floor note is community tracking, not an official listing figure. CrashMetaX's details about handing out cards come from his own follow-up replies to the linked show post."
+  "notes": "No new original posts from @doginaldogs, @DDLTCG, @PythNetwork, or @thePIRB in the last ~24 hours (replies only). No floor update and no news on Toot, Atlas, or Boogie. Catalogue numbers are a community count, not an official Pyth post. Watch out for posts pushing PYTH 'eligibility checkers' or wallet-connect airdrops."
 }
