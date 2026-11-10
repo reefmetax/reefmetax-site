@@ -1,73 +1,87 @@
 {
-  "updated_at": "2026-11-09T13:35:30Z",
-  "date_label": "Monday, Nov 9, 2026",
+  "updated_at": "2026-11-10T13:33:42Z",
+  "date_label": "Tuesday, Nov 10, 2026",
   "crypto_headlines": [
     {
-      "title": "Strategy adds 1,036 BTC, now holds 850,364 BTC",
-      "summary": "Michael Saylor said Strategy acquired 1,036 BTC and repurchased $188 million of its STRC preferred stock. As of Nov 8, the company holds 850,364 BTC and $4.9 billion of USD assets.",
-      "source": "@saylor",
-      "url": "https://x.com/saylor/status/2119778202931388769"
+      "title": "Trump Media held 15,649 BTC at the end of Q3",
+      "summary": "Cointelegraph reported Trump Media held 15,649 BTC worth $1.31B at the end of Q3 2026, up 35.4% from Q2, with 73% pledged as collateral for options trades. Bitcoin Magazine said it bought a net 1,510 BTC (about $112 million) in the quarter.",
+      "source": "Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2120119458966511623"
     },
     {
-      "title": "Coinbase gets a full U.S. national trust bank charter",
-      "summary": "Cointelegraph reported that Coinbase secured a full national trust bank charter from the Office of the Comptroller of the Currency. Brian Armstrong said trusted custody is essential for bringing more of the financial system onchain.",
+      "title": "Binance warns of an iOS flaw that could expose seed phrases",
+      "summary": "Binance warned that an iOS flaw called \"worse_query\" lets malicious apps read other apps' files on iOS 26.7.1, 27.0.1 and 27.2, which could expose seed phrases, private keys and logins. Its advice: update iOS and remove apps from untrusted sources.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2119734382877368681"
+      "url": "https://x.com/Cointelegraph/status/2120113171465724267"
     },
     {
-      "title": "NYSE to settle tokenized stock trades on Avalanche",
-      "summary": "Citing the Wall Street Journal, Cointelegraph reported that the NYSE will use Avalanche to settle tokenized stock trades on its planned 24/7 trading platform.",
+      "title": "Binance to block transfers to MEXC after FinCEN designation",
+      "summary": "Binance will block transfers to MEXC following the US FinCEN designation. MEXC's CEO said the exchange has contacted FinCEN, is ready to cooperate, and is operating as normal.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2119784783139963388"
+      "url": "https://x.com/Cointelegraph/status/2120079710352707993"
     },
     {
-      "title": "Binance says no evidence of a breach behind 335M-record claim",
-      "summary": "Binance said it found no evidence of a breach and called ShinyHunters' claim of 335 million stolen user records a likely scam, per Cointelegraph.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2119729705016262662"
+      "title": "Coinbase, Kalshi, Kraken and others back the CFTC on stock perps",
+      "summary": "CoinDesk reported that Coinbase, Kalshi, Payward (Kraken), DRW, Jump Trading and Paradigm filed in support of the CFTC in a legal fight over its authority to regulate stock perpetual futures.",
+      "source": "CoinDesk",
+      "url": "https://x.com/CoinDesk/status/2120114219261509703"
     },
     {
-      "title": "Ankr's Ethereum bridge hit by an exploit",
-      "summary": "Cointelegraph, citing Blockaid, reported an ongoing exploit that had drained about $292K from Ankr's Ethereum bridge.",
+      "title": "October CPI lands today; Waller floats a bigger December hike",
+      "summary": "Core CPI is forecast to rise 0.2% month over month in October, down from 0.3% in September. Fed Governor Waller leans toward a 25 bps hike in December if inflation cools and floated 50 bps if core comes in around 0.3% or higher.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2119723153819566300"
+      "url": "https://x.com/Cointelegraph/status/2120096808999219225"
     },
     {
-      "title": "Big macro week: October CPI Tuesday, PPI Friday",
-      "summary": "This week's calendar includes October CPI on Tuesday, the OPEC monthly report Wednesday, jobless claims and existing home sales Thursday, October PPI Friday, and 17 Fed speaker events.",
+      "title": "Hyperscale Data sells its entire Bitcoin reserve",
+      "summary": "Hyperscale Data sold its final 211.56 BTC for $16 million, per Cointelegraph. Separately, Cointelegraph noted public companies recorded $8.08B in BTC sales and estimated outflows in 2026, led by miners.",
       "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2119709265120121310"
+      "url": "https://x.com/Cointelegraph/status/2120137068181336476"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Vee opens the door for Doginal Dogs creators ahead of Miami",
-      "summary": "Community member CryptoGrannyNo5 posted that Vee (@veemeta) used her Space to invite every Doginal Dogs creator to brand, build, and play, with Miami as the target.",
-      "source": "@CryptoGrannyNo5",
-      "url": "https://x.com/CryptoGrannyNo5/status/2119495161625424324"
+      "title": "Floor slips to 45k DOGE as listings finally appear",
+      "summary": "Community tracker BradX said one wallet listed 5 Doginal Dogs at 45k to 52k DOGE Monday afternoon, moving the floor from 47k to 45k (about $3.1k). He noted no sale since #495 at 115k DOGE on Nov 3.",
+      "source": "@BradXmetaX",
+      "url": "https://x.com/BradXmetaX/status/2119957200076730546"
     },
     {
       "tag": "DDLTCG",
-      "title": "Doginal Dogs Legends online beta is free to play",
-      "summary": "Community member AnTheM described Doginal Dogs Legends as a free-to-play online digital TCG beta: 40-card decks (max 3 copies) of creatures, spells and traps across five classes (Wizard, Crown, Zombie, Bow, Pirate), with heroes starting at 40 HP.",
-      "source": "@anthemhayek",
-      "url": "https://x.com/anthemhayek/status/2119552651293790227"
+      "title": "Legends cards slipped into TCGplayer orders",
+      "summary": "Wooki is randomly inserting 1st Edition Doginal Dogs Legends cards into TCGplayer orders, with an info sheet and QR code pointing to the free online game.",
+      "source": "@Wookimeta",
+      "url": "https://x.com/Wookimeta/status/2119825213802020929"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Atlas and Aria pulled from a fresh box",
+      "summary": "Spade ripped another Legends box and showed off an Atlas and an Aria card.",
+      "source": "@Spademeta",
+      "url": "https://x.com/Spademeta/status/2120019394952851917"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Shield art extension set",
+      "summary": "homeMetaX shared a custom art extension set for the Shield card from the Legends game.",
+      "source": "@homeMetaX",
+      "url": "https://x.com/homeMetaX/status/2119922867231940727"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth sponsors a CSN Space with the Doginal Dogs crowd",
-      "summary": "Rollmeta promoted Bailey's CSN Space \"Crypto Wizardry Things,\" sponsored by Pyth Network, tagging Doginal Dogs and Dogwarts DAO.",
-      "source": "@Rollmeta",
-      "url": "https://x.com/Rollmeta/status/2119520905730617506"
+      "title": "Pyth hosts an executive dinner during Breakpoint London",
+      "summary": "Pyth announced an invite-only Fintech and Data Executive Dinner in London on November 16 during Breakpoint, for leaders in market data, trading technology and finance.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2120079023434842365"
     },
     {
       "tag": "Pyth",
-      "title": "Community: 1,944 stable price feeds and 90 indices in the Pyth catalogue",
-      "summary": "Community member asterturtle said the Pyth catalogue now lists 1,944 stable price feeds and 90 stable indices, all reachable through the Pyth Terminal.",
-      "source": "@asterturtle",
-      "url": "https://x.com/asterturtle/status/2119507012803612672"
+      "title": "October was a record month for RWA perps on Pyth",
+      "summary": "BSCN reported Pyth's October figures, which mark a record month for real-world asset perpetuals volume and measure how much US stock perps volume trades after the NYSE closing bell.",
+      "source": "@BSCNWire",
+      "url": "https://x.com/BSCNWire/status/2119955166564581476"
     }
   ],
-  "notes": "No new original posts from @doginaldogs, @DDLTCG, @PythNetwork, or @thePIRB in the last ~24 hours (replies only). No floor update and no news on Toot, Atlas, or Boogie. Catalogue numbers are a community count, not an official Pyth post. Watch out for posts pushing PYTH 'eligibility checkers' or wallet-connect airdrops."
+  "notes": "No new original posts from @doginaldogs, @DDLTCG, or @thePIRB in the last ~24 hours (replies only). Floor numbers are a community count. Watch out for posts pushing PYTH 'airdrop' or 'allocation checker' links."
 }
