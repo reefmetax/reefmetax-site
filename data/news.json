@@ -1,87 +1,21 @@
 {
-  "updated_at": "2026-11-10T13:33:42Z",
-  "date_label": "Tuesday, Nov 10, 2026",
+  "updated_at": "2026-11-11T13:27:57Z",
+  "date_label": "Wednesday, Nov 11, 2026",
   "crypto_headlines": [
-    {
-      "title": "Trump Media held 15,649 BTC at the end of Q3",
-      "summary": "Cointelegraph reported Trump Media held 15,649 BTC worth $1.31B at the end of Q3 2026, up 35.4% from Q2, with 73% pledged as collateral for options trades. Bitcoin Magazine said it bought a net 1,510 BTC (about $112 million) in the quarter.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2120119458966511623"
-    },
-    {
-      "title": "Binance warns of an iOS flaw that could expose seed phrases",
-      "summary": "Binance warned that an iOS flaw called \"worse_query\" lets malicious apps read other apps' files on iOS 26.7.1, 27.0.1 and 27.2, which could expose seed phrases, private keys and logins. Its advice: update iOS and remove apps from untrusted sources.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2120113171465724267"
-    },
-    {
-      "title": "Binance to block transfers to MEXC after FinCEN designation",
-      "summary": "Binance will block transfers to MEXC following the US FinCEN designation. MEXC's CEO said the exchange has contacted FinCEN, is ready to cooperate, and is operating as normal.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2120079710352707993"
-    },
-    {
-      "title": "Coinbase, Kalshi, Kraken and others back the CFTC on stock perps",
-      "summary": "CoinDesk reported that Coinbase, Kalshi, Payward (Kraken), DRW, Jump Trading and Paradigm filed in support of the CFTC in a legal fight over its authority to regulate stock perpetual futures.",
-      "source": "CoinDesk",
-      "url": "https://x.com/CoinDesk/status/2120114219261509703"
-    },
-    {
-      "title": "October CPI lands today; Waller floats a bigger December hike",
-      "summary": "Core CPI is forecast to rise 0.2% month over month in October, down from 0.3% in September. Fed Governor Waller leans toward a 25 bps hike in December if inflation cools and floated 50 bps if core comes in around 0.3% or higher.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2120096808999219225"
-    },
-    {
-      "title": "Hyperscale Data sells its entire Bitcoin reserve",
-      "summary": "Hyperscale Data sold its final 211.56 BTC for $16 million, per Cointelegraph. Separately, Cointelegraph noted public companies recorded $8.08B in BTC sales and estimated outflows in 2026, led by miners.",
-      "source": "Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2120137068181336476"
-    }
+    {"title": "Bitcoin steadies near $74K after the hot-CPI selloff", "summary": "Bitcoin dipped below $73,000 after October CPI came in at 0.4% versus 0.3% expected, then bounced back toward $74,000. Traders are watching the 200-day moving average around $73,200 and the $72,500 level.", "source": "X News", "url": "https://x.com/i/trending/2120491355075993911"},
+    {"title": "Square turns on Bitcoin payments for about 4 million US merchants", "summary": "Square completed its Bitcoin payments rollout on Nov 10, enabling Lightning payments by QR code for about four million eligible US merchants, with zero fees through 2026 and an option to keep proceeds in bitcoin. New York sellers are excluded.", "source": "X News", "url": "https://x.com/i/trending/2120298533278371923"},
+    {"title": "Spot Bitcoin ETFs keep bleeding", "summary": "US spot Bitcoin ETFs saw $201 million in net outflows on Nov 9, with BlackRock's IBIT alone losing $213.2 million, while Ethereum ETFs shed $184.6 million the same day.", "source": "X News", "url": "https://x.com/i/trending/2120032731170271701"},
+    {"title": "USDT supply shrinks at its fastest 60-day pace since 2022", "summary": "CryptoQuant data shows Tether's USDT supply fell about $6.6 billion over 60 days, and total stablecoin market cap slipped to about $290 billion, signaling tighter liquidity.", "source": "X News", "url": "https://x.com/i/trending/2120262505171988705"},
+    {"title": "Glassnode: 35.4% of Bitcoin supply has exposed public keys", "summary": "About 7.12 million BTC sit at addresses with visible public keys, mostly from address reuse and exchange wallets, reviving talk about long-term quantum-resistance upgrades.", "source": "X News", "url": "https://x.com/i/trending/2120205690811842669"},
+    {"title": "Pyth priced 88.5% of a record October in RWA perps", "summary": "RWA perpetuals hit an all-time high of $829.4B in October volume, and Pyth priced 88.5% ($734.3B) of it.", "source": "@PythNetwork", "url": "https://x.com/PythNetwork/status/2120154512644083747"}
   ],
   "doginal_news": [
-    {
-      "tag": "Doginal Dogs",
-      "title": "Floor slips to 45k DOGE as listings finally appear",
-      "summary": "Community tracker BradX said one wallet listed 5 Doginal Dogs at 45k to 52k DOGE Monday afternoon, moving the floor from 47k to 45k (about $3.1k). He noted no sale since #495 at 115k DOGE on Nov 3.",
-      "source": "@BradXmetaX",
-      "url": "https://x.com/BradXmetaX/status/2119957200076730546"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Legends cards slipped into TCGplayer orders",
-      "summary": "Wooki is randomly inserting 1st Edition Doginal Dogs Legends cards into TCGplayer orders, with an info sheet and QR code pointing to the free online game.",
-      "source": "@Wookimeta",
-      "url": "https://x.com/Wookimeta/status/2119825213802020929"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Atlas and Aria pulled from a fresh box",
-      "summary": "Spade ripped another Legends box and showed off an Atlas and an Aria card.",
-      "source": "@Spademeta",
-      "url": "https://x.com/Spademeta/status/2120019394952851917"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Shield art extension set",
-      "summary": "homeMetaX shared a custom art extension set for the Shield card from the Legends game.",
-      "source": "@homeMetaX",
-      "url": "https://x.com/homeMetaX/status/2119922867231940727"
-    },
-    {
-      "tag": "Pyth",
-      "title": "Pyth hosts an executive dinner during Breakpoint London",
-      "summary": "Pyth announced an invite-only Fintech and Data Executive Dinner in London on November 16 during Breakpoint, for leaders in market data, trading technology and finance.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2120079023434842365"
-    },
-    {
-      "tag": "Pyth",
-      "title": "October was a record month for RWA perps on Pyth",
-      "summary": "BSCN reported Pyth's October figures, which mark a record month for real-world asset perpetuals volume and measure how much US stock perps volume trades after the NYSE closing bell.",
-      "source": "@BSCNWire",
-      "url": "https://x.com/BSCNWire/status/2119955166564581476"
-    }
+    {"tag": "DDLTCG", "title": "Registration opens for the first official DDLTCG Championship", "summary": "Legends TCG opened registration for its first official championship. Top 16 advance to the live Miami finals on Dec 8, and the champion wins rare Victorious Gary promos, a Doginal Dog NFT and Rise of the Pack boxes.", "source": "@DDLTCG", "url": "https://x.com/DDLTCG/status/2120275305415975226"},
+    {"tag": "DDLTCG", "title": "Card spotlight: Houdini, Epic Wizard", "summary": "Houdini is a 4-mana 2/2 in Rise of the Pack that summons up to two Creatures costing 2 or less straight from your deck.", "source": "@BoxMetaAlt", "url": "https://x.com/BoxMetaAlt/status/2120189283432853871"},
+    {"tag": "Doginal Dogs", "title": "Community thanks the team for replacing lost NFTs", "summary": "Holders thanked Bark, Shield and GodsBurnt for replacing NFTs from their own collection after the recent loss.", "source": "@papasxmeta", "url": "https://x.com/papasxmeta/status/2120333246227493178"},
+    {"tag": "Doginal Dogs", "title": "Marketplace tutorial for new holders", "summary": "A walkthrough of the official Doginal Dogs Marketplace for buying, selling and viewing all 10,000 dogs inscribed on Dogecoin.", "source": "@lurnmeta", "url": "https://x.com/lurnmeta/status/2120319568967274795"},
+    {"tag": "Pyth", "title": "Earn is live on Solana, powered by Pyth", "summary": "Pyth announced Earn is live, letting users put idle stablecoins to work on Solana.", "source": "@PythNetwork", "url": "https://x.com/PythNetwork/status/2120216061173776609"},
+    {"tag": "Pyth", "title": "A new big wave lands today", "summary": "Pyth teased a big new drop for today, and PIRB followed up with a one-word reminder: Today.", "source": "@thePIRB", "url": "https://x.com/thePIRB/status/2120333498842284092"}
   ],
-  "notes": "No new original posts from @doginaldogs, @DDLTCG, or @thePIRB in the last ~24 hours (replies only). Floor numbers are a community count. Watch out for posts pushing PYTH 'airdrop' or 'allocation checker' links."
+  "notes": "No new floor or sales update from the Doginal Dogs account in the last day."
 }
