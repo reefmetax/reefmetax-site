@@ -1,67 +1,73 @@
 {
-  "updated_at": "2026-11-12T13:31:32Z",
-  "date_label": "Thursday, Nov 12, 2026",
+  "updated_at": "2026-11-13T13:31:15Z",
+  "date_label": "Friday, Nov 13, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin holds near $73,000 at the 200-day average",
-      "summary": "Bitcoin closed Nov 12 between about $72,900 and $73,900, testing the $72,000 to $74,000 zone and the 200-day moving average near $73,200 as traders split on a retest of $70,000 to $72,000 or a quick bounce.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2120847365032800437"
+      "title": "Bitcoin falls under $70,000 for the first time since August",
+      "summary": "Bitcoin broke below $70,000 Thursday night ET and hit a low of $68,943 on Binance, down about 6% in 24 hours from a high of $73,866, per Wu Blockchain.",
+      "source": "@WuBlockchain",
+      "url": "https://x.com/WuBlockchain/status/2121085947022586095"
     },
     {
-      "title": "Spot Bitcoin ETFs lose $300 million on Nov 11",
-      "summary": "US spot Bitcoin ETFs saw $299.9 million in net outflows on Nov 11, led by BlackRock's IBIT, extending a five-day streak to $1.44 billion. Ethereum ETFs lost $144.8 million the same day.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2120755230325506386"
+      "title": "$500 million liquidated in one hour",
+      "summary": "About $500 million in crypto positions were liquidated in an hour as BTC fell under $69,000, ETH under $1,950, XRP under $1.01 and SOL under $80.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2121083804211175589"
     },
     {
-      "title": "Stablecoin supply drops $14.2 billion in 30 days",
-      "summary": "Stablecoin supply shrank by $14.2 billion over 30 days, the sharpest fall since 2022, with total supply dipping below $290 billion and DeFi TVL down to about $78 billion.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2120262505171988705"
+      "title": "$1.45 billion in longs wiped out as BTC tags $67,500",
+      "summary": "Ash Crypto reported a three-month low of $67,500 for Bitcoin, about $12,500 lower over nine days, with $1.45 billion in long positions liquidated on the day.",
+      "source": "@AshCrypto",
+      "url": "https://x.com/AshCrypto/status/2121124414368493589"
     },
     {
-      "title": "NYSE approves Pyth as a distributor of its market data",
-      "summary": "Pyth became an approved distributor of NYSE market data on Nov 11, bringing real-time top-of-book quotes across five NYSE Group equity markets to onchain apps, following its September Nasdaq approval.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2120532092241297917"
+      "title": "Ethereum whales split as ETH trades near $1,930",
+      "summary": "One whale withdrew 10,380 ETH from Binance while another sold 16,700 ETH at $1,852 for about a $7.7 million loss, with ETH down over 5% in a day.",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2121177549166567436"
+    },
+    {
+      "title": "Jane Street grows its Fidelity Bitcoin ETF stake nearly 8x",
+      "summary": "Jane Street increased its FBTC share count nearly eightfold in Q3 while trimming its IBIT shares by 19%.",
+      "source": "@Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2121189098920567233"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Floor holds at 45k DOGE with no sale since Nov 3",
-      "summary": "Wednesday evening the floor was still 45k DOGE (about $3.0k) with 17 asks and no sale since #495 at 115k on Nov 3.",
+      "title": "Floor steady at 45k DOGE through the selloff",
+      "summary": "Thursday night the floor was still 45k DOGE (about $2.99k) with the same 17 asks, nothing new listed, and no sale since #495 on Nov 3.",
       "source": "@BradXmetaX",
-      "url": "https://x.com/BradXmetaX/status/2120675609600819221"
+      "url": "https://x.com/BradXmetaX/status/2121034182402900298"
     },
     {
       "tag": "Doginal Dogs",
-      "title": "Doginal Dogs Black Friday sale teased",
-      "summary": "Vee told the pack to prepare for the Doginal Dogs Black Friday sale, with a DD purse in the preview.",
-      "source": "@veemeta",
-      "url": "https://x.com/veemeta/status/2120559763708952696"
+      "title": "\"Jawn-ember\" hoodie season",
+      "summary": "The community renamed November \"Jawn-ember\" and dressed the pixel dogs in hoodies for Type Thursday.",
+      "source": "@devinteerfilms",
+      "url": "https://x.com/devinteerfilms/status/2120886837589717118"
     },
     {
       "tag": "DDLTCG",
-      "title": "First GEM-MT 10 Bark card",
-      "summary": "A Legends TCG Bark card sent to AGS came back GEM-MT 10, the first perfect grade of five Bark cards graded so far.",
-      "source": "@moneymetaxxx",
-      "url": "https://x.com/moneymetaxxx/status/2120613111325667446"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Championship players get Victorious Gary promo",
-      "summary": "Everyone playing in the first official DDLTCG Championship gets an exclusive Giga Rare Victorious Gary promo.",
-      "source": "@BoxMetaAlt",
-      "url": "https://x.com/BoxMetaAlt/status/2120551621268746534"
+      "title": "RusMetaX wins Legends Arena ROTP",
+      "summary": "The free-entry Doginal Dogs Legends TCG single-elimination Legends Arena on Thursday night, with a $50 prize, was won by @RusMetaX.",
+      "source": "@kennelDAO",
+      "url": "https://x.com/kennelDAO/status/2121072405619810552"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth team at The Big Whale Geneva Summit",
-      "summary": "Pyth is on the ground at The Big Whale Geneva Summit 2026 with a workshop on always-on markets, institutional pricing and AI data needs.",
+      "title": "\"Wall Street looks good on Pyth\"",
+      "summary": "Pyth followed up its NYSE data deal with a push for builders to put the newly available Wall Street data to work.",
       "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2120788702775357538"
+      "url": "https://x.com/PythNetwork/status/2120895337271529911"
+    },
+    {
+      "tag": "Pyth",
+      "title": "PIRB Friday check-in",
+      "summary": "PIRB says PYTH is holding up better than the rest of the market, Rule 100 is active with buybacks stacking, and Pyth powers prediction markets including Kalshi and Polymarket.",
+      "source": "@thePIRB",
+      "url": "https://x.com/thePIRB/status/2121226739187597786"
     }
   ],
   "notes": "No new posts from the official Doginal Dogs or DDLTCG accounts in the last day; items come from community posts."
