@@ -1,74 +1,81 @@
 {
-  "updated_at": "2026-11-13T13:31:15Z",
-  "date_label": "Friday, Nov 13, 2026",
+  "updated_at": "2026-11-14T13:33:19Z",
+  "date_label": "Saturday, Nov 14, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin falls under $70,000 for the first time since August",
-      "summary": "Bitcoin broke below $70,000 Thursday night ET and hit a low of $68,943 on Binance, down about 6% in 24 hours from a high of $73,866, per Wu Blockchain.",
-      "source": "@WuBlockchain",
-      "url": "https://x.com/WuBlockchain/status/2121085947022586095"
-    },
-    {
-      "title": "$500 million liquidated in one hour",
-      "summary": "About $500 million in crypto positions were liquidated in an hour as BTC fell under $69,000, ETH under $1,950, XRP under $1.01 and SOL under $80.",
+      "title": "Bitcoin slips under $67,000 overnight",
+      "summary": "BTC fell below $67,000 Friday night ET, with ETH under $1,900, XRP under $1.00 and SOL under $75, and over $330 million liquidated in two hours.",
       "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2121083804211175589"
+      "url": "https://x.com/WatcherGuru/status/2121447564335788308"
     },
     {
-      "title": "$1.45 billion in longs wiped out as BTC tags $67,500",
-      "summary": "Ash Crypto reported a three-month low of $67,500 for Bitcoin, about $12,500 lower over nine days, with $1.45 billion in long positions liquidated on the day.",
-      "source": "@AshCrypto",
-      "url": "https://x.com/AshCrypto/status/2121124414368493589"
+      "title": "Seventh straight day of Bitcoin ETF outflows",
+      "summary": "US spot Bitcoin ETFs saw $185 million in net outflows on Nov 13, their seventh trading day in a row, while spot Ethereum ETFs took in $2.36 million.",
+      "source": "@WuBlockchain",
+      "url": "https://x.com/WuBlockchain/status/2121486749008642144"
     },
     {
-      "title": "Ethereum whales split as ETH trades near $1,930",
-      "summary": "One whale withdrew 10,380 ETH from Binance while another sold 16,700 ETH at $1,852 for about a $7.7 million loss, with ETH down over 5% in a day.",
-      "source": "X News",
-      "url": "https://x.com/i/trending/2121177549166567436"
+      "title": "Bitcoin ETFs lose about $1.07 billion on the week",
+      "summary": "Farside's weekly tally shows $1,065.3 million in net outflows, led by IBIT at -$908.4 million and FBTC at -$111.3 million.",
+      "source": "@FarsideUK",
+      "url": "https://x.com/FarsideUK/status/2121528728391934335"
     },
     {
-      "title": "Jane Street grows its Fidelity Bitcoin ETF stake nearly 8x",
-      "summary": "Jane Street increased its FBTC share count nearly eightfold in Q3 while trimming its IBIT shares by 19%.",
+      "title": "Coinbase Institutional: the Fed, not the Binance hack, drove the drop",
+      "summary": "Coinbase Institutional's weekly report says Bitcoin's recent decline came mainly from shifting Fed rate expectations rather than the Binance hack.",
+      "source": "@WuBlockchain",
+      "url": "https://x.com/WuBlockchain/status/2121388241521942820"
+    },
+    {
+      "title": "2010-era Bitcoin wallets wake up",
+      "summary": "Two wallets dormant since 2010 moved a combined 100 BTC, worth about $6.9 million, after more than 16 years of inactivity.",
       "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2121189098920567233"
+      "url": "https://x.com/Cointelegraph/status/2121357611282911528"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Floor steady at 45k DOGE through the selloff",
-      "summary": "Thursday night the floor was still 45k DOGE (about $2.99k) with the same 17 asks, nothing new listed, and no sale since #495 on Nov 3.",
-      "source": "@BradXmetaX",
-      "url": "https://x.com/BradXmetaX/status/2121034182402900298"
+      "title": "Five live shows on a red Friday",
+      "summary": "The community lined up five CryptoSpacesNet shows with the Doginal Dogs on Friday, including Awakening Alpha with Vee, the Finance Show with Shibo and Bark, an NFT roundtable and Simply Crypto with Leah.",
+      "source": "@poxmetax",
+      "url": "https://x.com/poxmetax/status/2121321575618416967"
     },
     {
       "tag": "Doginal Dogs",
-      "title": "\"Jawn-ember\" hoodie season",
-      "summary": "The community renamed November \"Jawn-ember\" and dressed the pixel dogs in hoodies for Type Thursday.",
-      "source": "@devinteerfilms",
-      "url": "https://x.com/devinteerfilms/status/2120886837589717118"
+      "title": "Floor holds at 45k DOGE",
+      "summary": "Friday night the floor was still 45k DOGE (about $2.91k) with the same 17 asks all day and no sale since #495 on Nov 3, even with BTC down near $68.4k.",
+      "source": "@BradXmetaX",
+      "url": "https://x.com/BradXmetaX/status/2121394091128709620"
     },
     {
       "tag": "DDLTCG",
-      "title": "RusMetaX wins Legends Arena ROTP",
-      "summary": "The free-entry Doginal Dogs Legends TCG single-elimination Legends Arena on Thursday night, with a $50 prize, was won by @RusMetaX.",
-      "source": "@kennelDAO",
-      "url": "https://x.com/kennelDAO/status/2121072405619810552"
+      "title": "Championship registration closes Monday",
+      "summary": "Sign-ups for the first official DDLTCG Championship close Monday, Nov 16 at 12 AM ET; every player gets an exclusive Giga Rare Victorious Gary promo, and the top 16 advance to the Miami finals.",
+      "source": "@DDLTCG",
+      "url": "https://x.com/DDLTCG/status/2120275305415975226"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Card spotlight: Bender, Legendary Zombie",
+      "summary": "For Friday the 13th: Bender is a 5-mana 5/3 that brings back up to two Creatures costing 2 or less from your graveyard when played.",
+      "source": "@BoxMetaAlt",
+      "url": "https://x.com/BoxMetaAlt/status/2121277278743368134"
     },
     {
       "tag": "Pyth",
-      "title": "\"Wall Street looks good on Pyth\"",
-      "summary": "Pyth followed up its NYSE data deal with a push for builders to put the newly available Wall Street data to work.",
+      "title": "More markets land on Pyth Pro",
+      "summary": "Pyth Pro added extended-hours US equity coverage, coffee, gasoil and lithium futures, and new agricultural Pyth Indices.",
       "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2120895337271529911"
+      "url": "https://x.com/PythNetwork/status/2121275169796661713"
     },
     {
       "tag": "Pyth",
-      "title": "PIRB Friday check-in",
-      "summary": "PIRB says PYTH is holding up better than the rest of the market, Rule 100 is active with buybacks stacking, and Pyth powers prediction markets including Kalshi and Polymarket.",
-      "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2121226739187597786"
+      "title": "Douro Labs tells the CFTC to use multi-source prices",
+      "summary": "Pyth core contributor Douro Labs commented on the CFTC's Crypto Asset Market framework, recommending multi-source price aggregates over a single venue's feed for margining and liquidations.",
+      "source": "@DouroLabs",
+      "url": "https://x.com/DouroLabs/status/2121315180457959629"
     }
   ],
-  "notes": "No new posts from the official Doginal Dogs or DDLTCG accounts in the last day; items come from community posts."
+  "notes": "No new original posts from the official Doginal Dogs account in the last day; Doginal Dogs items come from community posts. Nothing new on Toot, Atlas or Boogie."
 }
