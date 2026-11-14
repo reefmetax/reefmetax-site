@@ -2,6 +2,13 @@
 title: Pyth's October 2026 Report in Plain English: $13.67M ARR, Treasury Curves and the Kalshi Midterms Index
 date: 2026-11-04
 description: What the numbers in Pyth's October 2026 report mean, what shipped across Pyth Pro and Pyth Indices, and how Pyth became the data source for Kalshi's KPOW Midterms index.
+faq:
+  - q: What were Pyth's headline numbers in the October 2026 report?
+    a: The report shows ARR of $13.67 million at the end of October, up 18.9% from $11.49 million in the September report, with $2.49 million of gross new ARR, $2.17 million of net new ARR, and 332 paying accounts.
+  - q: What is the US Treasury par curve that Pyth added?
+    a: It is 14 constant-maturity feeds covering the 2, 3, 5, 7, 10, 20 and 30 year maturities, each with a par yield and a discount factor, so apps can follow the shape of US interest rates through the trading session without tracking individual bonds.
+  - q: What is Kalshi's KPOW Midterms index?
+    a: Kalshi Research introduced KPOW Midterms as the first tradable political index on Kalshi. It combines each party's performance in the midterms into one measure of political power. Pyth posted that the index is sourced and published exclusively by Pyth, and every contract on it settles to Pyth's values.
 ---
 Pyth dropped its [October 2026 report](https://x.com/PythNetwork/status/2117617814869622985) on November 3, and the same day it showed up as the data source behind Kalshi's new midterms index. That is a lot of news in one week, so here is a plain-English walk through what the report says and why people in the community are talking about it. Every number below comes straight from Pyth's own posts.
 

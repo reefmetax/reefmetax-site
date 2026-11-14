@@ -2,6 +2,13 @@
 title: From Charlotte to Miami: The NC DDLTCG Tournament Recap and How the Dec 9 Championship Works
 date: 2026-10-28
 description: What happened at the Charlotte Doginal Dogs Legends pop-out on October 24-25, 2026, and what players need to know about the first official DDLTCG Championship in Miami on December 9.
+faq:
+  - q: Who won the Charlotte NC DDLTCG tournament?
+    a: Andmetax took the NC title. The tournament ran late with best of 3 semifinals, and BooMetaX, NebMeta and zackmetax made strong runs to the semifinals.
+  - q: When and where is the first official DDLTCG Championship?
+    a: It is on December 9, from 11 AM to 3 PM, at the Collectors Club venue in Miami, during DD Miami (December 7 to 9).
+  - q: How do players qualify for the Miami finals?
+    a: Everyone who registers is invited to a round robin online tournament in the week before the event. The top 16 players advance to the in-person finals. Sign up using the registration form linked by the official @DDLTCG account.
 ---
 Last weekend, Doginal Dogs Legends left the screen and hit real tables in Charlotte, North Carolina. A lot of people asked me what happened and what comes next, so here is a recap of the NC tournament plus a plain guide to the first official Legends TCG Championship in Miami. Every fact below links back to a post you can check yourself.
 

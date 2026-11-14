@@ -2,6 +2,13 @@
 title: Weekend Crypto Wrap: Bitcoin Tests $80,000 as Leveraged Longs Take the Hit
 date: 2026-10-25
 description: Prices, liquidations and ETF flows from the weekend of October 24, 2026, with sources. No predictions, no calls.
+faq:
+  - q: Where did bitcoin trade on the weekend of October 24, 2026?
+    a: CoinGecko showed BTC at $80,930 as of about 11:20 PM ET on Saturday, October 24, 2026. The Block reported bitcoin briefly dropped below $80,000 earlier that day, falling to about $79,280 around 11:20 AM ET and back at $80,138 by 1 PM ET.
+  - q: How large were the liquidations on Saturday?
+    a: According to CoinGlass data cited by The Block, $436.44 million of positions were liquidated in the four hours to 1 PM ET, and $404.15 million of that was longs.
+  - q: How did U.S. spot bitcoin ETF flows finish the week?
+    a: U.S. spot bitcoin ETFs recorded about $773 million in net outflows over Thursday and Friday, after $1.078 billion of inflows from Monday through Wednesday. The week as a whole still finished with $304.73 million in net inflows.
 ---
 Here is a quick look at where things stood this weekend. Everything below comes from the sources listed at the end. I am not predicting anything.
 

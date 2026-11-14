@@ -2,6 +2,13 @@
 title: Doginal Dogs 101: What Doginals Are and Why the Pack Cares
 date: 2026-10-25
 description: A plain-English intro to Doginals on Dogecoin, the Doginal Dogs collection, and why the community around it keeps growing.
+faq:
+  - q: What is a Doginal?
+    a: Doginals is the name for data, like an image or some text, written directly into transactions on the Dogecoin blockchain. It is Dogecoin's version of the idea behind Bitcoin Ordinals, not an Ethereum-style smart contract NFT.
+  - q: What is the Doginal Dogs collection?
+    a: Doginal Dogs is one specific collection of 10,000 pixel dogs inscribed on Dogecoin, and the project says every one was hand-curated. The mint happened on January 11, 2024. It was free, and the team covered the inscription costs.
+  - q: How did the Doginal Dogs project get started?
+    a: According to the project's About page, the story started in November 2023, when Bark wanted a pixel art version of his dog Atlas. The team first generated 30,000 dogs, cut that to 15,000, then trimmed to 10,000, adding dozens of handmade dogs to reach the total.
 ---
 Whenever someone new lands in the Doginal Dogs community, the same questions come up. What is a Doginal? Is it an NFT? Why do people care so much about 10,000 pixel dogs? Here is a plain answer, with sources at the bottom so you can check everything yourself.
 

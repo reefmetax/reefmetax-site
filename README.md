@@ -5,7 +5,7 @@ Static site for Reef (@Reefmetax), Community Builder: a home page with daily upd
 ## Daily update procedure
 
 1. **Write `data/news.json`** with today's items (schema below). Only use facts you verified, link every item to a plain `https://x.com/...` post, no hashtags, no buy or sell calls. If there is no verified Doginal Dogs news today, leave `doginal_news` empty (the page then says so) and explain in `notes`.
-2. **Run `python3 build.py`**. It fetches live prices and a 7-day BTC chart from CoinGecko, then writes `index.html`, `btc-chart.svg`, and also rebuilds the articles pages, `feed.xml`, `sitemap.xml` and `robots.txt` from `data/articles/`. The daily procedure does not need to change; the home page's Latest Articles teaser updates automatically. If CoinGecko fails, it reuses `data/prices_cache.json` and the page says the prices are last-known.
+2. **Run `python3 build.py`**. It fetches live prices and a 7-day BTC chart from CoinGecko, then writes `index.html`, `btc-chart.svg`, and also rebuilds the articles pages, `feed.xml`, `sitemap.xml`, `robots.txt` and `llms.txt` from `data/articles/`. The daily procedure does not need to change; the home page's Latest Articles teaser updates automatically. If CoinGecko fails, it reuses `data/prices_cache.json` and the page says the prices are last-known.
 3. **Publish:** `git add -A && git commit -m "Daily update" && git push`. GitHub Pages redeploys within a minute or two.
 
 Preview locally: open `index.html` in a browser, or run `python3 -m http.server` in this folder.
@@ -39,6 +39,13 @@ Articles live in `data/articles/<slug>.md` (the filename is the URL slug). Each 
 title: My Article Title
 date: 2026-10-25
 description: One or two sentences for search and social cards.
+faq:
+  - q: First short question answered in this article?
+    a: A short answer that uses only facts already in the article.
+  - q: Second question?
+    a: Second short answer, still from this article only.
+  - q: Third question?
+    a: Third short answer.
 ---
 First paragraph.
 
@@ -55,7 +62,7 @@ Not financial advice. Do your own research.
 ```
 
 - Supported markdown: `## ` headings, `- ` lists, paragraphs, `**bold**`, `*italic*`, `[text](https://...)` links. Set `draft: true` in the front matter to hide a file.
-- Run `python3 build.py`. It writes `articles/index.html`, `articles/<slug>/index.html`, `feed.xml`, `sitemap.xml` and `robots.txt`. The newest three show on the home page.
+- Run `python3 build.py`. It writes `articles/index.html`, `articles/<slug>/index.html`, `feed.xml`, `sitemap.xml`, `robots.txt` and `llms.txt`. The newest three show on the home page. If an article has a `faq` list of three `q`/`a` pairs in the front matter, the page gets a Quick answers section and matching FAQPage markup. Answers must come only from that article; do not invent facts.
 - Rules: byline is always "By Reef" with the photo, no hashtags, no buy or sell calls or price predictions, no invented personal facts or quotes, every number sourced in a Sources list, and the "Not financial advice" line (the page also adds a disclaimer box automatically).
 - Then `git add -A && git commit -m "New article" && git push`.
 
@@ -70,7 +77,7 @@ The photo is `assets/reef.jpg` (Reef's X profile picture, resized to 400px). Rep
 | `data/articles/*.md` | Articles (markdown + front matter) |
 | `assets/reef.jpg` | Reef's photo (About block and bylines) |
 | `assets/live-prices.js` | Client-side live prices: refreshes the home price table every 60 s and the 7-day BTC chart on load from CoinGecko; keeps the baked-in snapshot if the fetch fails |
-| `articles/`, `feed.xml`, `sitemap.xml`, `robots.txt` | Generated output |
+| `articles/`, `feed.xml`, `sitemap.xml`, `robots.txt`, `llms.txt` | Generated output |
 | `data/prices_cache.json` | Last successful price fetch, used as fallback (auto-written) |
 | `index.html`, `btc-chart.svg` | Generated output |
 | `CNAME` | Custom domain for GitHub Pages (`reefmetax.com`) |

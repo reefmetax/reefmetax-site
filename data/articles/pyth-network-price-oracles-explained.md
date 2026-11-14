@@ -2,6 +2,13 @@
 title: Pyth Network Explained: What a Price Oracle Is and How Pyth Works
 date: 2026-10-25
 description: A newcomer's guide to price oracles, the push vs pull idea, and what changed in Pyth's setup after the August 26, 2026 upgrade.
+faq:
+  - q: What is a price oracle?
+    a: A blockchain can't look up the price of bitcoin or a stock on its own. A price oracle is the service that brings those prices on-chain for apps that need them, like lending or trading apps.
+  - q: How does Pyth's pull model work?
+    a: With Pyth, prices are signed off-chain, and anyone can fetch the latest signed update and submit it to the on-chain contract. The contract checks that the update is authentic and stores it. An app can then update the price and use it in a single transaction.
+  - q: What changed in Pyth's setup on August 26, 2026?
+    a: Since August 26, 2026, Pyth Core gets its prices from Pyth Pro. Data sourcing and signing moved from Pythnet and the Wormhole guardians to five independent routers, and the quorum went from 13 of 19 signatures to 3 of 5. Hermes kept the same API, and the contracts kept their addresses and interface.
 ---
 Pyth Network is one of the names I see most in the community, and it is easy to nod along without knowing what it does. Here is a simple walkthrough for newcomers.
 

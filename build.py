@@ -131,6 +131,13 @@ footer b{color:var(--text)}
 .news .fine{margin-top:10px}
 .news.in-article{margin:34px 0 0}
 @media(min-width:700px){.news form{flex-direction:row;flex-wrap:wrap;align-items:flex-end}.news form label{flex:0 0 100%}.news input[type=email]{flex:1 1 260px;width:auto}}
+.faq{margin:34px 0 0;padding:18px 16px;border:1px solid var(--line);border-radius:16px;background:var(--panel)}
+.faq h2{font-size:23px;letter-spacing:-.01em;margin:0 0 14px}
+.faq h2::before{display:none}
+.faq dl{margin:0}
+.faq dt{font-weight:700;color:var(--text);font-size:16.5px;margin:16px 0 4px;line-height:1.35}
+.faq dt:first-of-type{margin-top:0}
+.faq dd{margin:0;color:#d3dde9;font-size:16px;line-height:1.65}
 """
 
 
@@ -222,6 +229,11 @@ def e(s):
     return html.escape(str(s), quote=True)
 
 
+def ld_script(obj):
+    """Serialize JSON-LD and keep </ from breaking out of the script tag."""
+    return f'<script type="application/ld+json">{json.dumps(obj, ensure_ascii=False).replace("</", "<\\/")}</script>'
+
+
 def safe_url(u):
     return u if str(u).startswith(("https://x.com/", "https://twitter.com/", "https://reefmetax.com")) else "#"
 
@@ -270,6 +282,16 @@ def render(news, prices, spark, price_stamp, live, articles=()):
     about_html = about_block()
     teaser_html = "".join(article_card(a) for a in list(articles)[:3]) or '<div class="card"><p class="muted">Articles coming soon.</p></div>'
     desc = "Reef, Community Builder in the Doginal Dogs and metax crypto community. Daily crypto updates and Doginal Dogs news from Louisville, KY."
+    ld = ld_script({
+        "@context": "https://schema.org",
+        "@graph": [
+            {"@type": "WebSite", "name": "Reef", "url": SITE, "description": desc,
+             "publisher": {"@id": f"{SITE}/#person"}},
+            {"@type": "Person", "@id": f"{SITE}/#person", "name": "Reef",
+             "alternateName": "Reefmetax", "url": SITE, "sameAs": [AUTHOR_URL],
+             "description": "Community Builder in Doginal Dogs and metax"},
+        ],
+    })
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -295,6 +317,8 @@ def render(news, prices, spark, price_stamp, live, articles=()):
 <meta name="twitter:title" content="Reef | Community Builder">
 <meta name="twitter:description" content="{e(desc)}">
 <meta name="twitter:image" content="{SITE}/og-image.png">
+<meta name="robots" content="index,follow,max-image-preview:large">
+{ld}
 <style>
 {CSS}
 </style>
@@ -364,29 +388,58 @@ def render_md(body):
     return "\n".join(out)
 
 
+def parse_front_matter(raw):
+    """Parse simple key: value front matter, plus an optional faq list of q/a pairs."""
+    m = re.match(r"---\n(.*?)\n---\n(.*)", raw, re.S)
+    if not m:
+        return None, None, None
+    meta, faq, i = {}, [], 0
+    lines = m.group(1).split("\n")
+    while i < len(lines):
+        line = lines[i]
+        if re.match(r"faq:\s*$", line):
+            i += 1
+            item = None
+            while i < len(lines):
+                l = lines[i]
+                if l.strip() and re.match(r"^\S", l) and not l.startswith("- "):
+                    break
+                mq = re.match(r"^\s*-\s+q:\s?(.*)$", l)
+                ma = re.match(r"^\s+a:\s?(.*)$", l)
+                if mq:
+                    if item and item.get("q") and item.get("a"):
+                        faq.append({"q": item["q"], "a": item["a"]})
+                    item = {"q": mq.group(1).strip(), "a": ""}
+                elif ma and item is not None:
+                    item["a"] = ma.group(1).strip()
+                i += 1
+            if item and item.get("q") and item.get("a"):
+                faq.append({"q": item["q"], "a": item["a"]})
+            continue
+        if ":" in line and not line.startswith((" ", "\t", "-")):
+            k, v = line.split(":", 1)
+            meta[k.strip()] = v.strip()
+        i += 1
+    return meta, faq, m.group(2).strip()
+
+
 def load_articles():
     arts = []
     for f in sorted(ARTICLES_DIR.glob("*.md")):
         raw = f.read_text(encoding="utf-8")
-        m = re.match(r"---\n(.*?)\n---\n(.*)", raw, re.S)
-        if not m:
+        meta, faq, body = parse_front_matter(raw)
+        if meta is None:
             print(f"skip {f.name}: missing front matter", file=sys.stderr)
             continue
-        meta = {}
-        for line in m.group(1).split("\n"):
-            if ":" in line:
-                k, v = line.split(":", 1)
-                meta[k.strip()] = v.strip()
         if not all(meta.get(k) for k in ("title", "date", "description")):
             print(f"skip {f.name}: needs title, date, description", file=sys.stderr)
             continue
         if meta.get("draft", "").lower() == "true":
             continue
-        body = m.group(2).strip()
         d = datetime.strptime(meta["date"], "%Y-%m-%d").date()
         words = len(re.sub(r"[#*\[\]()-]", " ", body).split())
         arts.append({"slug": meta.get("slug") or f.stem, "title": meta["title"], "date": d, "description": meta["description"],
-                     "body_html": render_md(body), "minutes": max(1, round(words / 200))})
+                     "body_html": render_md(body), "minutes": max(1, round(words / 200)), "faq": faq})
     arts.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
     return arts
 
@@ -434,6 +487,7 @@ def page_shell(title, desc, path, body, og_type="website", extra_head=""):
 <meta name="twitter:title" content="{e(title)}">
 <meta name="twitter:description" content="{e(desc)}">
 <meta name="twitter:image" content="{SITE}/og-image.png">
+<meta name="robots" content="index,follow,max-image-preview:large">
 {extra_head}<style>
 {CSS}
 </style>
@@ -448,19 +502,41 @@ def page_shell(title, desc, path, body, og_type="website", extra_head=""):
 """
 
 
+def faq_html(faq):
+    if not faq:
+        return ""
+    items = "".join(f"<dt>{e(item['q'])}</dt><dd>{e(item['a'])}</dd>" for item in faq)
+    return f'<section class="faq" aria-label="Quick answers"><h2>Quick answers</h2><dl>{items}</dl></section>'
+
+
+def faq_ld(faq):
+    if not faq:
+        return ""
+    return ld_script({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": item["q"],
+             "acceptedAnswer": {"@type": "Answer", "text": item["a"]}}
+            for item in faq
+        ],
+    })
+
+
 def render_article(a):
     path = f"/articles/{a['slug']}/"
-    ld = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": a["title"], "description": a["description"],
-                     "datePublished": a["date"].isoformat(), "mainEntityOfPage": f"{SITE}{path}",
-                     "author": {"@type": "Person", "name": AUTHOR, "url": AUTHOR_URL},
-                     "image": f"{SITE}/og-image.png"}).replace("</", "<\\/")
+    ld = ld_script({"@context": "https://schema.org", "@type": "Article", "headline": a["title"], "description": a["description"],
+                    "datePublished": a["date"].isoformat(), "mainEntityOfPage": f"{SITE}{path}",
+                    "author": {"@type": "Person", "name": AUTHOR, "url": AUTHOR_URL},
+                    "image": f"{SITE}/og-image.png"})
     extra = (f'<meta property="article:published_time" content="{a["date"].isoformat()}">\n'
-             f'<meta property="article:author" content="{AUTHOR_URL}">\n<script type="application/ld+json">{ld}</script>\n')
+             f'<meta property="article:author" content="{AUTHOR_URL}">\n{ld}\n{faq_ld(a.get("faq") or [])}\n')
     body = (f'<main class="wrap"><article class="article"><a class="back" href="/articles/">&larr; All articles</a>'
             f'<h1>{e(a["title"])}</h1>'
             f'<div class="byline"><img class="avatar" src="{AVATAR}" alt="Reef, profile picture" width="48" height="48">'
             f'<div><b>By <a href="{AUTHOR_URL}" target="_blank" rel="noopener">{AUTHOR}</a></b><span>{AUTHOR_ROLE} &middot; {date_str(a["date"])} &middot; {a["minutes"]} min read</span></div></div>'
             f'<div class="prose">{a["body_html"]}</div>'
+            f'{faq_html(a.get("faq") or [])}'
             f'<p class="disclaimer">Not financial advice. This is general information, not a recommendation to buy or sell anything. Do your own research.</p>'
             f'{newsletter_block("in-article")}'
             f'<a class="back" style="margin-top:26px" href="/articles/">&larr; Back to all articles</a></article></main>')
@@ -497,6 +573,41 @@ def render_sitemap(arts, home_date):
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}</urlset>\n'
 
 
+def render_robots():
+    bots = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "PerplexityBot",
+            "ClaudeBot", "Google-Extended", "Applebot-Extended"]
+    lines = ["User-agent: *", "Allow: /", ""]
+    for bot in bots:
+        lines.extend([f"User-agent: {bot}", "Allow: /", ""])
+    lines.append(f"Sitemap: {SITE}/sitemap.xml")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def render_llms_txt(arts):
+    lines = [
+        "# Reef",
+        "",
+        "> Reef (@Reefmetax on X) is a Community Builder in the Doginal Dogs and metax community. This site publishes daily crypto and Doginal Dogs, DDLTCG, and Pyth news, plus weekly articles.",
+        "",
+        "## Key pages",
+        "",
+        f"- [Home]({SITE}/): Daily crypto updates and Doginal Dogs, Legends TCG, and Pyth news.",
+        f"- [Articles]({SITE}/articles/): Plain-English write-ups on Doginal Dogs, crypto markets, and Pyth, written by Reef.",
+        f"- [RSS feed]({SITE}/feed.xml): Article feed.",
+        "",
+        "## Articles",
+        "",
+    ]
+    if arts:
+        for a in arts:
+            lines.append(f"- [{a['title']}]({SITE}/articles/{a['slug']}/): {a['description']}")
+    else:
+        lines.append("No articles published yet.")
+    lines.append("")
+    return "\n".join(lines)
+
+
 def build_articles(arts, home_date):
     import shutil
     out = ROOT / "articles"
@@ -512,7 +623,8 @@ def build_articles(arts, home_date):
         (out / a["slug"] / "index.html").write_text(render_article(a), encoding="utf-8")
     (ROOT / "feed.xml").write_text(render_feed(arts), encoding="utf-8")
     (ROOT / "sitemap.xml").write_text(render_sitemap(arts, home_date), encoding="utf-8")
-    (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n", encoding="utf-8")
+    (ROOT / "robots.txt").write_text(render_robots(), encoding="utf-8")
+    (ROOT / "llms.txt").write_text(render_llms_txt(arts), encoding="utf-8")
 
 
 def main():

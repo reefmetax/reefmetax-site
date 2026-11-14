@@ -2,6 +2,13 @@
 title: Crypto Week in Review: Hot CPI, Bitcoin Under $74,000 and Square Switches On Bitcoin Payments
 date: 2026-11-11
 description: A plain-English wrap of the week to November 11, 2026: the October inflation surprise, a fast liquidation flush, rate hike odds, and real adoption news from Square, Visa and Pyth. No predictions, no calls.
+faq:
+  - q: What was bitcoin's price in this week's wrap?
+    a: CoinGecko prices as of about 10:15 AM ET on Wednesday, November 11, 2026, showed BTC at $73,637, down 0.99% over 24 hours and roughly 8.5% in a week from about $80,440 at the start of November 5 (UTC).
+  - q: What inflation news moved markets this week?
+    a: Cointelegraph reported that the October Consumer Price Index rose 0.4% month over month, above the 0.3% estimate, and core CPI rose 0.3% against a 0.2% estimate. Less than an hour after the report, Polymarket odds of a 25 basis point Fed rate hike in December had climbed to 87%. A prediction market price reflects what traders are betting, not a decision the Fed has made.
+  - q: What adoption news happened while prices were sliding?
+    a: Square completed a phased rollout so eligible U.S. sellers can accept Lightning Network payments, with merchants receiving dollars by default or choosing to keep bitcoin, and fees waived through the end of 2026. Visa expanded its stablecoin settlement network to weekends and holidays. Pyth Network also shared that Earn went live, powered by Pyth, with users depositing USDC or USDT on Solana.
 ---
 It has been a heavy week on the charts and a surprisingly busy one for real-world adoption. Here is what happened, what the jargon means, and where each fact came from. As always, I am not predicting anything or telling anyone what to buy or sell.
 
