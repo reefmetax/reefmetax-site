@@ -1,87 +1,87 @@
 {
-  "updated_at": "2026-11-15T13:34:19Z",
-  "date_label": "Sunday, Nov 15, 2026",
+  "updated_at": "2026-11-16T13:30:06Z",
+  "date_label": "Monday, Nov 16, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin hits a four-month low near $62K",
-      "summary": "BTC slid as far as $62,112 over the weekend as leveraged longs were wiped out, down over $10,000 in a week.",
+      "title": "Strategy buys 485 more Bitcoin",
+      "summary": "Strategy bought 485 BTC for $33.4 million at an average of $68,887 between Nov 9 and 15, bringing its total to 850,849 BTC.",
+      "source": "@WuBlockchain",
+      "url": "https://x.com/WuBlockchain/status/2122315745078231112"
+    },
+    {
+      "title": "Spot crypto ETFs bleed for another week",
+      "summary": "BTC spot ETFs saw $1.07B in net outflows last week, with ETH at -$398.85M, SOL at -$32.05M and XRP at -$19.13M.",
       "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2121808085354188967"
+      "url": "https://x.com/Cointelegraph/status/2122200691254972745"
     },
     {
-      "title": "$230 billion wiped from crypto market cap in 24 hours",
-      "summary": "Saturday's selloff took BTC down 6.74%, ETH 9.36%, BNB 9.34%, XRP 10.92% and SOL 11.79% over 24 hours.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2121730115457450209"
-    },
-    {
-      "title": "Over $360 million liquidated in five minutes",
-      "summary": "Bitcoin fell under $65,000 and ETH under $1,800 Saturday afternoon ET as more than $360 million in positions were liquidated in five minutes.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2121710139967242497"
-    },
-    {
-      "title": "Bitcoin bounces back above $65,000",
-      "summary": "Late Saturday night ET, BTC turned green and reclaimed $65,000, liquidating $130 million in shorts.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2121802194517450941"
-    },
-    {
-      "title": "BitMine sits on a $9.7 billion unrealized loss",
-      "summary": "BitMine's 6.07 million ETH is now worth about half of what it paid, a $9.7 billion paper loss.",
+      "title": "Solana drops the \"mainnet beta\" label",
+      "summary": "Solana officially retired \"mainnet beta\" and introduced Solana 1.0, without changing the network.",
       "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2121853386207170713"
+      "url": "https://x.com/Cointelegraph/status/2122276193953100131"
     },
     {
-      "title": "Czech National Bank issues its first blockchain bonds",
-      "summary": "The Czech central bank issued its first bonds on a blockchain ledger, after already testing BTC in its portfolio.",
+      "title": "MoneyGram partners with Solflare at Breakpoint",
+      "summary": "Announced at Solana Breakpoint in London: Solflare wallet users will be able to cash out across 170 countries through MoneyGram.",
       "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2121838297794179191"
+      "url": "https://x.com/Cointelegraph/status/2122301335059997153"
+    },
+    {
+      "title": "Luxor to repay clients after hashrate hijack",
+      "summary": "Luxor says an AI-enabled attack on its Commander tool redirected bitcoin rigs from over a dozen client accounts to the OCEAN pool, and it will repay affected clients in full.",
+      "source": "@Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2122132753499963697"
+    },
+    {
+      "title": "CZ says Binance didn't sell the dump",
+      "summary": "CZ said Binance didn't sell and that he bought crypto in recent days, listing ETF outflows, hacks, hot inflation and the midterms among possible reasons for the drop.",
+      "source": "@Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2122034596279730473"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Snapback Dog #1492 changes hands",
-      "summary": "WelshBullTrader picked up Doginal Dog #1492 with the Snapback trait, worn by 141 of the 10,000 dogs (1.41%), thanking Shield for a smooth trade.",
-      "source": "@WelshBullTrader",
-      "url": "https://x.com/WelshBullTrader/status/2121821740645179786"
+      "title": "21 days until DDMIAMI",
+      "summary": "The countdown is on: three weeks left until DDMIAMI.",
+      "source": "@ROSEMETAX",
+      "url": "https://x.com/ROSEMETAX/status/2121964915934298386"
     },
     {
       "tag": "Doginal Dogs",
-      "title": "DDCompanion: a community AI desk assistant",
-      "summary": "DroMeta introduced DDCompanion, a portable AI desk assistant built by the community around the 10k pixel Doginal Dogs collection.",
-      "source": "@DroMeta",
-      "url": "https://x.com/DroMeta/status/2121931540137738493"
+      "title": "An unopened V1 Box of Awesomeness comes off eBay",
+      "summary": "emeta777 is delisting their Doginal Dogs items on eBay, including one of the last unopened V1 Box of Awesomeness.",
+      "source": "@emeta777",
+      "url": "https://x.com/emeta777/status/2122039841927864681"
     },
     {
       "tag": "DDLTCG",
-      "title": "Legends Arena bracket crowns RusMetaX",
-      "summary": "Friday night's free-entry, single-elimination Legends Arena ROTP bracket paid a $50 prize; RusMetaX took the title.",
-      "source": "@moneymetaxxx",
-      "url": "https://x.com/moneymetaxxx/status/2121702207548686368"
+      "title": "Hofer wins Legends Brackets Sunday",
+      "summary": "Hofer beat nosheks 2-0 in the Bo3 final to take the Doginal Dogs Legends Brackets Sunday title.",
+      "source": "@kennelDAO",
+      "url": "https://x.com/kennelDAO/status/2122175857686884536"
     },
     {
       "tag": "DDLTCG",
-      "title": "Championship registration closes tonight",
-      "summary": "Registration for the DDLTCG DDMIAMI Championship closes at 12 AM ET Monday, Nov 16; each entry adds a Victorious Gary promo.",
-      "source": "@Andmetax",
-      "url": "https://x.com/Andmetax/status/2121802386188406984"
+      "title": "Victorious Gary locked in for the Championship",
+      "summary": "PawsMeta secured a Victorious Gary for the first DDLTCG Championship, with DDMiami less than four weeks away.",
+      "source": "@BoxMetaAlt",
+      "url": "https://x.com/BoxMetaAlt/status/2122021227644752354"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth is at Breakpoint London",
-      "summary": "Pyth checked in from Breakpoint with a golf-themed booth where visitors can test their putting.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2121938435308970045"
+      "title": "Douro Labs urges CFTC to require multi-source prices",
+      "summary": "Douro Labs, a core Pyth contributor, told the CFTC that exchanges should use multi-source prices for margin and liquidations.",
+      "source": "@BSCNmedia",
+      "url": "https://x.com/BSCNmedia/status/2122132550776922212"
     },
     {
       "tag": "Pyth",
-      "title": "PIRB on the CFTC and multi-source prices",
-      "summary": "PIRB pointed to Pyth's 138+ publishers as the CFTC calls for robust multi-source prices.",
+      "title": "PIRB's Breakpoint charter jet contest",
+      "summary": "PIRB imagined a Pyth charter flight to Solana Breakpoint and is giving spins to the three funniest names for the jet.",
       "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2121619332832907753"
+      "url": "https://x.com/thePIRB/status/2122291693806362832"
     }
   ],
-  "notes": "No new posts from @DDLTCG in the last 24 hours, and no news on Toot, Atlas or Boogie."
+  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last 24 hours; community items above."
 }
