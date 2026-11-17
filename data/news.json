@@ -1,87 +1,80 @@
 {
-  "updated_at": "2026-11-16T13:30:06Z",
-  "date_label": "Monday, Nov 16, 2026",
+  "updated_at": "2026-11-17T13:29:46Z",
+  "date_label": "Tuesday, Nov 17, 2026",
   "crypto_headlines": [
     {
-      "title": "Strategy buys 485 more Bitcoin",
-      "summary": "Strategy bought 485 BTC for $33.4 million at an average of $68,887 between Nov 9 and 15, bringing its total to 850,849 BTC.",
+      "title": "Solana Foundation takes majority stake in CoinGecko",
+      "summary": "Announced at Breakpoint London: the Solana Foundation acquired a majority stake in CoinGecko and plans to bring SOL-powered trading to the platform.",
+      "source": "@CoinDesk",
+      "url": "https://x.com/CoinDesk/status/2122676030330617897"
+    },
+    {
+      "title": "NYSE parent ICE weighs running a Solana validator",
+      "summary": "Intercontinental Exchange, the parent company of the NYSE, is considering becoming a validator on Solana.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2122326536695185644"
+    },
+    {
+      "title": "Wells Fargo more than doubles its IBIT stake",
+      "summary": "Q3 13F filings show Wells Fargo holding 49.58M IBIT shares worth $2.35B, indirect exposure to 28,070 BTC and the largest reported IBIT position among investment managers.",
+      "source": "@CoinDesk",
+      "url": "https://x.com/CoinDesk/status/2122648678175289681"
+    },
+    {
+      "title": "BTC spot ETFs flip to a small inflow",
+      "summary": "Per SoSoValue, U.S. spot Bitcoin ETFs took in a net $7.99M on Nov 16, led by BlackRock's IBIT at $76.5M, while spot Ethereum ETFs saw $8.31M in outflows.",
       "source": "@WuBlockchain",
-      "url": "https://x.com/WuBlockchain/status/2122315745078231112"
+      "url": "https://x.com/WuBlockchain/status/2122678298795028815"
     },
     {
-      "title": "Spot crypto ETFs bleed for another week",
-      "summary": "BTC spot ETFs saw $1.07B in net outflows last week, with ETH at -$398.85M, SOL at -$32.05M and XRP at -$19.13M.",
-      "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2122200691254972745"
+      "title": "Wintermute says the bear market isn't over",
+      "summary": "Wintermute's Nov 16 report says Bitcoin fell 12.7% last week to around $65,400 and that the recent selloff shows no sign of a bottom.",
+      "source": "@WuBlockchain",
+      "url": "https://x.com/WuBlockchain/status/2122514904750174408"
     },
     {
-      "title": "Solana drops the \"mainnet beta\" label",
-      "summary": "Solana officially retired \"mainnet beta\" and introduced Solana 1.0, without changing the network.",
+      "title": "Binance attacker moves $137M in ETH",
+      "summary": "Wallets linked to the Binance hack moved 74,881 ETH (about $137M) across addresses; about $1.19B in BTC and $1.16B in ETH remain unlaundered.",
       "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2122276193953100131"
-    },
-    {
-      "title": "MoneyGram partners with Solflare at Breakpoint",
-      "summary": "Announced at Solana Breakpoint in London: Solflare wallet users will be able to cash out across 170 countries through MoneyGram.",
-      "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2122301335059997153"
-    },
-    {
-      "title": "Luxor to repay clients after hashrate hijack",
-      "summary": "Luxor says an AI-enabled attack on its Commander tool redirected bitcoin rigs from over a dozen client accounts to the OCEAN pool, and it will repay affected clients in full.",
-      "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2122132753499963697"
-    },
-    {
-      "title": "CZ says Binance didn't sell the dump",
-      "summary": "CZ said Binance didn't sell and that he bought crypto in recent days, listing ETF outflows, hacks, hot inflation and the midterms among possible reasons for the drop.",
-      "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2122034596279730473"
+      "url": "https://x.com/Cointelegraph/status/2122622096568119519"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "21 days until DDMIAMI",
-      "summary": "The countdown is on: three weeks left until DDMIAMI.",
-      "source": "@ROSEMETAX",
-      "url": "https://x.com/ROSEMETAX/status/2121964915934298386"
-    },
-    {
-      "tag": "Doginal Dogs",
-      "title": "An unopened V1 Box of Awesomeness comes off eBay",
-      "summary": "emeta777 is delisting their Doginal Dogs items on eBay, including one of the last unopened V1 Box of Awesomeness.",
-      "source": "@emeta777",
-      "url": "https://x.com/emeta777/status/2122039841927864681"
+      "title": "Doginal Dog #2674 sells for 99,000 DOGE",
+      "summary": "Doginal Dog #2674 sold for 99,000 DOGE (about $5,824), and the pack called it a grail in the replies.",
+      "source": "@DDSalesBot",
+      "url": "https://x.com/DDSalesBot/status/2122357986576241111"
     },
     {
       "tag": "DDLTCG",
-      "title": "Hofer wins Legends Brackets Sunday",
-      "summary": "Hofer beat nosheks 2-0 in the Bo3 final to take the Doginal Dogs Legends Brackets Sunday title.",
-      "source": "@kennelDAO",
-      "url": "https://x.com/kennelDAO/status/2122175857686884536"
-    },
-    {
-      "tag": "DDLTCG",
-      "title": "Victorious Gary locked in for the Championship",
-      "summary": "PawsMeta secured a Victorious Gary for the first DDLTCG Championship, with DDMiami less than four weeks away.",
-      "source": "@BoxMetaAlt",
-      "url": "https://x.com/BoxMetaAlt/status/2122021227644752354"
+      "title": "Collectors chase the Turbo x3 master set",
+      "summary": "HawaiiSol is working on a 3x master set and listed a Rise of the Pack First Edition TURBO x3 Full Art (V055) on eBay.",
+      "source": "@HawaiiSol",
+      "url": "https://x.com/HawaiiSol/status/2122425615215431891"
     },
     {
       "tag": "Pyth",
-      "title": "Douro Labs urges CFTC to require multi-source prices",
-      "summary": "Douro Labs, a core Pyth contributor, told the CFTC that exchanges should use multi-source prices for margin and liquidations.",
-      "source": "@BSCNmedia",
-      "url": "https://x.com/BSCNmedia/status/2122132550776922212"
-    },
-    {
-      "tag": "Pyth",
-      "title": "PIRB's Breakpoint charter jet contest",
-      "summary": "PIRB imagined a Pyth charter flight to Solana Breakpoint and is giving spins to the three funniest names for the jet.",
+      "title": "Pyth priced 95.9% of equity perps volume",
+      "summary": "PIRB says Pyth priced 95.9% ($368.5B) of last month's equity perps volume.",
       "source": "@thePIRB",
-      "url": "https://x.com/thePIRB/status/2122291693806362832"
+      "url": "https://x.com/thePIRB/status/2122641245042278889"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Polymarket Perps moves ANT-USD to Pyth Pro",
+      "summary": "Polymarket Perps switched its ANT-USD market to per-share pricing with Pyth Pro, with positions converting automatically.",
+      "source": "@PolymarketDevs",
+      "url": "https://x.com/PolymarketDevs/status/2122338334311579879"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Pyth putting green at Solana Breakpoint",
+      "summary": "Pyth's booth at Breakpoint in London has a putting green: take a shot at a hole-in-one and win Pyth swag.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2122615729451053207"
     }
   ],
-  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last 24 hours; community items above."
+  "notes": "No new original posts from @doginaldogs or @DDLTCG in the last 24 hours, and nothing new on Toot, Atlas or Boogie cards; community items above."
 }
