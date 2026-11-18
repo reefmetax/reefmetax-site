@@ -10,6 +10,7 @@
 
 ## Articles
 
+- [DDLTCG Championship Registration Is Open: How Victorious Gary Gets You Into Miami](https://reefmetax.com/articles/ddltcg-miami-championship-registration-victorious-gary/): A plain guide to the first official Doginal Dogs Legends TCG Championship: what the Victorious Gary promo card is, who can register in the 48 hour window that opened on November 18, 2026, and what happens next before the December 9 event in Miami.
 - [Crypto Week in Review: Hot CPI, Bitcoin Under $74,000 and Square Switches On Bitcoin Payments](https://reefmetax.com/articles/crypto-week-in-review-nov-11-2026/): A plain-English wrap of the week to November 11, 2026: the October inflation surprise, a fast liquidation flush, rate hike odds, and real adoption news from Square, Visa and Pyth. No predictions, no calls.
 - [Pyth's October 2026 Report in Plain English: $13.67M ARR, Treasury Curves and the Kalshi Midterms Index](https://reefmetax.com/articles/pyth-october-2026-report-explained/): What the numbers in Pyth's October 2026 report mean, what shipped across Pyth Pro and Pyth Indices, and how Pyth became the data source for Kalshi's KPOW Midterms index.
 - [From Charlotte to Miami: The NC DDLTCG Tournament Recap and How the Dec 9 Championship Works](https://reefmetax.com/articles/charlotte-ddltcg-tournament-recap-miami-championship/): What happened at the Charlotte Doginal Dogs Legends pop-out on October 24-25, 2026, and what players need to know about the first official DDLTCG Championship in Miami on December 9.
