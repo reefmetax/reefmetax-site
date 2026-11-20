@@ -1,80 +1,67 @@
 {
- "updated_at": "2026-11-19T13:26:57Z",
- "date_label": "Thursday, Nov 19, 2026",
+ "updated_at": "2026-11-20T13:35:33Z",
+ "date_label": "Friday, Nov 20, 2026",
  "crypto_headlines": [
   {
-   "title": "Bitcoin ETF outflows deepen",
-   "summary": "U.S. spot Bitcoin ETFs saw $306.42M in net outflows on Nov 18 and spot Ether ETFs $39.83M, the second straight day of Bitcoin ETF outflows. BlackRock's IBIT led with $149M.",
-   "source": "@Margexcom",
-   "url": "https://x.com/Margexcom/status/2123325413225050135"
+   "title": "BlackRock's IBIT posts its biggest outflow day ever",
+   "summary": "U.S. spot Bitcoin ETFs shed $582.2M on Nov 19, with $541M leaving BlackRock's IBIT. November Bitcoin ETF outflows are now around $3.47B, and spot Ether ETFs lost $131.2M.",
+   "source": "@TheBlockCo",
+   "url": "https://x.com/TheBlockCo/status/2123659806590509178"
   },
   {
-   "title": "Bitcoin slips under $63,000",
-   "summary": "BTC fell below $63,000 on Nov 18 as selling pressure continued.",
-   "source": "@WatcherGuru",
-   "url": "https://x.com/WatcherGuru/status/2123081861836804411"
+   "title": "Bitcoin falls below $62,000",
+   "summary": "BTC dropped under $62,000, its lowest level in over four months, with more than $170M in longs liquidated in four hours.",
+   "source": "@BullTheoryio",
+   "url": "https://x.com/BullTheoryio/status/2123516477290774615"
   },
   {
-   "title": "Court documents detail the $6.3B Binance hack",
-   "summary": "The hack involved 192 crypto assets across 11 blockchains, including at least $3.46B in stablecoins.",
-   "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2123378405211009098"
+   "title": "Monthly leveraged longs wiped out",
+   "summary": "James Lavish points out that monthly leveraged BTC longs have been blown out, with $12.7B of leveraged shorts stacked above the price.",
+   "source": "@jameslavish",
+   "url": "https://x.com/jameslavish/status/2123589829988659694"
   },
   {
-   "title": "$518M in illicit funds routed through Sky's PSM",
-   "summary": "Per Inca Digital, North Korean hackers and other illicit actors converted freezable USDC into DAI and USDS through Sky's Peg Stability Module, with $101.9M linked directly to wallets including those behind the Bybit hack.",
-   "source": "@CoinDesk",
-   "url": "https://x.com/CoinDesk/status/2123387157381255452"
+   "title": "CoinMarketCap app sent false $57K Bitcoin alerts",
+   "summary": "CoinMarketCap said some app users got push notifications with an incorrect BTC price that did not reflect real market prices, and it is investigating.",
+   "source": "@CoinMarketCap",
+   "url": "https://x.com/CoinMarketCap/status/2123426439970320888"
   },
   {
-   "title": "Russia weighs letting funds hold crypto",
-   "summary": "Russia is considering letting investment funds buy and hold crypto and letting retail investors trade crypto futures.",
-   "source": "@cryptorover",
-   "url": "https://x.com/cryptorover/status/2123372548851110121"
-  },
-  {
-   "title": "Solana's 2027 roadmap",
-   "summary": "The roadmap targets doubling network compute capacity and cutting token-account compute costs by 80%.",
-   "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2123398385390543213"
+   "title": "Peter Schiff asks what's holding Bitcoin up",
+   "summary": "The gold advocate said Bitcoin \"really should be getting killed in this market.\"",
+   "source": "@PeterSchiff",
+   "url": "https://x.com/PeterSchiff/status/2123593188271411649"
   }
  ],
  "doginal_news": [
   {
    "tag": "DDLTCG",
-   "title": "DDL TCG Championship registration is open",
-   "summary": "Victorious Gary promo card holders can register for the first official DDL TCG Championship. Registration is open for 48 hours from Nov 18.",
+   "title": "Championship registration window closes today",
+   "summary": "The 48-hour registration for the first official DDL TCG Championship, open to Victorious Gary promo holders, opened Nov 18 and closes around 10 AM ET today.",
    "source": "@DDLTCG",
    "url": "https://x.com/DDLTCG/status/2123071230500536492"
   },
   {
-   "tag": "Pyth",
-   "title": "Pyth joins the WEF New Champions community",
-   "summary": "Pyth Network has joined the World Economic Forum's New Champions community, with Davos next.",
-   "source": "@PythNetwork",
-   "url": "https://x.com/PythNetwork/status/2123158927810367828"
+   "tag": "Doginal Dogs",
+   "title": "Unknown Collar names a Miami tournament rep",
+   "summary": "beatdropbri announced she will represent Unknown Collar at the Doginal Dogs TCG Tournament in Miami.",
+   "source": "@beatdropbri",
+   "url": "https://x.com/beatdropbri/status/2123504094430052602"
   },
   {
    "tag": "Pyth",
-   "title": "Pyth covers Anthropic from day one of trading",
-   "summary": "Pyth's 24/7 index and 24/5 feed for Anthropic go live as trading starts, and the $ANT feed is live on Pyth today.",
+   "title": "Anthropic ($ANT) feeds are live on Pyth",
+   "summary": "Pyth's 24/5 feed and 24/7 index for Anthropic are now available to exchanges, prediction markets and agents.",
    "source": "@PythNetwork",
-   "url": "https://x.com/PythNetwork/status/2123189521827115303"
+   "url": "https://x.com/PythNetwork/status/2123464696795660438"
   },
   {
    "tag": "Pyth",
-   "title": "Pyth market data on LayerZero ATLAS",
-   "summary": "ATLAS, a headless exchange on LayerZero's Zero chain, launches Nov 30, and Pyth market data will be available from day one.",
+   "title": "Options on Solana powered by Pyth",
+   "summary": "Pyth highlighted Leaps Finance, a new platform for selling options on Solana with upfront yield, as live and powered by Pyth.",
    "source": "@PythNetwork",
-   "url": "https://x.com/PythNetwork/status/2123083024128430316"
-  },
-  {
-   "tag": "Pyth",
-   "title": "Pyth at The Markets Summit in London",
-   "summary": "Pyth's Mike Cahill speaks at 4 PM GMT today on a panel about APIs, algos and AI in electronic rates trading.",
-   "source": "@PythNetwork",
-   "url": "https://x.com/PythNetwork/status/2123340511658614878"
+   "url": "https://x.com/PythNetwork/status/2123498741248282635"
   }
  ],
- "notes": "No new original posts from @doginaldogs (only reposts) and no DDSalesBot sales in the last 24 hours."
+ "notes": "No new original posts from @doginaldogs (only replies) and no DDSalesBot sales in the last 24 hours."
 }
