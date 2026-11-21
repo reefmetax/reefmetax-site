@@ -1,67 +1,73 @@
 {
- "updated_at": "2026-11-20T13:35:33Z",
- "date_label": "Friday, Nov 20, 2026",
+ "updated_at": "2026-11-21T13:35:25Z",
+ "date_label": "Saturday, Nov 21, 2026",
  "crypto_headlines": [
   {
-   "title": "BlackRock's IBIT posts its biggest outflow day ever",
-   "summary": "U.S. spot Bitcoin ETFs shed $582.2M on Nov 19, with $541M leaving BlackRock's IBIT. November Bitcoin ETF outflows are now around $3.47B, and spot Ether ETFs lost $131.2M.",
-   "source": "@TheBlockCo",
-   "url": "https://x.com/TheBlockCo/status/2123659806590509178"
+   "title": "Bitcoin hits lowest level since September 2024, then bounces",
+   "summary": "BTC fell to a low of about $55,130 overnight before climbing back above $59,000, with Ethereum back above $1,650.",
+   "source": "@AshCrypto",
+   "url": "https://x.com/AshCrypto/status/2124128225173639404"
   },
   {
-   "title": "Bitcoin falls below $62,000",
-   "summary": "BTC dropped under $62,000, its lowest level in over four months, with more than $170M in longs liquidated in four hours.",
-   "source": "@BullTheoryio",
-   "url": "https://x.com/BullTheoryio/status/2123516477290774615"
+   "title": "$2.7B in leveraged crypto positions liquidated in 24 hours",
+   "summary": "The Kobeissi Letter says it is the 11th-largest liquidation event in crypto market history.",
+   "source": "@KobeissiLetter",
+   "url": "https://x.com/KobeissiLetter/status/2124129427026047221"
   },
   {
-   "title": "Monthly leveraged longs wiped out",
-   "summary": "James Lavish points out that monthly leveraged BTC longs have been blown out, with $12.7B of leveraged shorts stacked above the price.",
-   "source": "@jameslavish",
-   "url": "https://x.com/jameslavish/status/2123589829988659694"
+   "title": "Kraken BTC/CAD pair flash-crashes, trades stand",
+   "summary": "Kraken's BTC/CAD pair dropped as low as C$24,250 (about $16,900) while BTC traded around $57K elsewhere, and Kraken says every trade stands.",
+   "source": "@Cointelegraph",
+   "url": "https://x.com/Cointelegraph/status/2124114860195627427"
   },
   {
-   "title": "CoinMarketCap app sent false $57K Bitcoin alerts",
-   "summary": "CoinMarketCap said some app users got push notifications with an incorrect BTC price that did not reflect real market prices, and it is investigating.",
-   "source": "@CoinMarketCap",
-   "url": "https://x.com/CoinMarketCap/status/2123426439970320888"
+   "title": "Spot Bitcoin ETFs post a fourth straight day of outflows",
+   "summary": "US spot Bitcoin ETFs saw $124.4M in net outflows on Nov 20, per SoSoValue, bringing the week to about $1.24B out.",
+   "source": "@CoinLab_news",
+   "url": "https://x.com/CoinLab_news/status/2123956633172934901"
   },
   {
-   "title": "Peter Schiff asks what's holding Bitcoin up",
-   "summary": "The gold advocate said Bitcoin \"really should be getting killed in this market.\"",
-   "source": "@PeterSchiff",
-   "url": "https://x.com/PeterSchiff/status/2123593188271411649"
+   "title": "Crypto Fear and Greed Index drops to 6",
+   "summary": "That is lower than the readings during the 2020 Covid crash and the FTX and Luna collapses.",
+   "source": "@AshCrypto",
+   "url": "https://x.com/AshCrypto/status/2124105188323824053"
+  },
+  {
+   "title": "Strategy's BTC stack sits on a $14.96B unrealized loss",
+   "summary": "Strategy holds 850,849 BTC at an average purchase price of $75,452.",
+   "source": "@Cointelegraph",
+   "url": "https://x.com/Cointelegraph/status/2124118217211728247"
   }
  ],
  "doginal_news": [
   {
-   "tag": "DDLTCG",
-   "title": "Championship registration window closes today",
-   "summary": "The 48-hour registration for the first official DDL TCG Championship, open to Victorious Gary promo holders, opened Nov 18 and closes around 10 AM ET today.",
-   "source": "@DDLTCG",
-   "url": "https://x.com/DDLTCG/status/2123071230500536492"
-  },
-  {
    "tag": "Doginal Dogs",
-   "title": "Unknown Collar names a Miami tournament rep",
-   "summary": "beatdropbri announced she will represent Unknown Collar at the Doginal Dogs TCG Tournament in Miami.",
-   "source": "@beatdropbri",
-   "url": "https://x.com/beatdropbri/status/2123504094430052602"
+   "title": "Official Black Friday swag sale is live",
+   "summary": "Doginal Dogs opened its Black Friday sale with every swag item up for grabs one last time, limited stock while supplies last.",
+   "source": "@doginaldogs",
+   "url": "https://x.com/doginaldogs/status/2123827320041418892"
+  },
+  {
+   "tag": "DDLTCG",
+   "title": "Free Santa Gary promo card with $299+ orders",
+   "summary": "A Santa Gary promo card is automatically added to qualifying carts of $299 or more. It is not sold separately and is available while supplies last.",
+   "source": "@doginaldogs",
+   "url": "https://x.com/doginaldogs/status/2123830526666555634"
   },
   {
    "tag": "Pyth",
-   "title": "Anthropic ($ANT) feeds are live on Pyth",
-   "summary": "Pyth's 24/5 feed and 24/7 index for Anthropic are now available to exchanges, prediction markets and agents.",
+   "title": "Pyth Pro adds more global markets",
+   "summary": "New coverage includes expanded US equities with 24/5 ANT, Taiwan equities, more Pyth Indices, commodity and VIX futures, and more FX and 24/7 crypto feeds.",
    "source": "@PythNetwork",
-   "url": "https://x.com/PythNetwork/status/2123464696795660438"
+   "url": "https://x.com/PythNetwork/status/2123797417095250032"
   },
   {
    "tag": "Pyth",
-   "title": "Options on Solana powered by Pyth",
-   "summary": "Pyth highlighted Leaps Finance, a new platform for selling options on Solana with upfront yield, as live and powered by Pyth.",
-   "source": "@PythNetwork",
-   "url": "https://x.com/PythNetwork/status/2123498741248282635"
+   "title": "PIRB on pricing a market crash",
+   "summary": "PIRB posted about how a crash is only as clear as the precision of the prices you see, down to the millisecond.",
+   "source": "@thePIRB",
+   "url": "https://x.com/thePIRB/status/2123930086596358146"
   }
  ],
- "notes": "No new original posts from @doginaldogs (only replies) and no DDSalesBot sales in the last 24 hours."
+ "notes": "@DDLTCG posted nothing new in the last 24 hours, with no drops or restocks, and still no news on Toot, Atlas or Boogie."
 }
