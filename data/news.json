@@ -1,73 +1,73 @@
 {
- "updated_at": "2026-11-21T13:35:25Z",
- "date_label": "Saturday, Nov 21, 2026",
+ "updated_at": "2026-11-22T13:31:44Z",
+ "date_label": "Sunday, Nov 22, 2026",
  "crypto_headlines": [
   {
-   "title": "Bitcoin hits lowest level since September 2024, then bounces",
-   "summary": "BTC fell to a low of about $55,130 overnight before climbing back above $59,000, with Ethereum back above $1,650.",
-   "source": "@AshCrypto",
-   "url": "https://x.com/AshCrypto/status/2124128225173639404"
-  },
-  {
-   "title": "$2.7B in leveraged crypto positions liquidated in 24 hours",
-   "summary": "The Kobeissi Letter says it is the 11th-largest liquidation event in crypto market history.",
-   "source": "@KobeissiLetter",
-   "url": "https://x.com/KobeissiLetter/status/2124129427026047221"
-  },
-  {
-   "title": "Kraken BTC/CAD pair flash-crashes, trades stand",
-   "summary": "Kraken's BTC/CAD pair dropped as low as C$24,250 (about $16,900) while BTC traded around $57K elsewhere, and Kraken says every trade stands.",
+   "title": "Arthur Hayes: $50K is the next real test for BTC",
+   "summary": "Hayes says BTC decisively broke below its previous local low, and if the Nasdaq keeps falling, $50K is the next level to watch. BTC was back near $60.6K Sunday morning.",
    "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2124114860195627427"
+   "url": "https://x.com/Cointelegraph/status/2124480625327362295"
   },
   {
-   "title": "Spot Bitcoin ETFs post a fourth straight day of outflows",
-   "summary": "US spot Bitcoin ETFs saw $124.4M in net outflows on Nov 20, per SoSoValue, bringing the week to about $1.24B out.",
-   "source": "@CoinLab_news",
-   "url": "https://x.com/CoinLab_news/status/2123956633172934901"
-  },
-  {
-   "title": "Crypto Fear and Greed Index drops to 6",
-   "summary": "That is lower than the readings during the 2020 Covid crash and the FTX and Luna collapses.",
-   "source": "@AshCrypto",
-   "url": "https://x.com/AshCrypto/status/2124105188323824053"
-  },
-  {
-   "title": "Strategy's BTC stack sits on a $14.96B unrealized loss",
-   "summary": "Strategy holds 850,849 BTC at an average purchase price of $75,452.",
+   "title": "Binance BTC funding rate flips negative",
+   "summary": "CryptoQuant's Darkfost says negative funding on Binance can be an early sign of a reversal.",
    "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2124118217211728247"
+   "url": "https://x.com/Cointelegraph/status/2124405086734409809"
+  },
+  {
+   "title": "Coinbase BTC premium negative for 60 straight days",
+   "summary": "US buyers on Coinbase have been paying less than offshore markets for two months running.",
+   "source": "@Cointelegraph",
+   "url": "https://x.com/Cointelegraph/status/2124450392050176422"
+  },
+  {
+   "title": "ARK pulls its CoinDesk 20 crypto ETF filings",
+   "summary": "Cathie Wood's ARK told the SEC it does not intend to proceed with its CoinDesk 20 ETF or the no-Bitcoin version.",
+   "source": "@Cointelegraph",
+   "url": "https://x.com/Cointelegraph/status/2124359803082305640"
+  },
+  {
+   "title": "Russia opens BTC, ETH and USDT trading to retail on approved exchanges",
+   "summary": "Under new rules, retail investors in Russia can legally trade BTC, ETH and USDT on approved platforms.",
+   "source": "@AshCrypto",
+   "url": "https://x.com/AshCrypto/status/2124413006906007956"
+  },
+  {
+   "title": "Pump.fun ends external wallet login on Nov 30",
+   "summary": "Former Mt. Gox CEO Mark Karpeles criticized the change for asking users to paste private keys into the site.",
+   "source": "@Cointelegraph",
+   "url": "https://x.com/Cointelegraph/status/2124420192809722075"
   }
  ],
  "doginal_news": [
   {
    "tag": "Doginal Dogs",
-   "title": "Official Black Friday swag sale is live",
-   "summary": "Doginal Dogs opened its Black Friday sale with every swag item up for grabs one last time, limited stock while supplies last.",
-   "source": "@doginaldogs",
-   "url": "https://x.com/doginaldogs/status/2123827320041418892"
+   "title": "Black Friday backpack sold out, community says",
+   "summary": "@icyjetfuel says the backpack from the Black Friday swag sale sold out and the purse is next. @doginaldogs reposted it.",
+   "source": "@icyjetfuel",
+   "url": "https://x.com/icyjetfuel/status/2124162082992247043"
   },
   {
    "tag": "DDLTCG",
-   "title": "Free Santa Gary promo card with $299+ orders",
-   "summary": "A Santa Gary promo card is automatically added to qualifying carts of $299 or more. It is not sold separately and is available while supplies last.",
-   "source": "@doginaldogs",
-   "url": "https://x.com/doginaldogs/status/2123830526666555634"
+   "title": "AGS-graded Doginal Dogs slabs, Atlas included",
+   "summary": "@PeteSake813 got his graded Doginal Dogs cards back from AGS, Atlas included, and @DDLTCG reposted it.",
+   "source": "@PeteSake813",
+   "url": "https://x.com/PeteSake813/status/2123944744006938649"
+  },
+  {
+   "tag": "DDLTCG",
+   "title": "Rip or keep sealed? Legends box debate",
+   "summary": "The community is split on ripping sealed Legends boxes for pulls and gameplay or keeping them sealed.",
+   "source": "@moneymetaxxx",
+   "url": "https://x.com/moneymetaxxx/status/2124476739774488903"
   },
   {
    "tag": "Pyth",
-   "title": "Pyth Pro adds more global markets",
-   "summary": "New coverage includes expanded US equities with 24/5 ANT, Taiwan equities, more Pyth Indices, commodity and VIX futures, and more FX and 24/7 crypto feeds.",
-   "source": "@PythNetwork",
-   "url": "https://x.com/PythNetwork/status/2123797417095250032"
-  },
-  {
-   "tag": "Pyth",
-   "title": "PIRB on pricing a market crash",
-   "summary": "PIRB posted about how a crash is only as clear as the precision of the prices you see, down to the millisecond.",
+   "title": "PIRB: Nasdaq and NYSE data still on the Pyth Marketplace",
+   "summary": "PIRB quoted a community post noting that Nasdaq and NYSE data on the Pyth Marketplace and Pyth's RWA perps lead are still in place through the dump. PYTH was up about 6.6% over 24h Sunday morning, per CoinGecko.",
    "source": "@thePIRB",
-   "url": "https://x.com/thePIRB/status/2123930086596358146"
+   "url": "https://x.com/thePIRB/status/2124219876751384737"
   }
  ],
- "notes": "@DDLTCG posted nothing new in the last 24 hours, with no drops or restocks, and still no news on Toot, Atlas or Boogie."
+ "notes": "No new original posts from @doginaldogs, @DDLTCG or @PythNetwork in the last 24 hours (reposts only). Community items are listed above. Still no news on Toot, Atlas or Boogie drops or restocks."
 }
