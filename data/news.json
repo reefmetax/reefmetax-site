@@ -1,73 +1,87 @@
 {
- "updated_at": "2026-11-22T13:31:44Z",
- "date_label": "Sunday, Nov 22, 2026",
+ "updated_at": "2026-11-23T13:28:27Z",
+ "date_label": "Monday, Nov 23, 2026",
  "crypto_headlines": [
   {
-   "title": "Arthur Hayes: $50K is the next real test for BTC",
-   "summary": "Hayes says BTC decisively broke below its previous local low, and if the Nasdaq keeps falling, $50K is the next level to watch. BTC was back near $60.6K Sunday morning.",
+   "title": "BTC closes its 7th straight red week, first time since 2022",
+   "summary": "BTC's weekly close came in at $61,144, still above this year's lowest weekly close of $59,486. It is down over 30% since last month.",
+   "source": "@BullTheoryio",
+   "url": "https://x.com/BullTheoryio/status/2124720505592963305"
+  },
+  {
+   "title": "Spot Bitcoin ETFs see $1.79B in weekly outflows",
+   "summary": "U.S. spot Bitcoin ETFs had $1.79B in outflows last week, the largest weekly outflow in 21 weeks.",
+   "source": "@AshCrypto",
+   "url": "https://x.com/AshCrypto/status/2124712766183485842"
+  },
+  {
+   "title": "Bitcoin bounces from around $56K to about $61K",
+   "summary": "BTC was near $61,216 Monday morning (+0.9% over 24h), with ETH at $1,722, SOL at $72.50, DOGE at $0.0557 and PYTH at $0.0511, per CoinGecko around 8:30 AM ET.",
+   "source": "@TedPillows",
+   "url": "https://x.com/TedPillows/status/2124786292928241724"
+  },
+  {
+   "title": "Binance funding flips negative, Coinbase premium negative for 60 days",
+   "summary": "Binance perpetual funding rates turned negative, and the Coinbase Bitcoin premium has stayed negative for 60 straight days.",
+   "source": "X News",
+   "url": "https://x.com/i/trending/2124472496779055220"
+  },
+  {
+   "title": "Arthur Hayes ties further BTC downside to Nasdaq weakness",
+   "summary": "Hayes warns $50K could be tested if stocks keep falling.",
    "source": "@Cointelegraph",
    "url": "https://x.com/Cointelegraph/status/2124480625327362295"
   },
   {
-   "title": "Binance BTC funding rate flips negative",
-   "summary": "CryptoQuant's Darkfost says negative funding on Binance can be an early sign of a reversal.",
-   "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2124405086734409809"
-  },
-  {
-   "title": "Coinbase BTC premium negative for 60 straight days",
-   "summary": "US buyers on Coinbase have been paying less than offshore markets for two months running.",
-   "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2124450392050176422"
-  },
-  {
-   "title": "ARK pulls its CoinDesk 20 crypto ETF filings",
-   "summary": "Cathie Wood's ARK told the SEC it does not intend to proceed with its CoinDesk 20 ETF or the no-Bitcoin version.",
-   "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2124359803082305640"
-  },
-  {
-   "title": "Russia opens BTC, ETH and USDT trading to retail on approved exchanges",
-   "summary": "Under new rules, retail investors in Russia can legally trade BTC, ETH and USDT on approved platforms.",
-   "source": "@AshCrypto",
-   "url": "https://x.com/AshCrypto/status/2124413006906007956"
-  },
-  {
-   "title": "Pump.fun ends external wallet login on Nov 30",
-   "summary": "Former Mt. Gox CEO Mark Karpeles criticized the change for asking users to paste private keys into the site.",
-   "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2124420192809722075"
+   "title": "CYBER token hit by suspected bridge exploit",
+   "summary": "5.21M CYBER (about $1.1M) was minted on Solana and released from the Ethereum bridge. Upbit and Bithumb froze CYBER deposits and withdrawals.",
+   "source": "@TheBlockCo",
+   "url": "https://x.com/TheBlockCo/status/2124206161906008388"
   }
  ],
  "doginal_news": [
   {
+   "tag": "DDLTCG",
+   "title": "The first DDLTCG Championship starts today",
+   "summary": "Participants check in on Discord at 10am ET, and spectators can watch games online. Swiss-style matchups run all week, with knockouts Saturday, per the community.",
+   "source": "@DDLTCG",
+   "url": "https://x.com/DDLTCG/status/2124623975791681784"
+  },
+  {
+   "tag": "Doginal Dogs | DDLTCG",
+   "title": "Countdown to DDMIAMI",
+   "summary": "The community is counting down to DDMIAMI, where the Doginal Dogs Legends TCG championship takes place, about 15 days out as of Nov 22.",
+   "source": "@Andmetax",
+   "url": "https://x.com/Andmetax/status/2124517742707441723"
+  },
+  {
    "tag": "Doginal Dogs",
-   "title": "Black Friday backpack sold out, community says",
-   "summary": "@icyjetfuel says the backpack from the Black Friday swag sale sold out and the purse is next. @doginaldogs reposted it.",
-   "source": "@icyjetfuel",
-   "url": "https://x.com/icyjetfuel/status/2124162082992247043"
-  },
-  {
-   "tag": "DDLTCG",
-   "title": "AGS-graded Doginal Dogs slabs, Atlas included",
-   "summary": "@PeteSake813 got his graded Doginal Dogs cards back from AGS, Atlas included, and @DDLTCG reposted it.",
-   "source": "@PeteSake813",
-   "url": "https://x.com/PeteSake813/status/2123944744006938649"
-  },
-  {
-   "tag": "DDLTCG",
-   "title": "Rip or keep sealed? Legends box debate",
-   "summary": "The community is split on ripping sealed Legends boxes for pulls and gameplay or keeping them sealed.",
-   "source": "@moneymetaxxx",
-   "url": "https://x.com/moneymetaxxx/status/2124476739774488903"
+   "title": "\"Name a better community than Doginal Dogs\"",
+   "summary": "A community wave asking people to name a better community than Doginal Dogs, reposted by @doginaldogs.",
+   "source": "@BrewMetaX",
+   "url": "https://x.com/BrewMetaX/status/2124634490962411612"
   },
   {
    "tag": "Pyth",
-   "title": "PIRB: Nasdaq and NYSE data still on the Pyth Marketplace",
-   "summary": "PIRB quoted a community post noting that Nasdaq and NYSE data on the Pyth Marketplace and Pyth's RWA perps lead are still in place through the dump. PYTH was up about 6.6% over 24h Sunday morning, per CoinGecko.",
+   "title": "PIRB: Pyth is built into the new financial world",
+   "summary": "PIRB says Pyth is built into the fabric of the new financial world: perps, prediction markets, AI agents and distribution.",
    "source": "@thePIRB",
-   "url": "https://x.com/thePIRB/status/2124219876751384737"
+   "url": "https://x.com/thePIRB/status/2124540716294586750"
+  },
+  {
+   "tag": "Pyth",
+   "title": "LayerZero ATLAS gets the full Pyth data stack",
+   "summary": "A community post notes LayerZero ATLAS is getting access to the full Pyth data stack, including Pyth Pro and Pyth Indices.",
+   "source": "@_iambluey_",
+   "url": "https://x.com/_iambluey_/status/2124565953988178117"
+  },
+  {
+   "tag": "Pyth",
+   "title": "PYTH nearly flat over 200 days while BTC fell about 25.5%",
+   "summary": "Per @gandreou007, PYTH is down only about 0.5% over the last 200 days, while BTC lost about 25.5% over the same stretch.",
+   "source": "@gandreou007",
+   "url": "https://x.com/gandreou007/status/2124727139379613696"
   }
  ],
- "notes": "No new original posts from @doginaldogs, @DDLTCG or @PythNetwork in the last 24 hours (reposts only). Community items are listed above. Still no news on Toot, Atlas or Boogie drops or restocks."
+ "notes": "The DDLTCG Championship kicks off today with Discord check-in at 10am ET. Other Doginal Dogs and Pyth items above are community posts and reposts."
 }
