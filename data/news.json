@@ -1,87 +1,80 @@
 {
- "updated_at": "2026-11-23T13:28:27Z",
- "date_label": "Monday, Nov 23, 2026",
- "crypto_headlines": [
-  {
-   "title": "BTC closes its 7th straight red week, first time since 2022",
-   "summary": "BTC's weekly close came in at $61,144, still above this year's lowest weekly close of $59,486. It is down over 30% since last month.",
-   "source": "@BullTheoryio",
-   "url": "https://x.com/BullTheoryio/status/2124720505592963305"
-  },
-  {
-   "title": "Spot Bitcoin ETFs see $1.79B in weekly outflows",
-   "summary": "U.S. spot Bitcoin ETFs had $1.79B in outflows last week, the largest weekly outflow in 21 weeks.",
-   "source": "@AshCrypto",
-   "url": "https://x.com/AshCrypto/status/2124712766183485842"
-  },
-  {
-   "title": "Bitcoin bounces from around $56K to about $61K",
-   "summary": "BTC was near $61,216 Monday morning (+0.9% over 24h), with ETH at $1,722, SOL at $72.50, DOGE at $0.0557 and PYTH at $0.0511, per CoinGecko around 8:30 AM ET.",
-   "source": "@TedPillows",
-   "url": "https://x.com/TedPillows/status/2124786292928241724"
-  },
-  {
-   "title": "Binance funding flips negative, Coinbase premium negative for 60 days",
-   "summary": "Binance perpetual funding rates turned negative, and the Coinbase Bitcoin premium has stayed negative for 60 straight days.",
-   "source": "X News",
-   "url": "https://x.com/i/trending/2124472496779055220"
-  },
-  {
-   "title": "Arthur Hayes ties further BTC downside to Nasdaq weakness",
-   "summary": "Hayes warns $50K could be tested if stocks keep falling.",
-   "source": "@Cointelegraph",
-   "url": "https://x.com/Cointelegraph/status/2124480625327362295"
-  },
-  {
-   "title": "CYBER token hit by suspected bridge exploit",
-   "summary": "5.21M CYBER (about $1.1M) was minted on Solana and released from the Ethereum bridge. Upbit and Bithumb froze CYBER deposits and withdrawals.",
-   "source": "@TheBlockCo",
-   "url": "https://x.com/TheBlockCo/status/2124206161906008388"
-  }
- ],
- "doginal_news": [
-  {
-   "tag": "DDLTCG",
-   "title": "The first DDLTCG Championship starts today",
-   "summary": "Participants check in on Discord at 10am ET, and spectators can watch games online. Swiss-style matchups run all week, with knockouts Saturday, per the community.",
-   "source": "@DDLTCG",
-   "url": "https://x.com/DDLTCG/status/2124623975791681784"
-  },
-  {
-   "tag": "Doginal Dogs | DDLTCG",
-   "title": "Countdown to DDMIAMI",
-   "summary": "The community is counting down to DDMIAMI, where the Doginal Dogs Legends TCG championship takes place, about 15 days out as of Nov 22.",
-   "source": "@Andmetax",
-   "url": "https://x.com/Andmetax/status/2124517742707441723"
-  },
-  {
-   "tag": "Doginal Dogs",
-   "title": "\"Name a better community than Doginal Dogs\"",
-   "summary": "A community wave asking people to name a better community than Doginal Dogs, reposted by @doginaldogs.",
-   "source": "@BrewMetaX",
-   "url": "https://x.com/BrewMetaX/status/2124634490962411612"
-  },
-  {
-   "tag": "Pyth",
-   "title": "PIRB: Pyth is built into the new financial world",
-   "summary": "PIRB says Pyth is built into the fabric of the new financial world: perps, prediction markets, AI agents and distribution.",
-   "source": "@thePIRB",
-   "url": "https://x.com/thePIRB/status/2124540716294586750"
-  },
-  {
-   "tag": "Pyth",
-   "title": "LayerZero ATLAS gets the full Pyth data stack",
-   "summary": "A community post notes LayerZero ATLAS is getting access to the full Pyth data stack, including Pyth Pro and Pyth Indices.",
-   "source": "@_iambluey_",
-   "url": "https://x.com/_iambluey_/status/2124565953988178117"
-  },
-  {
-   "tag": "Pyth",
-   "title": "PYTH nearly flat over 200 days while BTC fell about 25.5%",
-   "summary": "Per @gandreou007, PYTH is down only about 0.5% over the last 200 days, while BTC lost about 25.5% over the same stretch.",
-   "source": "@gandreou007",
-   "url": "https://x.com/gandreou007/status/2124727139379613696"
-  }
- ],
- "notes": "The DDLTCG Championship kicks off today with Discord check-in at 10am ET. Other Doginal Dogs and Pyth items above are community posts and reposts."
+  "updated_at": "2026-11-24T13:33:00Z",
+  "date_label": "Tuesday, Nov 24, 2026",
+  "crypto_headlines": [
+    {
+      "title": "Bitcoin slips back under $60,000",
+      "summary": "BTC fell below $60K again overnight as ETH dropped under $1,700, giving back Monday's bounce.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2125063927918936294"
+    },
+    {
+      "title": "$850M in leveraged liquidations in 24 hours",
+      "summary": "The whipsaw around $60K wiped out about $850 million in levered positions in a day.",
+      "source": "@KobeissiLetter",
+      "url": "https://x.com/KobeissiLetter/status/2125064305372520946"
+    },
+    {
+      "title": "CFTC lets regulated venues count BTC, ETH and stablecoins",
+      "summary": "CFTC staff guidance lets regulated exchanges and clearinghouses use Bitcoin, Ethereum and qualifying stablecoins toward certain financial requirements, after haircuts.",
+      "source": "@cryptorover",
+      "url": "https://x.com/cryptorover/status/2124992482693853655"
+    },
+    {
+      "title": "BTCS sells 27,300 ETH to repay Aave debt",
+      "summary": "The Nasdaq-listed firm sold about 27,300 ETH for $43.8 million during Friday's selloff to cut its Aave borrowings and liquidation risk.",
+      "source": "@TheBlockCo",
+      "url": "https://x.com/TheBlockCo/status/2125202281633046776"
+    },
+    {
+      "title": "JPMorgan, HSBC and StoneX trade tokenized gold",
+      "summary": "The banks completed the first live trades in tokenized fractional gold, letting physical bars be used as collateral without moving the metal.",
+      "source": "@CoinDesk",
+      "url": "https://x.com/CoinDesk/status/2125183975824261604"
+    },
+    {
+      "title": "Swiss National Bank and UBS explore tokenized settlement",
+      "summary": "The SNB, UBS, SIX and six others are exploring tokenized financial settlement under Project Helvetia.",
+      "source": "@Cointelegraph",
+      "url": "https://x.com/Cointelegraph/status/2125167812964397225"
+    }
+  ],
+  "doginal_news": [
+    {
+      "tag": "Doginal Dogs",
+      "title": "DDMIAMI 2026 is two weeks out",
+      "summary": "Doginal Dogs announced DDMIAMI 2026 is in two weeks: \"The Dogs are about to take on Vice City.\"",
+      "source": "@doginaldogs",
+      "url": "https://x.com/doginaldogs/status/2124880658132603020"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "First DDLTCG Championship Swiss rounds keep rolling",
+      "summary": "The first Legends TCG Championship is in its Swiss rounds, with 13 days to go until DD Miami.",
+      "source": "@Andmetax",
+      "url": "https://x.com/Andmetax/status/2125207154965479510"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Pyth priced 91.6% of October commodity perps",
+      "summary": "Commodity perps did $206B in volume in October, and Pyth priced 91.6% of it.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2124934784497631570"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Former Nasdaq compliance head Nick Carso joins",
+      "summary": "After 20+ years at Nasdaq, Nick Carso joins the network as Head of Data Solutions.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2124865443504496894"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Kalshi reportedly settled 387.3M contracts on Pyth-priced markets",
+      "summary": "Kalshi reportedly processed 387.3M contracts from Nov 16 to 22 on markets settled with Pyth price feeds, and Pyth shared the stat.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2125178300116988102"
+    }
+  ],
+  "notes": "No original posts from @doginaldogs or @DDLTCG in the last 24 hours beyond the DDMIAMI countdown; the Championship update comes from the community."
 }
