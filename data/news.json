@@ -1,80 +1,73 @@
 {
-  "updated_at": "2026-11-24T13:33:00Z",
-  "date_label": "Tuesday, Nov 24, 2026",
+  "updated_at": "2026-11-25T13:26:44Z",
+  "date_label": "Wednesday, Nov 25, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin slips back under $60,000",
-      "summary": "BTC fell below $60K again overnight as ETH dropped under $1,700, giving back Monday's bounce.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2125063927918936294"
-    },
-    {
-      "title": "$850M in leveraged liquidations in 24 hours",
-      "summary": "The whipsaw around $60K wiped out about $850 million in levered positions in a day.",
-      "source": "@KobeissiLetter",
-      "url": "https://x.com/KobeissiLetter/status/2125064305372520946"
-    },
-    {
-      "title": "CFTC lets regulated venues count BTC, ETH and stablecoins",
-      "summary": "CFTC staff guidance lets regulated exchanges and clearinghouses use Bitcoin, Ethereum and qualifying stablecoins toward certain financial requirements, after haircuts.",
+      "title": "Bitcoin drops below the rainbow chart near $59K",
+      "summary": "BTC slid back toward $59,000 and fell below the bottom band of the popular rainbow chart model; Arthur Hayes posted that he expects a $55K retest.",
       "source": "@cryptorover",
-      "url": "https://x.com/cryptorover/status/2124992482693853655"
+      "url": "https://x.com/cryptorover/status/2125524463144014308"
     },
     {
-      "title": "BTCS sells 27,300 ETH to repay Aave debt",
-      "summary": "The Nasdaq-listed firm sold about 27,300 ETH for $43.8 million during Friday's selloff to cut its Aave borrowings and liquidation risk.",
-      "source": "@TheBlockCo",
-      "url": "https://x.com/TheBlockCo/status/2125202281633046776"
+      "title": "Bitcoin hash rate posts first annual decline since 2021",
+      "summary": "Glassnode says miners are switching machines off: hash rate is 8% below last year's level, with hash price at an all-time low.",
+      "source": "@glassnode",
+      "url": "https://x.com/glassnode/status/2125220482144186707"
     },
     {
-      "title": "JPMorgan, HSBC and StoneX trade tokenized gold",
-      "summary": "The banks completed the first live trades in tokenized fractional gold, letting physical bars be used as collateral without moving the metal.",
-      "source": "@CoinDesk",
-      "url": "https://x.com/CoinDesk/status/2125183975824261604"
+      "title": "Fidelity adds LINK, AAVE and UNI",
+      "summary": "Fidelity added Chainlink, Aave and Uniswap to its crypto trading platform and retirement accounts.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2125273299227910649"
     },
     {
-      "title": "Swiss National Bank and UBS explore tokenized settlement",
-      "summary": "The SNB, UBS, SIX and six others are exploring tokenized financial settlement under Project Helvetia.",
-      "source": "@Cointelegraph",
-      "url": "https://x.com/Cointelegraph/status/2125167812964397225"
+      "title": "French Senate rejects self-custody crypto declaration rule",
+      "summary": "The Senate voted down a proposal that would have required citizens to declare self-custodied crypto holdings of €100,000 or more.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2125538960940449999"
+    },
+    {
+      "title": "UniCredit launches a capital-protected Bitcoin product",
+      "summary": "Italy's second-largest bank launched a Bitcoin-linked certificate for retail clients with 100% capital protection at maturity.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2125236505337794809"
+    },
+    {
+      "title": "Abraxas Capital exits Hyperliquid",
+      "summary": "Lookonchain reports Abraxas sold 219,081 HYPE, bought 4,230 ETH and withdrew all its funds from Hyperliquid after $552M in perp profits.",
+      "source": "@lookonchain",
+      "url": "https://x.com/lookonchain/status/2125407295521853856"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "DDMIAMI 2026 is two weeks out",
-      "summary": "Doginal Dogs announced DDMIAMI 2026 is in two weeks: \"The Dogs are about to take on Vice City.\"",
-      "source": "@doginaldogs",
-      "url": "https://x.com/doginaldogs/status/2124880658132603020"
+      "title": "\"Markets down, Doginal Dogs stay up\"",
+      "summary": "The pack ran a \"Markets: Down. Doginal Dogs: stay up. Be a Doginal Dog.\" wave through Tuesday's red day.",
+      "source": "@Hofers",
+      "url": "https://x.com/Hofers/status/2125293619711967682"
     },
     {
-      "tag": "DDLTCG",
-      "title": "First DDLTCG Championship Swiss rounds keep rolling",
-      "summary": "The first Legends TCG Championship is in its Swiss rounds, with 13 days to go until DD Miami.",
-      "source": "@Andmetax",
-      "url": "https://x.com/Andmetax/status/2125207154965479510"
+      "tag": "Doginal Dogs",
+      "title": "Grail Suit Doginal Dog secured",
+      "summary": "NebMeta picked up a Grail Suit Dog during the dip, and @doginaldogs reposted it.",
+      "source": "@NebMeta",
+      "url": "https://x.com/NebMeta/status/2125349104158953650"
     },
     {
-      "tag": "Pyth",
-      "title": "Pyth priced 91.6% of October commodity perps",
-      "summary": "Commodity perps did $206B in volume in October, and Pyth priced 91.6% of it.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2124934784497631570"
-    },
-    {
-      "tag": "Pyth",
-      "title": "Former Nasdaq compliance head Nick Carso joins",
-      "summary": "After 20+ years at Nasdaq, Nick Carso joins the network as Head of Data Solutions.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2124865443504496894"
+      "tag": "Doginal Dogs",
+      "title": "DDMIAMI countdown hits 12 days",
+      "summary": "The community is counting down to DDMIAMI, which kicks off Dec 7.",
+      "source": "@realmjmetax",
+      "url": "https://x.com/realmjmetax/status/2125580109612449850"
     },
     {
       "tag": "Pyth",
-      "title": "Kalshi reportedly settled 387.3M contracts on Pyth-priced markets",
-      "summary": "Kalshi reportedly processed 387.3M contracts from Nov 16 to 22 on markets settled with Pyth price feeds, and Pyth shared the stat.",
+      "title": "US stocks go 23/5 on exchanges Dec 6",
+      "summary": "Pyth explains what changes when five US exchanges start trading stocks 23 hours a day, five days a week, starting Sunday, Dec 6.",
       "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2125178300116988102"
+      "url": "https://x.com/PythNetwork/status/2125244000924041642"
     }
   ],
-  "notes": "No original posts from @doginaldogs or @DDLTCG in the last 24 hours beyond the DDMIAMI countdown; the Championship update comes from the community."
+  "notes": "No original posts from @doginaldogs or @DDLTCG in the last 24 hours; items above are community posts."
 }
