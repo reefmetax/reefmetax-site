@@ -1,73 +1,81 @@
 {
-  "updated_at": "2026-11-25T13:26:44Z",
-  "date_label": "Wednesday, Nov 25, 2026",
+  "updated_at": "2026-11-26T13:35:33Z",
+  "date_label": "Thursday, Nov 26, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin drops below the rainbow chart near $59K",
-      "summary": "BTC slid back toward $59,000 and fell below the bottom band of the popular rainbow chart model; Arthur Hayes posted that he expects a $55K retest.",
-      "source": "@cryptorover",
-      "url": "https://x.com/cryptorover/status/2125524463144014308"
-    },
-    {
-      "title": "Bitcoin hash rate posts first annual decline since 2021",
-      "summary": "Glassnode says miners are switching machines off: hash rate is 8% below last year's level, with hash price at an all-time low.",
-      "source": "@glassnode",
-      "url": "https://x.com/glassnode/status/2125220482144186707"
-    },
-    {
-      "title": "Fidelity adds LINK, AAVE and UNI",
-      "summary": "Fidelity added Chainlink, Aave and Uniswap to its crypto trading platform and retirement accounts.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2125273299227910649"
-    },
-    {
-      "title": "French Senate rejects self-custody crypto declaration rule",
-      "summary": "The Senate voted down a proposal that would have required citizens to declare self-custodied crypto holdings of €100,000 or more.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2125538960940449999"
-    },
-    {
-      "title": "UniCredit launches a capital-protected Bitcoin product",
-      "summary": "Italy's second-largest bank launched a Bitcoin-linked certificate for retail clients with 100% capital protection at maturity.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2125236505337794809"
-    },
-    {
-      "title": "Abraxas Capital exits Hyperliquid",
-      "summary": "Lookonchain reports Abraxas sold 219,081 HYPE, bought 4,230 ETH and withdrew all its funds from Hyperliquid after $552M in perp profits.",
+      "title": "Bitcoin ETFs keep bleeding",
+      "summary": "Lookonchain's Nov 26 update shows spot Bitcoin ETFs at -5,802 BTC (-$352.66M) for the day and -$2.51B over 7 days; ETH ETFs lost $73.16M on the day. Bitcoin ETFs are closing in on their largest monthly net outflow ever.",
       "source": "@lookonchain",
-      "url": "https://x.com/lookonchain/status/2125407295521853856"
+      "url": "https://x.com/lookonchain/status/2125943913869680792"
+    },
+    {
+      "title": "BTC dips under $57,500, then squeezes to $61,500",
+      "summary": "Bitcoin fell below $57,500 with ETH near $1,600 and $500M in leveraged positions liquidated, then bounced to $61,500 with ETH back above $1,700 and $80M in shorts liquidated in 15 minutes.",
+      "source": "@cryptorover",
+      "url": "https://x.com/cryptorover/status/2125746236066349273"
+    },
+    {
+      "title": "US Strategic Bitcoin Reserve bill eligible for a full House vote",
+      "summary": "If signed into law, the bill would bar the US from selling its Bitcoin reserves for at least 20 years.",
+      "source": "@cryptorover",
+      "url": "https://x.com/cryptorover/status/2125686042359451962"
+    },
+    {
+      "title": "Israel's Discount Bank launches Bitcoin and Ethereum trading",
+      "summary": "The $150 billion bank becomes the first Israeli bank to offer BTC and ETH trading.",
+      "source": "@cryptorover",
+      "url": "https://x.com/cryptorover/status/2125941702049583516"
+    },
+    {
+      "title": "US M2 money supply hits a record $23.53 trillion",
+      "summary": "M2 rose $119 billion in October; year-over-year growth accelerated to 5.9%, the fastest since May 2022.",
+      "source": "@KobeissiLetter",
+      "url": "https://x.com/KobeissiLetter/status/2125749523452510647"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "\"Markets down, Doginal Dogs stay up\"",
-      "summary": "The pack ran a \"Markets: Down. Doginal Dogs: stay up. Be a Doginal Dog.\" wave through Tuesday's red day.",
-      "source": "@Hofers",
-      "url": "https://x.com/Hofers/status/2125293619711967682"
+      "title": "\"All you have to do is never give up\"",
+      "summary": "The pack ran a \"never give up\" wave overnight, and @doginaldogs reposted dozens of them.",
+      "source": "@beatdropbri",
+      "url": "https://x.com/beatdropbri/status/2125746763344617947"
     },
     {
       "tag": "Doginal Dogs",
-      "title": "Grail Suit Doginal Dog secured",
-      "summary": "NebMeta picked up a Grail Suit Dog during the dip, and @doginaldogs reposted it.",
-      "source": "@NebMeta",
-      "url": "https://x.com/NebMeta/status/2125349104158953650"
+      "title": "DDMIAMI: Shield & Friends on X",
+      "summary": "Shield dropped DDMIAMI alpha ahead of the Dec 7 to 9 event in Miami.",
+      "source": "@Shieldmetax",
+      "url": "https://x.com/Shieldmetax/status/2125665935935549661"
     },
     {
-      "tag": "Doginal Dogs",
-      "title": "DDMIAMI countdown hits 12 days",
-      "summary": "The community is counting down to DDMIAMI, which kicks off Dec 7.",
-      "source": "@realmjmetax",
-      "url": "https://x.com/realmjmetax/status/2125580109612449850"
+      "tag": "DDLTCG",
+      "title": "\"85 boxes of DDLTCG left ever\"",
+      "summary": "Astrozohmbie says only 85 Legends TCG boxes are left, and @DDLTCG reposted it, along with Thanksgiving pack-rip posts from the community.",
+      "source": "@Astrozohmbie",
+      "url": "https://x.com/Astrozohmbie/status/2125716193046593852"
     },
     {
       "tag": "Pyth",
-      "title": "US stocks go 23/5 on exchanges Dec 6",
-      "summary": "Pyth explains what changes when five US exchanges start trading stocks 23 hours a day, five days a week, starting Sunday, Dec 6.",
+      "title": "Wall Street is off for Thanksgiving, Pyth's indices aren't",
+      "summary": "Pyth's 24/7 indices keep running through the US holiday.",
       "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2125244000924041642"
+      "url": "https://x.com/PythNetwork/status/2125931142461202788"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Pyth Pro covers 1,053 US stock and ETF feeds",
+      "summary": "Real-time prices across names like QQQ, IBIT, CRCL and GLD, available through the Pyth Pro Terminal.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2125638656756998337"
+    },
+    {
+      "tag": "Pyth",
+      "title": "Pyth heads to Davos on January 20",
+      "summary": "Pyth is hosting an invitation-only gathering for finance leaders at a private chalet above Davos.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2125614699031245174"
     }
   ],
-  "notes": "No original posts from @doginaldogs or @DDLTCG in the last 24 hours; items above are community posts."
+  "notes": "No original posts from @doginaldogs or @DDLTCG in the last 24 hours, only reposts of community posts."
 }
