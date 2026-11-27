@@ -1,81 +1,80 @@
 {
-  "updated_at": "2026-11-26T13:35:33Z",
-  "date_label": "Thursday, Nov 26, 2026",
+  "updated_at": "2026-11-27T13:27:54Z",
+  "date_label": "Friday, Nov 27, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin ETFs keep bleeding",
-      "summary": "Lookonchain's Nov 26 update shows spot Bitcoin ETFs at -5,802 BTC (-$352.66M) for the day and -$2.51B over 7 days; ETH ETFs lost $73.16M on the day. Bitcoin ETFs are closing in on their largest monthly net outflow ever.",
-      "source": "@lookonchain",
-      "url": "https://x.com/lookonchain/status/2125943913869680792"
+      "title": "Bitcoin reclaims $62,000",
+      "summary": "BTC bounced back above $62K overnight as risk assets rebounded after Thanksgiving.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2126229476942262613"
     },
     {
-      "title": "BTC dips under $57,500, then squeezes to $61,500",
-      "summary": "Bitcoin fell below $57,500 with ETH near $1,600 and $500M in leveraged positions liquidated, then bounced to $61,500 with ETH back above $1,700 and $80M in shorts liquidated in 15 minutes.",
-      "source": "@cryptorover",
-      "url": "https://x.com/cryptorover/status/2125746236066349273"
+      "title": "Aon settles stablecoin insurance premiums on Solana",
+      "summary": "The world's second-largest insurance broker settled its first crypto stablecoin insurance premiums on Solana.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2126251286928736504"
     },
     {
-      "title": "US Strategic Bitcoin Reserve bill eligible for a full House vote",
-      "summary": "If signed into law, the bill would bar the US from selling its Bitcoin reserves for at least 20 years.",
-      "source": "@cryptorover",
-      "url": "https://x.com/cryptorover/status/2125686042359451962"
-    },
-    {
-      "title": "Israel's Discount Bank launches Bitcoin and Ethereum trading",
-      "summary": "The $150 billion bank becomes the first Israeli bank to offer BTC and ETH trading.",
-      "source": "@cryptorover",
-      "url": "https://x.com/cryptorover/status/2125941702049583516"
-    },
-    {
-      "title": "US M2 money supply hits a record $23.53 trillion",
-      "summary": "M2 rose $119 billion in October; year-over-year growth accelerated to 5.9%, the fastest since May 2022.",
+      "title": "Gold up over 4%, silver up 10%",
+      "summary": "Dip buyers rotated into precious metals while S&P 500 futures pushed back above 7,300.",
       "source": "@KobeissiLetter",
-      "url": "https://x.com/KobeissiLetter/status/2125749523452510647"
+      "url": "https://x.com/KobeissiLetter/status/2126274285538832812"
+    },
+    {
+      "title": "Brazil's stock exchange plans a stablecoin for tokenized stock trades",
+      "summary": "The exchange is teaming up with six major financial firms on a stablecoin to settle tokenized stock trades.",
+      "source": "@cryptorover",
+      "url": "https://x.com/cryptorover/status/2126281295546159429"
+    },
+    {
+      "title": "EU to launch an upgraded crypto registry in mid-2027",
+      "summary": "The new registry is meant to make it easier to verify authorized crypto companies.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2126240709862711494"
+    },
+    {
+      "title": "Trader opens 40x long on 2,000 BTC",
+      "summary": "AguilaTrades opened a $122.9M 40x BTC long with a liquidation price of $59,101.",
+      "source": "@lookonchain",
+      "url": "https://x.com/lookonchain/status/2126298298546065448"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "\"All you have to do is never give up\"",
-      "summary": "The pack ran a \"never give up\" wave overnight, and @doginaldogs reposted dozens of them.",
-      "source": "@beatdropbri",
-      "url": "https://x.com/beatdropbri/status/2125746763344617947"
-    },
-    {
-      "tag": "Doginal Dogs",
-      "title": "DDMIAMI: Shield & Friends on X",
-      "summary": "Shield dropped DDMIAMI alpha ahead of the Dec 7 to 9 event in Miami.",
-      "source": "@Shieldmetax",
-      "url": "https://x.com/Shieldmetax/status/2125665935935549661"
+      "title": "Happy Thanksgiving from the Pack",
+      "summary": "Doginal Dogs thanked every dog in the community that keeps showing up no matter what.",
+      "source": "@doginaldogs",
+      "url": "https://x.com/doginaldogs/status/2125969391422447707"
     },
     {
       "tag": "DDLTCG",
-      "title": "\"85 boxes of DDLTCG left ever\"",
-      "summary": "Astrozohmbie says only 85 Legends TCG boxes are left, and @DDLTCG reposted it, along with Thanksgiving pack-rip posts from the community.",
-      "source": "@Astrozohmbie",
-      "url": "https://x.com/Astrozohmbie/status/2125716193046593852"
+      "title": "Black Friday box check",
+      "summary": "Spade asked how many holders still have Legends TCG boxes left to rip; he is keeping four sealed.",
+      "source": "@Spademeta",
+      "url": "https://x.com/Spademeta/status/2126299970945085477"
+    },
+    {
+      "tag": "DDLTCG",
+      "title": "Legends TCG battle: Vee vs Daws",
+      "summary": "Community battle videos keep coming, after Boo vs Bri last night.",
+      "source": "@MetalXMeta",
+      "url": "https://x.com/MetalXMeta/status/2126305230606254360"
     },
     {
       "tag": "Pyth",
-      "title": "Wall Street is off for Thanksgiving, Pyth's indices aren't",
-      "summary": "Pyth's 24/7 indices keep running through the US holiday.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2125931142461202788"
+      "title": "42 new equity feeds this week",
+      "summary": "Pyth now has 61 Chinese equities live, alongside 107 in Hong Kong, 18 in South Korea, 22 in Japan and 1 in India.",
+      "source": "@realpepito",
+      "url": "https://x.com/realpepito/status/2126257214180536360"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth Pro covers 1,053 US stock and ETF feeds",
-      "summary": "Real-time prices across names like QQQ, IBIT, CRCL and GLD, available through the Pyth Pro Terminal.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2125638656756998337"
-    },
-    {
-      "tag": "Pyth",
-      "title": "Pyth heads to Davos on January 20",
-      "summary": "Pyth is hosting an invitation-only gathering for finance leaders at a private chalet above Davos.",
-      "source": "@PythNetwork",
-      "url": "https://x.com/PythNetwork/status/2125614699031245174"
+      "title": "Pyth Pro got wider this week",
+      "summary": "New additions include Taiwan equities, commodity and VIX futures, more Pyth Indices, 24/5 ANT, and more FX and 24/7 crypto feeds.",
+      "source": "@0xNick23",
+      "url": "https://x.com/0xNick23/status/2126246076747309291"
     }
   ],
-  "notes": "No original posts from @doginaldogs or @DDLTCG in the last 24 hours, only reposts of community posts."
+  "notes": "Quiet holiday stretch: @doginaldogs posted a Thanksgiving message, and @DDLTCG had no original posts in the last 24 hours."
 }
