@@ -1,80 +1,74 @@
 {
-  "updated_at": "2026-11-27T13:27:54Z",
-  "date_label": "Friday, Nov 27, 2026",
+  "updated_at": "2026-11-28T13:30:59Z",
+  "date_label": "Saturday, Nov 28, 2026",
   "crypto_headlines": [
     {
-      "title": "Bitcoin reclaims $62,000",
-      "summary": "BTC bounced back above $62K overnight as risk assets rebounded after Thanksgiving.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2126229476942262613"
-    },
-    {
-      "title": "Aon settles stablecoin insurance premiums on Solana",
-      "summary": "The world's second-largest insurance broker settled its first crypto stablecoin insurance premiums on Solana.",
-      "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2126251286928736504"
-    },
-    {
-      "title": "Gold up over 4%, silver up 10%",
-      "summary": "Dip buyers rotated into precious metals while S&P 500 futures pushed back above 7,300.",
+      "title": "WLFI plunges over 50% and USD1 depegs",
+      "summary": "World Liberty Financial's WLFI token fell more than 50% in minutes overnight, and its USD1 stablecoin slipped below the dollar.",
       "source": "@KobeissiLetter",
-      "url": "https://x.com/KobeissiLetter/status/2126274285538832812"
+      "url": "https://x.com/KobeissiLetter/status/2126651808328396947"
     },
     {
-      "title": "Brazil's stock exchange plans a stablecoin for tokenized stock trades",
-      "summary": "The exchange is teaming up with six major financial firms on a stablecoin to settle tokenized stock trades.",
-      "source": "@cryptorover",
-      "url": "https://x.com/cryptorover/status/2126281295546159429"
-    },
-    {
-      "title": "EU to launch an upgraded crypto registry in mid-2027",
-      "summary": "The new registry is meant to make it easier to verify authorized crypto companies.",
+      "title": "Justin Sun accuses World Liberty Financial of fraud",
+      "summary": "The Tron founder called for exchanges to delist WLFI and USD1.",
       "source": "@WatcherGuru",
-      "url": "https://x.com/WatcherGuru/status/2126240709862711494"
+      "url": "https://x.com/WatcherGuru/status/2126582764484899327"
     },
     {
-      "title": "Trader opens 40x long on 2,000 BTC",
-      "summary": "AguilaTrades opened a $122.9M 40x BTC long with a liquidation price of $59,101.",
-      "source": "@lookonchain",
-      "url": "https://x.com/lookonchain/status/2126298298546065448"
+      "title": "Regulators shut down United Fidelity Bank",
+      "summary": "The roughly $6B bank is the biggest US bank failure since April 2024.",
+      "source": "@WatcherGuru",
+      "url": "https://x.com/WatcherGuru/status/2126553822302794050"
+    },
+    {
+      "title": "Bitcoin ETFs sold $1.64B this week",
+      "summary": "BlackRock and other spot ETFs saw $1.64B worth of BTC sold over the week.",
+      "source": "@AshCrypto",
+      "url": "https://x.com/AshCrypto/status/2126546852959093033"
+    },
+    {
+      "title": "Whales added 121,117 BTC in Q4",
+      "summary": "Large holders added about $7.3B in BTC this quarter despite the drawdown.",
+      "source": "@cryptorover",
+      "url": "https://x.com/cryptorover/status/2126631465656181151"
     }
   ],
   "doginal_news": [
     {
       "tag": "Doginal Dogs",
-      "title": "Happy Thanksgiving from the Pack",
-      "summary": "Doginal Dogs thanked every dog in the community that keeps showing up no matter what.",
+      "title": "DDMIAMI 2026 is 10 days away",
+      "summary": "Doginal Dogs is counting down to what it calls its best event to date.",
       "source": "@doginaldogs",
-      "url": "https://x.com/doginaldogs/status/2125969391422447707"
+      "url": "https://x.com/doginaldogs/status/2126330216503193885"
     },
     {
       "tag": "DDLTCG",
-      "title": "Black Friday box check",
-      "summary": "Spade asked how many holders still have Legends TCG boxes left to rip; he is keeping four sealed.",
-      "source": "@Spademeta",
-      "url": "https://x.com/Spademeta/status/2126299970945085477"
+      "title": "Which Legends card makes the trip to Miami?",
+      "summary": "Boo asked holders which single Legends TCG card they would bring to DDMIAMI.",
+      "source": "@BooMetaX",
+      "url": "https://x.com/BooMetaX/status/2126376685029244958"
     },
     {
       "tag": "DDLTCG",
-      "title": "Legends TCG battle: Vee vs Daws",
-      "summary": "Community battle videos keep coming, after Boo vs Bri last night.",
+      "title": "Legends TCG battle: Boo vs Anthem",
+      "summary": "The latest community battle video.",
       "source": "@MetalXMeta",
-      "url": "https://x.com/MetalXMeta/status/2126305230606254360"
+      "url": "https://x.com/MetalXMeta/status/2126478163869946043"
     },
     {
       "tag": "Pyth",
-      "title": "42 new equity feeds this week",
-      "summary": "Pyth now has 61 Chinese equities live, alongside 107 in Hong Kong, 18 in South Korea, 22 in Japan and 1 in India.",
-      "source": "@realpepito",
-      "url": "https://x.com/realpepito/status/2126257214180536360"
+      "title": "More markets on Pyth Pro",
+      "summary": "This week: expanded Chinese equities, more US ETFs, a new diesel Pyth Index, and Brent, WTI and gasoil futures.",
+      "source": "@PythNetwork",
+      "url": "https://x.com/PythNetwork/status/2126395716092244299"
     },
     {
       "tag": "Pyth",
-      "title": "Pyth Pro got wider this week",
-      "summary": "New additions include Taiwan equities, commodity and VIX futures, more Pyth Indices, 24/5 ANT, and more FX and 24/7 crypto feeds.",
-      "source": "@0xNick23",
-      "url": "https://x.com/0xNick23/status/2126246076747309291"
+      "title": "PIRB on Pyth Pro's China equities",
+      "summary": "PIRB highlighted 40+ Chinese equities added to Pyth Pro in one day.",
+      "source": "@thePIRB",
+      "url": "https://x.com/thePIRB/status/2126388882912735468"
     }
   ],
-  "notes": "Quiet holiday stretch: @doginaldogs posted a Thanksgiving message, and @DDLTCG had no original posts in the last 24 hours."
+  "notes": "DDMIAMI countdown is on. @DDLTCG had no original posts in the last 24 hours."
 }
